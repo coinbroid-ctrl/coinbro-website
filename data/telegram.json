@@ -1,0 +1,34 @@
+{
+ "channel": "https://t.me/coinbroid",
+ "feed": "https://t.me/s/coinbroid",
+ "posts": [
+  {
+   "id": 12,
+   "post": "coinbroid/12",
+   "url": "https://t.me/coinbroid/12",
+   "datetime": "2026-11-03T04:35:42+00:00",
+   "preview": "🚨 BREAKING: Bitcoin Turun di Bawah $77.000, Sentimen Pasar Masuk Zona Takut 📉 BTC sempat diperdagangkan di $76.817 (turun sekitar 1,65% dalam 24 jam). Fear & Gr"
+  },
+  {
+   "id": 11,
+   "post": "coinbroid/11",
+   "url": "https://t.me/coinbroid/11",
+   "datetime": "2026-11-03T04:34:19+00:00",
+   "preview": "🚨 BREAKING: Solflare Masuk Status Siaga Keamanan Tinggi 🔒 Co-founder Solflare, Vidor, bilang wallet Solana ini sekarang dalam siaga keamanan tinggi. Akses ke in"
+  },
+  {
+   "id": 10,
+   "post": "coinbroid/10",
+   "url": "https://t.me/coinbroid/10",
+   "datetime": "2026-11-01T05:43:58+00:00",
+   "preview": "🚨 BREAKING: Tekanan Jual BTC Naik 📉 Short-term holder kirim lebih dari 36.600 BTC ke exchange dalam kondisi rugi, dalam 24 jam setelah BTC sentuh $76K (CryptoQu"
+  },
+  {
+   "id": 8,
+   "post": "coinbroid/8",
+   "url": "https://t.me/coinbroid/8",
+   "datetime": "2026-10-23T18:17:38+00:00",
+   "preview": "BREAKING: China orders government agencies to develop plans to combat mass job displacement from AI."
+  }
+ ]
+}

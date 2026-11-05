@@ -1,0 +1,141 @@
+[
+ {
+  "slug": "kenapa-bitcoin-cuma-21-juta",
+  "type": "edu",
+  "category": "edukasi",
+  "title": "Kenapa Bitcoin cuma ada 21 juta?",
+  "summary": "Pasokan Bitcoin dibatasi oleh aturan protokol, bukan oleh satu perusahaan. Ini cara batas 21 juta bekerja.",
+  "published_at": "2026-11-03T12:00:00+08:00",
+  "image": "assets/img/reels/btc21.jpg",
+  "tiktok_id": "7702990255175109909",
+  "tiktok_label": "Bitcoin cuma 21 juta",
+  "key_points": [
+   "Jumlah maksimum Bitcoin yang bisa ada adalah 21 juta koin. Batas ini tertanam di aturan protokol Bitcoin.",
+   "Koin baru lahir sebagai hadiah blok untuk miner. Hadiah itu dipotong separuh setiap 210.000 blok (halving).",
+   "Karena hadiah terus mengecil, penambahan koin makin lambat. Koin terakhir diperkirakan selesai ditambang sekitar tahun 2140."
+  ],
+  "body": [
+   "Bitcoin tidak punya bank sentral yang bisa mencetak uang sesuka hati. Jadwal penerbitan koinnya ditentukan aturan di dalam software jaringan, dan aturan itu membatasi total pasokan di 21 juta BTC.",
+   "Koin baru dibuat lewat hadiah blok (block subsidy) untuk miner yang berhasil menambahkan blok ke blockchain. Hadiah ini mulai dari 50 BTC per blok dan dipotong separuh setiap 210.000 blok, kira-kira tiap empat tahun. Deret pemotongan yang terus mengecil inilah yang membuat total pasokan mendekati, tetapi tidak pernah melewati, 21 juta.",
+   "Artinya sebagian besar Bitcoin sudah beredar, sedangkan sisanya keluar makin pelan. Menurut Bitcoin Wiki, koin terakhir diperkirakan ditambang sekitar tahun 2140."
+  ],
+  "analysis": "Pasokan yang terbatas sering dipakai sebagai argumen bahwa Bitcoin 'langka'. Itu penjelasan tentang desain, bukan jaminan harga naik. Harga tetap ditentukan permintaan dan penawaran di pasar.",
+  "sources": [
+   {
+    "name": "Bitcoin Wiki: Controlled supply",
+    "url": "https://en.bitcoin.it/wiki/Controlled_supply",
+    "deep_link": true
+   },
+   {
+    "name": "Bitcoin whitepaper (bitcoin.org)",
+    "url": "https://bitcoin.org/bitcoin.pdf",
+    "deep_link": true
+   }
+  ]
+ },
+ {
+  "slug": "apa-itu-halving-bitcoin",
+  "type": "edu",
+  "category": "edukasi",
+  "title": "Apa itu halving Bitcoin?",
+  "summary": "Halving memotong hadiah blok Bitcoin separuh setiap 210.000 blok. Ini riwayat dan jadwal berikutnya.",
+  "published_at": "2026-11-03T12:05:00+08:00",
+  "image": null,
+  "key_points": [
+   "Halving adalah pemotongan hadiah blok untuk miner menjadi separuh, terjadi setiap 210.000 blok (sekitar empat tahun).",
+   "Hadiah blok turun dari 50 BTC (2009) ke 25 (2012), 12,5 (2016), 6,25 (2020), dan 3,125 BTC (April 2024).",
+   "Halving berikutnya terjadi di blok 1.050.000 dan menurunkan hadiah ke 1,5625 BTC. Perkiraan waktunya sekitar 2028, bergantung pada kecepatan pembuatan blok."
+  ],
+  "body": [
+   "Setiap kali miner menambahkan satu blok baru, jaringan Bitcoin memberi hadiah berupa koin baru. Besarnya hadiah itu tidak tetap: tiap 210.000 blok, hadiahnya dipotong separuh. Peristiwa ini disebut halving.",
+   "Karena rata-rata satu blok dibuat tiap sekitar 10 menit, 210.000 blok setara kira-kira empat tahun. Halving terakhir terjadi pada April 2024 dan menurunkan hadiah blok menjadi 3,125 BTC. Per November 2026, hadiah itu masih berlaku.",
+   "Halving berikutnya dijadwalkan di blok 1.050.000. Tanggal pastinya tidak bisa dipastikan sekarang karena bergantung pada waktu pembuatan blok, tetapi perkiraannya sekitar 2028."
+  ],
+  "analysis": "Sebagian orang mengaitkan halving dengan kenaikan harga. Hubungan itu hanya pola historis yang ditafsirkan, bukan hukum pasar, dan tidak ada jaminan akan terulang.",
+  "sources": [
+   {
+    "name": "Bitcoin Wiki: Controlled supply",
+    "url": "https://en.bitcoin.it/wiki/Controlled_supply",
+    "deep_link": true
+   },
+   {
+    "name": "Bitcoin whitepaper (bitcoin.org)",
+    "url": "https://bitcoin.org/bitcoin.pdf",
+    "deep_link": true
+   }
+  ]
+ },
+ {
+  "slug": "stablecoin-apa-jenis-dan-risikonya",
+  "type": "edu",
+  "category": "edukasi",
+  "title": "Stablecoin: apa itu, jenisnya, dan risikonya",
+  "summary": "Stablecoin dirancang menjaga nilai stabil, umumnya dipatok ke dolar AS. Stabil bukan berarti bebas risiko.",
+  "published_at": "2026-11-03T12:10:00+08:00",
+  "image": null,
+  "key_points": [
+   "Stablecoin adalah aset kripto yang dirancang mempertahankan nilai tetap, paling umum 1 koin = 1 dolar AS.",
+   "Ada yang didukung cadangan (uang tunai, surat utang), ada yang didukung aset kripto, dan ada yang algoritmik.",
+   "Risiko utamanya: kehilangan patokan (depeg), transparansi cadangan, dan risiko penerbit atau regulasi."
+  ],
+  "body": [
+   "Harga aset kripto biasa bisa naik turun tajam. Stablecoin dibuat untuk mengurangi masalah itu: nilainya dipatok ke aset lain, paling sering dolar AS, supaya bisa dipakai untuk transaksi atau sebagai tempat parkir dana di dalam ekosistem kripto.",
+   "Jenis yang umum: (1) didukung cadangan, di mana penerbit menyimpan uang tunai atau aset likuid sebagai jaminan, seperti Tether (USDT); (2) didukung aset kripto, dengan jaminan berupa kripto lain; (3) algoritmik, yang mengandalkan mekanisme kode tanpa cadangan penuh. TerraUST, stablecoin algoritmik, kehilangan patokannya pada Mei 2022.",
+   "Risikonya: patokan bisa lepas saat pasar panik, cadangan bisa kurang transparan, dan penerbit bisa terkena masalah hukum atau regulasi. Karena itu laporan cadangan penting dibaca, misalnya dalam berita laba Tether Q3 2026 di COIN BRO, dengan catatan bahwa laporan tersebut berupa atestasi dan bukan audit penuh."
+  ],
+  "analysis": "Label 'stabil' menjelaskan tujuan desain, bukan jaminan hasil. Menilai stablecoin berarti menilai siapa penerbitnya dan apa isi cadangannya.",
+  "related": "laba-tether-q3-2026",
+  "sources": [
+   {
+    "name": "Tether.io (rilis resmi Q3 2026)",
+    "url": "https://tether.io",
+    "deep_link": false
+   },
+   {
+    "name": "Bank for International Settlements",
+    "url": "https://www.bis.org",
+    "deep_link": false
+   },
+   {
+    "name": "CoinDesk",
+    "url": "https://www.coindesk.com",
+    "deep_link": false
+   }
+  ]
+ },
+ {
+  "slug": "hot-wallet-vs-cold-wallet",
+  "type": "edu",
+  "category": "edukasi",
+  "title": "Hot wallet vs cold wallet: bedanya apa?",
+  "summary": "Hot wallet terhubung ke internet, cold wallet disimpan offline. Masing-masing punya risiko sendiri.",
+  "published_at": "2026-11-03T12:15:00+08:00",
+  "image": "assets/img/reels/wallet.jpg",
+  "tiktok_id": "7702805606549261588",
+  "tiktok_label": "Hot vs Cold Wallet",
+  "key_points": [
+   "Hot wallet terhubung ke internet (aplikasi, ekstensi browser, akun exchange): praktis, tetapi lebih terbuka terhadap malware dan phishing.",
+   "Cold wallet menyimpan kunci secara offline (misalnya hardware wallet): lebih tahan serangan online.",
+   "Cold wallet tetap berisiko jika seed phrase hilang atau perangkat dibeli dari sumber tidak resmi."
+  ],
+  "body": [
+   "Wallet kripto pada dasarnya menjaga kunci privat yang dipakai untuk mengakses dana. Perbedaan hot dan cold ada pada apakah kunci itu pernah menyentuh perangkat yang online.",
+   "Hot wallet cocok untuk dana kecil yang sering dipakai, karena cepat dan mudah. Konsekuensinya, kuncinya berada di perangkat yang terhubung ke internet, sehingga malware, situs phishing, atau akun yang dibobol bisa menguras dana.",
+   "Cold wallet menyimpan kunci di perangkat yang tidak online, sehingga lebih sulit diserang dari jauh. Tetapi tanggung jawab berpindah ke pemilik: seed phrase harus disimpan offline dan jangan dibagikan ke siapa pun. Beli perangkat hanya dari toko resmi produsen, seperti kasus Trezor Safe 5 di Tokopedia yang dibahas COIN BRO."
+  ],
+  "analysis": null,
+  "related": "trezor-safe-5-tokopedia-diduga-disadap",
+  "sources": [
+   {
+    "name": "Trezor",
+    "url": "https://trezor.io",
+    "deep_link": false
+   },
+   {
+    "name": "Bitcoin.org: Secure your wallet",
+    "url": "https://bitcoin.org/en/secure-your-wallet",
+    "deep_link": true
+   }
+  ]
+ }
+]

@@ -1,0 +1,142 @@
+{
+ "version": "https://jsonfeed.org/version/1.1",
+ "title": "COIN BRO",
+ "home_page_url": "https://coinbro.id/",
+ "feed_url": "https://coinbro.id/feed.json",
+ "language": "id",
+ "description": "CRYPTO. FINANCE. THE FUTURE. Berita crypto terverifikasi.",
+ "items": [
+  {
+   "id": "https://coinbro.id/edukasi/hot-wallet-vs-cold-wallet.html",
+   "url": "https://coinbro.id/edukasi/hot-wallet-vs-cold-wallet.html",
+   "title": "Hot wallet vs cold wallet: bedanya apa?",
+   "summary": "Hot wallet terhubung ke internet, cold wallet disimpan offline. Masing-masing punya risiko sendiri.",
+   "date_published": "2026-11-03T12:15:00+08:00",
+   "tags": [
+    "Edukasi"
+   ],
+   "content_text": "Hot wallet terhubung ke internet (aplikasi, ekstensi browser, akun exchange): praktis, tetapi lebih terbuka terhadap malware dan phishing.\n\nCold wallet menyimpan kunci secara offline (misalnya hardware wallet): lebih tahan serangan online.\n\nCold wallet tetap berisiko jika seed phrase hilang atau perangkat dibeli dari sumber tidak resmi.\n\nWallet kripto pada dasarnya menjaga kunci privat yang dipakai untuk mengakses dana. Perbedaan hot dan cold ada pada apakah kunci itu pernah menyentuh perangkat yang online.\n\nHot wallet cocok untuk dana kecil yang sering dipakai, karena cepat dan mudah. Konsekuensinya, kuncinya berada di perangkat yang terhubung ke internet, sehingga malware, situs phishing, atau akun yang dibobol bisa menguras dana.\n\nCold wallet menyimpan kunci di perangkat yang tidak online, sehingga lebih sulit diserang dari jauh. Tetapi tanggung jawab berpindah ke pemilik: seed phrase harus disimpan offline dan jangan dibagikan ke siapa pun. Beli perangkat hanya dari toko resmi produsen, seperti kasus Trezor Safe 5 di Tokopedia yang dibahas COIN BRO.\n\nSumber: Trezor, Bitcoin.org: Secure your wallet\n\nBukan saran finansial."
+  },
+  {
+   "id": "https://coinbro.id/edukasi/stablecoin-apa-jenis-dan-risikonya.html",
+   "url": "https://coinbro.id/edukasi/stablecoin-apa-jenis-dan-risikonya.html",
+   "title": "Stablecoin: apa itu, jenisnya, dan risikonya",
+   "summary": "Stablecoin dirancang menjaga nilai stabil, umumnya dipatok ke dolar AS. Stabil bukan berarti bebas risiko.",
+   "date_published": "2026-11-03T12:10:00+08:00",
+   "tags": [
+    "Edukasi"
+   ],
+   "content_text": "Stablecoin adalah aset kripto yang dirancang mempertahankan nilai tetap, paling umum 1 koin = 1 dolar AS.\n\nAda yang didukung cadangan (uang tunai, surat utang), ada yang didukung aset kripto, dan ada yang algoritmik.\n\nRisiko utamanya: kehilangan patokan (depeg), transparansi cadangan, dan risiko penerbit atau regulasi.\n\nHarga aset kripto biasa bisa naik turun tajam. Stablecoin dibuat untuk mengurangi masalah itu: nilainya dipatok ke aset lain, paling sering dolar AS, supaya bisa dipakai untuk transaksi atau sebagai tempat parkir dana di dalam ekosistem kripto.\n\nJenis yang umum: (1) didukung cadangan, di mana penerbit menyimpan uang tunai atau aset likuid sebagai jaminan, seperti Tether (USDT); (2) didukung aset kripto, dengan jaminan berupa kripto lain; (3) algoritmik, yang mengandalkan mekanisme kode tanpa cadangan penuh. TerraUST, stablecoin algoritmik, kehilangan patokannya pada Mei 2022.\n\nRisikonya: patokan bisa lepas saat pasar panik, cadangan bisa kurang transparan, dan penerbit bisa terkena masalah hukum atau regulasi. Karena itu laporan cadangan penting dibaca, misalnya dalam berita laba Tether Q3 2026 di COIN BRO, dengan catatan bahwa laporan tersebut berupa atestasi dan bukan audit penuh.\n\nSumber: Tether.io (rilis resmi Q3 2026), Bank for International Settlements, CoinDesk\n\nBukan saran finansial."
+  },
+  {
+   "id": "https://coinbro.id/edukasi/apa-itu-halving-bitcoin.html",
+   "url": "https://coinbro.id/edukasi/apa-itu-halving-bitcoin.html",
+   "title": "Apa itu halving Bitcoin?",
+   "summary": "Halving memotong hadiah blok Bitcoin separuh setiap 210.000 blok. Ini riwayat dan jadwal berikutnya.",
+   "date_published": "2026-11-03T12:05:00+08:00",
+   "tags": [
+    "Edukasi"
+   ],
+   "content_text": "Halving adalah pemotongan hadiah blok untuk miner menjadi separuh, terjadi setiap 210.000 blok (sekitar empat tahun).\n\nHadiah blok turun dari 50 BTC (2009) ke 25 (2012), 12,5 (2016), 6,25 (2020), dan 3,125 BTC (April 2024).\n\nHalving berikutnya terjadi di blok 1.050.000 dan menurunkan hadiah ke 1,5625 BTC. Perkiraan waktunya sekitar 2028, bergantung pada kecepatan pembuatan blok.\n\nSetiap kali miner menambahkan satu blok baru, jaringan Bitcoin memberi hadiah berupa koin baru. Besarnya hadiah itu tidak tetap: tiap 210.000 blok, hadiahnya dipotong separuh. Peristiwa ini disebut halving.\n\nKarena rata-rata satu blok dibuat tiap sekitar 10 menit, 210.000 blok setara kira-kira empat tahun. Halving terakhir terjadi pada April 2024 dan menurunkan hadiah blok menjadi 3,125 BTC. Per November 2026, hadiah itu masih berlaku.\n\nHalving berikutnya dijadwalkan di blok 1.050.000. Tanggal pastinya tidak bisa dipastikan sekarang karena bergantung pada waktu pembuatan blok, tetapi perkiraannya sekitar 2028.\n\nSumber: Bitcoin Wiki: Controlled supply, Bitcoin whitepaper (bitcoin.org)\n\nBukan saran finansial."
+  },
+  {
+   "id": "https://coinbro.id/edukasi/kenapa-bitcoin-cuma-21-juta.html",
+   "url": "https://coinbro.id/edukasi/kenapa-bitcoin-cuma-21-juta.html",
+   "title": "Kenapa Bitcoin cuma ada 21 juta?",
+   "summary": "Pasokan Bitcoin dibatasi oleh aturan protokol, bukan oleh satu perusahaan. Ini cara batas 21 juta bekerja.",
+   "date_published": "2026-11-03T12:00:00+08:00",
+   "tags": [
+    "Edukasi"
+   ],
+   "content_text": "Jumlah maksimum Bitcoin yang bisa ada adalah 21 juta koin. Batas ini tertanam di aturan protokol Bitcoin.\n\nKoin baru lahir sebagai hadiah blok untuk miner. Hadiah itu dipotong separuh setiap 210.000 blok (halving).\n\nKarena hadiah terus mengecil, penambahan koin makin lambat. Koin terakhir diperkirakan selesai ditambang sekitar tahun 2140.\n\nBitcoin tidak punya bank sentral yang bisa mencetak uang sesuka hati. Jadwal penerbitan koinnya ditentukan aturan di dalam software jaringan, dan aturan itu membatasi total pasokan di 21 juta BTC.\n\nKoin baru dibuat lewat hadiah blok (block subsidy) untuk miner yang berhasil menambahkan blok ke blockchain. Hadiah ini mulai dari 50 BTC per blok dan dipotong separuh setiap 210.000 blok, kira-kira tiap empat tahun. Deret pemotongan yang terus mengecil inilah yang membuat total pasokan mendekati, tetapi tidak pernah melewati, 21 juta.\n\nArtinya sebagian besar Bitcoin sudah beredar, sedangkan sisanya keluar makin pelan. Menurut Bitcoin Wiki, koin terakhir diperkirakan ditambang sekitar tahun 2140.\n\nSumber: Bitcoin Wiki: Controlled supply, Bitcoin whitepaper (bitcoin.org)\n\nBukan saran finansial."
+  },
+  {
+   "id": "https://coinbro.id/berita/tekanan-jual-btc-short-term-holder.html",
+   "url": "https://coinbro.id/berita/tekanan-jual-btc-short-term-holder.html",
+   "title": "Tekanan jual BTC naik: short-term holder kirim 36.600 BTC ke exchange dalam kondisi rugi",
+   "summary": "Menurut CryptoQuant (analis Darkfost), lebih dari 36.600 BTC dikirim ke exchange dalam 24 jam setelah BTC menyentuh US$76K.",
+   "date_published": "2026-11-01T13:42:50+08:00",
+   "tags": [
+    "Bitcoin"
+   ],
+   "content_text": "Short-term holder mengirim lebih dari 36.600 BTC ke exchange dalam kondisi rugi, dalam 24 jam setelah BTC sentuh US$76K (CryptoQuant, analis Darkfost).\n\nInflow 7 hari mereka ke Binance tembus 45.400 BTC, tertinggi di bulan Oktober.\n\nMike McGlone (Bloomberg Intelligence): jika BTC jatuh di bawah US$80.000, itu bisa jadi tanda crypto melemah dibanding obligasi pemerintah AS. Ini opini satu analis.\n\nShort-term holder mengirim lebih dari 36.600 BTC ke exchange dalam kondisi rugi, dalam 24 jam setelah BTC menyentuh US$76K (CryptoQuant, analis Darkfost). Inflow 7 hari mereka ke Binance tembus 45.400 BTC, tertinggi di bulan Oktober.\n\nMike McGlone (Bloomberg Intelligence) mengatakan, kalau BTC jatuh di bawah US$80.000, itu bisa jadi tanda crypto melemah dibanding obligasi pemerintah AS. Ini opini satu analis.\n\nSumber: CryptoQuant (analis Darkfost)\n\nBukan saran finansial."
+  },
+  {
+   "id": "https://coinbro.id/berita/coinbase-untung-us719-juta-saham-anjlok.html",
+   "url": "https://coinbro.id/berita/coinbase-untung-us719-juta-saham-anjlok.html",
+   "title": "Coinbase untung US$719 juta di Q3 2026, tapi sahamnya sempat anjlok lebih dari 13%",
+   "summary": "Laba bersih naik, tetapi pendapatan total turun 35% dan pendapatan transaksi anjlok sekitar 44%.",
+   "date_published": "2026-11-01T13:11:16+08:00",
+   "tags": [
+    "ETF & Makro"
+   ],
+   "content_text": "Laba bersih Q3 2026 naik jadi US$718,7 juta (Q3 2025: US$432,6 juta).\n\nTotal pendapatan turun 35% jadi US$1,22 miliar; pendapatan transaksi, yang mayoritas dari biaya trading, anjlok sekitar 44% ke US$590 juta.\n\nLaba banyak terbantu kenaikan nilai aset kripto yang dipegang untuk investasi (sekitar US$715 juta); laba operasional sekitar US$62 juta.\n\nPendapatan stablecoin sekitar US$307 juta. Di saat yang sama, Bitcoin sempat turun ke sekitar US$77 ribu.\n\nCoinbase untung US$719 juta di Q3 2026, tapi sahamnya malah sempat anjlok lebih dari 13%.\n\nLaba bersih Coinbase di kuartal III 2026 naik jadi US$718,7 juta (Q3 2025: US$432,6 juta). Tapi total pendapatannya turun 35% jadi US$1,22 miliar, dan pendapatan transaksi, yang mayoritas dari biaya trading, anjlok sekitar 44% ke US$590 juta.\n\nLabanya banyak terbantu kenaikan nilai aset kripto yang mereka pegang untuk investasi, sekitar US$715 juta. Laba operasionalnya cuma sekitar US$62 juta. Yang lumayan menahan: pendapatan stablecoin sekitar US$307 juta. Di saat yang sama, Bitcoin sempat turun ke sekitar US$77 ribu.\n\nSumber: Laporan 10-Q Coinbase ke SEC (Q3 2026), Reuters, CNBC, Yahoo Finance\n\nBukan saran finansial."
+  },
+  {
+   "id": "https://coinbro.id/berita/laba-tether-q3-2026.html",
+   "url": "https://coinbro.id/berita/laba-tether-q3-2026.html",
+   "title": "Tether cetak laba US$1,5 miliar di Q3 2026, cadangan lebih naik hampir dua kali lipat",
+   "summary": "Laporan Q3 2026 yang diatestasi BDO menunjukkan laba operasional bersih Tether US$1,5 miliar dan cadangan lebih US$7,95 miliar.",
+   "date_published": "2026-11-01T11:04:03+08:00",
+   "tags": [
+    "ETF & Makro"
+   ],
+   "content_text": "Menurut laporan Q3 2026 yang dirilis Tether pada 30 Oktober dan diatestasi BDO, laba operasional bersih Q3 US$1,5 miliar, sama dengan kuartal sebelumnya.\n\nJanuari–September 2026: total laba operasional bersih US$4,5 miliar, terutama dari bunga T-bill AS dan reverse repo.\n\nPer 30 September 2026: total aset US$191,5 miliar, total kewajiban US$183,5 miliar. Cadangan lebih naik ke US$7,95 miliar dari US$4,1 miliar di akhir Q2.\n\nIsi cadangan antara lain T-bill AS (langsung dan tidak langsung) US$132,4 miliar, emas fisik US$19,08 miliar, dan Bitcoin US$8,37 miliar.\n\nTether, penerbit stablecoin USDT, mencetak laba operasional bersih US$1,5 miliar di kuartal ketiga 2026, dan cadangan lebihnya naik hampir dua kali lipat.\n\nMenurut laporan Q3 2026 yang dirilis Tether pada 30 Oktober dan diatestasi kantor akuntan BDO, laba Q3 sama dengan kuartal sebelumnya. Sepanjang Januari–September 2026, total laba operasional bersih Tether mencapai US$4,5 miliar. Sumber utamanya adalah bunga T-bill (surat utang jangka pendek) AS dan reverse repo.\n\nCadangan lebih nyaris 2x lipat: per 30 September 2026, total aset Tether US$191,5 miliar, sedangkan total kewajibannya US$183,5 miliar. Selisihnya, atau cadangan lebih, naik ke US$7,95 miliar dari US$4,1 miliar di akhir Q2. Isinya antara lain T-bill AS (langsung dan tidak langsung) US$132,4 miliar, emas fisik US$19,08 miliar, dan Bitcoin US$8,37 miliar.\n\nSekelas negara: Cointelegraph mencatat eksposur T-bill AS Tether mendekati kepemilikan surat utang AS milik Korea Selatan (US$134,2 miliar, data Treasury AS per Agustus).\n\nSumber: Tether.io (rilis resmi Q3 2026), Cointelegraph, Crypto Briefing, Securities.io\n\nBukan saran finansial."
+  },
+  {
+   "id": "https://coinbro.id/berita/rusia-buka-trading-bitcoin-di-bursa-resmi.html",
+   "url": "https://coinbro.id/berita/rusia-buka-trading-bitcoin-di-bursa-resmi.html",
+   "title": "Rusia buka trading Bitcoin di bursa resmi mulai 1 Desember",
+   "summary": "Moscow Exchange berencana membuka perdagangan Bitcoin, Ethereum, dan USDT mulai 1 Desember 2026.",
+   "date_published": "2026-11-01T05:00:07+08:00",
+   "tags": [
+    "Regulasi"
+   ],
+   "content_text": "Moscow Exchange berencana membuka perdagangan Bitcoin, Ethereum, dan USDT mulai 1 Desember 2026, disampaikan Boris Blokhin (senior managing director) pada 31 Oktober 2026.\n\nPerdagangan berjalan di infrastruktur pasar saham, dari pagi hingga tengah malam waktu Moskow; sejumlah klien disebut sudah uji coba.\n\nInvestor ritel dibatasi maksimal 300.000 rubel per tahun untuk setiap perantara; investor kualifikasi tidak dibatasi. Keduanya wajib lulus tes.\n\nCrypto tetap dilarang untuk pembayaran domestik di Rusia; mulai 1 Juli 2027 transaksi P2P tanpa perantara juga dilarang.\n\nMoscow Exchange, bursa terbesar Rusia, berencana membuka perdagangan Bitcoin, Ethereum, dan USDT mulai 1 Desember 2026. Rencana ini disampaikan Boris Blokhin, senior managing director Moscow Exchange, pada 31 Oktober 2026, seperti dilaporkan RIA Novosti, Vedomosti, dan NTV.\n\nApa yang direncanakan? Tiga aset awal: Bitcoin, Ethereum, dan USDT. Perdagangan berjalan di infrastruktur pasar saham, dengan jam trading dari pagi hingga tengah malam waktu Moskow. Pencatatan dan penyimpanan aset dilakukan lewat depositori digital mitra. Sejumlah klien disebut sudah aktif melakukan uji coba.\n\nSiapa yang boleh membeli? Investor ritel dibatasi maksimal 300.000 rubel per tahun untuk setiap perantara, sedangkan investor kualifikasi tidak dibatasi. Keduanya wajib lulus tes lebih dulu. Crypto tetap dilarang untuk pembayaran domestik di Rusia, dan mulai 1 Juli 2027 transaksi P2P tanpa perantara juga akan dilarang.\n\nDari wacana larangan ke bursa resmi: pada 2022, bank sentral Rusia sempat mengusulkan larangan crypto. Kini, UU mata uang digital yang berlaku sejak 1 September 2026 membuka akses crypto lewat broker dan perantara resmi.\n\nSumber: Vedomosti, NTV, Vesti / RIA Novosti, TASS, Crypto Briefing\n\nBukan saran finansial."
+  },
+  {
+   "id": "https://coinbro.id/berita/whitepaper-bitcoin-18-tahun.html",
+   "url": "https://coinbro.id/berita/whitepaper-bitcoin-18-tahun.html",
+   "title": "Whitepaper Bitcoin genap 18 tahun hari ini",
+   "summary": "Pada 31 Oktober 2008, Satoshi Nakamoto mengumumkan paper sembilan halaman tentang uang elektronik peer-to-peer.",
+   "date_published": "2026-10-31T21:05:16+08:00",
+   "tags": [
+    "Bitcoin"
+   ],
+   "content_text": "31 Oktober 2008: paper \"Bitcoin: A Peer-to-Peer Electronic Cash System\" diumumkan lewat milis kriptografi. Jaringan baru berjalan 3 Januari 2009.\n\nJanuari 2024: ETF Bitcoin spot di AS disetujui.\n\nPer 31 Oktober 2026 Bitcoin diperdagangkan sekitar US$77.400 dengan nilai pasar sekitar US$1,55 triliun.\n\nPasokan dibatasi 21 juta koin; lebih dari 95% sudah ditambang.\n\nHari ini, 31 Oktober 2026, tepat 18 tahun sejak Satoshi Nakamoto mengumumkan paper sembilan halaman berjudul \"Bitcoin: A Peer-to-Peer Electronic Cash System\" lewat milis kriptografi pada 31 Oktober 2008. Jaringan Bitcoin sendiri baru berjalan pada 3 Januari 2009.\n\nApa isi paper-nya? Satoshi mengusulkan uang elektronik peer-to-peer yang memungkinkan pembayaran dikirim langsung dari satu pihak ke pihak lain, tanpa lewat lembaga keuangan. Transaksi disiarkan ke jaringan dan dicatat dalam rantai blok yang diamankan proof-of-work, sehingga tidak perlu pihak ketiga tepercaya untuk mencegah double-spending.\n\nDari 2008 ke 2026: paper diumumkan 31 Oktober 2008; blok pertama ditambang 3 Januari 2009; ETF Bitcoin spot di AS disetujui Januari 2024. Hari ini, Bitcoin diperdagangkan sekitar US$77.400 dengan nilai pasar sekitar US$1,55 triliun. Pasokannya dibatasi 21 juta koin dan lebih dari 95% sudah ditambang.\n\nMomen yang pas untuk bicara kustodi: peringatan ulang tahun ini muncul beberapa hari setelah Binance melaporkan hack sekitar US$6,3 miliar dari hot wallet. Binance menyatakan dana pengguna aman dan menyiapkan lebih dari US$6,34 miliar untuk menutup kerugian.\n\nSumber: Watcher.Guru, crypto.news, CoinDesk, KuCoin, bitcoin.org (whitepaper)\n\nBukan saran finansial."
+  },
+  {
+   "id": "https://coinbro.id/berita/trezor-safe-5-tokopedia-diduga-disadap.html",
+   "url": "https://coinbro.id/berita/trezor-safe-5-tokopedia-diduga-disadap.html",
+   "title": "Trezor Safe 5 dari Tokopedia diduga dipasangi alat penyadap",
+   "summary": "Trezor menilai laporan implan perangkat keras pada Trezor Safe 5 dari seorang pembeli di Indonesia kredibel, namun belum memeriksa perangkatnya di lab.",
+   "date_published": "2026-10-31T11:08:39+08:00",
+   "tags": [
+    "Keamanan / Hack"
+   ],
+   "content_text": "Perangkat dibeli Agustus 2026 dari CryptoBilis lewat Tokopedia. CryptoBilis sebelumnya reseller resmi Trezor di Asia Tenggara, diputus pada 9 Oktober 2026.\n\nTrezor belum memeriksa perangkat di lab, tetapi menilai laporan kredibel berdasarkan deskripsi, foto, dan wawancara video. Belum ada laporan dana hilang.\n\nMenurut laporan, ada papan sirkuit tambahan antara mainboard dan layar, lengkap dengan modul seluler dan antena; diduga membaca isi layar (termasuk recovery phrase) dan mengirimnya lewat jaringan seluler.\n\nLedger mengonfirmasi sebagian perangkatnya yang dijual CryptoBilis dimodifikasi fisik. Polisi Singapura (28 Oktober) mencatat minimal 2 kasus Ledger yang dimodifikasi, total kerugian sekitar S$3,5 juta.\n\nTrezor menerima laporan dari seorang pembeli di Indonesia soal Trezor Safe 5 yang diduga dipasangi implan perangkat keras. Perangkat itu dibeli pada Agustus 2026 dari CryptoBilis lewat Tokopedia. CryptoBilis sebelumnya adalah reseller resmi Trezor di Asia Tenggara, tapi sudah diputus pada 9 Oktober 2026.\n\nTrezor belum memeriksa perangkat tersebut di lab, tapi menilai laporan ini kredibel berdasarkan deskripsi, foto, dan wawancara video dengan pelapor. Sejauh ini belum ada laporan dana hilang, karena pelapor sudah memindahkan dananya sebelum menemukan implan.\n\nBagaimana cara kerjanya? Menurut laporan, ada papan sirkuit tambahan di antara mainboard dan layar, lengkap dengan modul seluler dan antena. Implan ini diduga membaca isi layar, termasuk recovery phrase, lalu mengirimnya lewat jaringan seluler setiap kali perangkat dicolok.\n\nBukan kasus pertama: Ledger sudah mengonfirmasi bahwa sebagian perangkatnya yang dijual CryptoBilis dimodifikasi secara fisik. Polisi Singapura (28 Oktober) juga mencatat minimal 2 kasus Ledger yang dimodifikasi, dengan total kerugian sekitar S$3,5 juta.\n\nSumber: Trezor, Decrypt, Cointelegraph, CoinDesk\n\nBukan saran finansial."
+  },
+  {
+   "id": "https://coinbro.id/berita/taruhan-us1-juta-calacanis-vs-cardone.html",
+   "url": "https://coinbro.id/berita/taruhan-us1-juta-calacanis-vs-cardone.html",
+   "title": "\"Bitcoin tidak akan pernah tembus rekor lagi\" — lalu ada yang taruhan US$1 juta",
+   "summary": "Grant Cardone menantang pernyataan Jason Calacanis dengan taruhan US$1 juta; belum ada kesepakatan yang didanai.",
+   "date_published": "2026-10-30T19:02:32+08:00",
+   "tags": [
+    "Bitcoin"
+   ],
+   "content_text": "27 Okt 2026: Jason Calacanis bilang Bitcoin bisa kembali ke sekitar US$57.000 dalam 12 bulan dan \"tidak akan pernah\" tembus rekor tertingginya lagi.\n\nSehari kemudian Grant Cardone menantang dengan taruhan US$1 juta: BTC menyentuh US$126.210,50 paling lambat 28 Okt 2028 pukul 12.00 PST.\n\nFred Krueger (tenggat 2036) dan Terence Michael juga menawarkan masing-masing US$1 juta; total tawaran US$3 juta.\n\nBelum diterima: menurut laporan media, Calacanis baru bertanya soal layanan escrow dan menyebut tenggat 10 tahun terlalu lama.\n\nPada 27 Okt 2026, Jason Calacanis (investor awal Uber & co-host podcast All-In) bilang Bitcoin bisa kembali ke sekitar US$57.000 dalam 12 bulan dan \"tidak akan pernah\" tembus rekor tertingginya lagi. Sehari kemudian, Grant Cardone langsung menantang dengan taruhan US$1 juta.\n\nSyarat taruhan Cardone: BTC menyentuh (hit or exceed) US$126.210,50 paling lambat 28 Okt 2028 pukul 12.00 PST. Bisa dipercayakan langsung atau lewat escrow pihak ketiga.\n\nPenantang lain ikut masuk: Fred Krueger (tenggat 2036) dan Terence Michael juga menawarkan masing-masing US$1 juta. Total tawaran taruhan: US$3 juta.\n\nSudah diterima? Belum. Menurut laporan media, Calacanis baru bertanya soal layanan escrow dan menyebut tenggat 10 tahun terlalu lama. Belum ada kesepakatan yang didanai.\n\nSelisih harganya: BTC sekitar US$78.000, sekitar 38% di bawah rekor. Agar taruhan Cardone menang, BTC perlu naik sekitar 62%.\n\nSumber: Benzinga, TheStreet, CCN, BeInCrypto\n\nBukan saran finansial."
+  },
+  {
+   "id": "https://coinbro.id/berita/binance-diretas-6-3-miliar.html",
+   "url": "https://coinbro.id/berita/binance-diretas-6-3-miliar.html",
+   "title": "Binance dibobol ±US$6,3 miliar: hack crypto terbesar sepanjang sejarah?",
+   "summary": "Menurut TRM Labs, Binance jadi korban serangan senilai sekitar US$6,3 miliar di 10 blockchain, sebagian besar dana tersedot dalam ±20 menit.",
+   "date_published": "2026-10-30T14:22:03+08:00",
+   "tags": [
+    "Keamanan / Hack"
+   ],
+   "content_text": "Menurut TRM Labs, nilai curian sekitar US$6,3 miliar di 10 blockchain; sebagian besar disedot dalam ±20 menit mulai sekitar pukul 04.05 WITA, 30 Oktober 2026.\n\nAngkanya sekitar 4x lebih besar dari hack Bybit (±US$1,5 miliar, Februari 2025).\n\nBinance menyatakan laptop seorang DevOps engineer disusupi lalu dipakai mengakses service container yang memungkinkan penarikan tak sah; tidak ada bukti private key wallet bocor.\n\nTRM Labs (tingkat keyakinan tinggi) dan Chainalysis menunjuk grup TraderTraitor yang berafiliasi dengan Korea Utara. Binance sendiri belum menyebut pelaku.\n\nBinance mengklaim ±US$3 miliar dibekukan; hitungan TRM sekitar US$2,7 miliar, dengan ±US$2,4 miliar masih dipegang pelaku.\n\nMenurut TRM Labs, Binance menjadi korban serangan dengan nilai curian sekitar US$6,3 miliar di 10 blockchain. Sebagian besar dana disedot dalam ±20 menit, mulai sekitar pukul 04.05 WITA pada 30 Oktober 2026. Angkanya sekitar 4x lebih besar dari hack Bybit (±US$1,5 miliar, Februari 2025).\n\nBagaimana bisa terjadi? Binance menyatakan laptop seorang DevOps engineer disusupi, lalu dipakai untuk mengakses service container yang memungkinkan penarikan tak sah. Binance bilang tidak ada bukti private key wallet bocor.\n\nSiapa pelakunya? TRM Labs (tingkat keyakinan tinggi) dan Chainalysis menunjuk grup TraderTraitor yang berafiliasi dengan Korea Utara, grup yang sama dengan hack Bybit menurut FBI. Binance sendiri belum menyebut pelaku.\n\nSoal dana yang dibekukan: Binance mengklaim ±US$3 miliar sudah dibekukan. Hitungan TRM sekitar US$2,7 miliar, tetapi ±US$2,4 miliar masih dipegang pelaku.\n\nDampaknya: Binance berjanji mengganti semua kerugian lewat dana SAFU dan dana perusahaan, dan menyatakan dana pengguna aman. Penarikan diperkirakan dibuka lagi dalam ≤48 jam. Di pasar, BTC sempat turun lebih dari 4% ke sekitar US$78.000.\n\nSumber: Binance, TRM Labs, CNBC, BBC\n\nBukan saran finansial."
+  }
+ ]
+}
