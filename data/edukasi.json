@@ -33,7 +33,22 @@
    }
   ],
   "image_alt": "Koin Bitcoin fisik Casascius",
-  "image_credits": "Foto: koin Casascius (Steve Jurvetson, CC BY 2.0, Wikimedia Commons)."
+  "image_credits": "Foto: koin Casascius (Steve Jurvetson, CC BY 2.0, Wikimedia Commons).",
+  "title_en": "Why will there only ever be 21 million Bitcoin?",
+  "summary_en": "Bitcoin's supply is capped by protocol rules, not by a single company. Here is how the 21 million cap works.",
+  "key_points_en": [
+   "The maximum number of Bitcoin that can exist is 21 million coins. The cap is built into Bitcoin's protocol rules.",
+   "New coins are created as block rewards for miners. The reward is cut in half every 210,000 blocks (the halving).",
+   "Because the reward keeps shrinking, new coins arrive more and more slowly. The last coin is expected to be mined around 2140."
+  ],
+  "body_en": [
+   "Bitcoin has no central bank that can print money at will. Its issuance schedule is set by rules in the network software, and those rules cap total supply at 21 million BTC.",
+   "New coins are created through the block reward (block subsidy) for miners who successfully add a block to the blockchain. The reward started at 50 BTC per block and is cut in half every 210,000 blocks, roughly every four years. This ever-shrinking series is what makes total supply approach, but never exceed, 21 million.",
+   "This means most Bitcoin is already in circulation, while the rest is released more and more slowly. According to the Bitcoin Wiki, the last coin is expected to be mined around 2140."
+  ],
+  "analysis_en": "Limited supply is often used to argue that Bitcoin is 'scarce'. That explains the design, not a guarantee that the price will rise. The price is still set by supply and demand in the market.",
+  "image_alt_en": "Physical Casascius Bitcoin coin",
+  "image_credits_en": "Photo: Casascius coin (Steve Jurvetson, CC BY 2.0, Wikimedia Commons)."
  },
  {
   "slug": "apa-itu-halving-bitcoin",
@@ -67,7 +82,22 @@
    }
   ],
   "image_alt": "Deretan mesin mining Bitcoin",
-  "image_credits": "Foto: Bitcoin mining farm (Marko Ahtisaari, CC BY 2.0, Wikimedia Commons)."
+  "image_credits": "Foto: Bitcoin mining farm (Marko Ahtisaari, CC BY 2.0, Wikimedia Commons).",
+  "title_en": "What is the Bitcoin halving?",
+  "summary_en": "The halving cuts Bitcoin's block reward in half every 210,000 blocks. Here is its history and the next date.",
+  "key_points_en": [
+   "The halving cuts the miners' block reward in half and happens every 210,000 blocks (about four years).",
+   "The block reward fell from 50 BTC (2009) to 25 (2012), 12.5 (2016), 6.25 (2020), and 3.125 BTC (April 2024).",
+   "The next halving happens at block 1,050,000 and cuts the reward to 1.5625 BTC. It is expected around 2028, depending on how fast blocks are produced."
+  ],
+  "body_en": [
+   "Every time a miner adds a new block, the Bitcoin network pays a reward in new coins. The size of that reward is not fixed: every 210,000 blocks it is cut in half. This event is called the halving.",
+   "Because a block is produced on average about every 10 minutes, 210,000 blocks is roughly four years. The last halving took place in April 2024 and cut the block reward to 3.125 BTC. As of November 2026, that reward still applies.",
+   "The next halving is scheduled at block 1,050,000. The exact date cannot be known yet because it depends on block times, but it is expected around 2028."
+  ],
+  "analysis_en": "Some people link the halving to price increases. That link is only an interpreted historical pattern, not a market law, and there is no guarantee it will repeat.",
+  "image_alt_en": "Rows of Bitcoin mining machines",
+  "image_credits_en": "Photo: Bitcoin mining farm (Marko Ahtisaari, CC BY 2.0, Wikimedia Commons)."
  },
  {
   "slug": "stablecoin-apa-jenis-dan-risikonya",
@@ -107,7 +137,22 @@
    }
   ],
   "image_alt": "Uang kertas 100 dolar AS",
-  "image_credits": "Foto: uang kertas 100 dolar AS (Revisorweb, domain publik, Wikimedia Commons)."
+  "image_credits": "Foto: uang kertas 100 dolar AS (Revisorweb, domain publik, Wikimedia Commons).",
+  "title_en": "Stablecoins: what they are, the types, and the risks",
+  "summary_en": "Stablecoins are designed to keep a stable value, usually pegged to the US dollar. Stable does not mean risk-free.",
+  "key_points_en": [
+   "A stablecoin is a crypto asset designed to keep a fixed value, most commonly 1 coin = 1 US dollar.",
+   "Some are backed by reserves (cash, government debt), some by crypto assets, and some are algorithmic.",
+   "The main risks: losing the peg (depeg), reserve transparency, and issuer or regulatory risk."
+  ],
+  "body_en": [
+   "Ordinary crypto prices can swing sharply. Stablecoins are designed to reduce that problem: their value is pegged to another asset, most often the US dollar, so they can be used for transactions or as a place to park funds inside the crypto ecosystem.",
+   "Common types: (1) reserve-backed, where the issuer holds cash or liquid assets as collateral, such as Tether (USDT); (2) crypto-backed, with other crypto as collateral; (3) algorithmic, relying on code mechanisms without full reserves. TerraUST, an algorithmic stablecoin, lost its peg in May 2022.",
+   "The risks: the peg can break when markets panic, reserves can lack transparency, and the issuer can face legal or regulatory trouble. That is why reserve reports are worth reading, for example in COIN BRO's story on Tether's Q3 2026 profit, keeping in mind that the report is an attestation and not a full audit."
+  ],
+  "analysis_en": "The 'stable' label describes the design goal, not a guaranteed outcome. Judging a stablecoin means judging who issues it and what its reserves hold.",
+  "image_alt_en": "US 100-dollar bill",
+  "image_credits_en": "Photo: US 100-dollar bill (Revisorweb, public domain, Wikimedia Commons)."
  },
  {
   "slug": "hot-wallet-vs-cold-wallet",
@@ -144,6 +189,20 @@
    }
   ],
   "image_alt": "Hardware wallet Ledger Nano S",
-  "image_credits": "Foto: Ledger Nano S (Motokoka, CC BY-SA 4.0, Wikimedia Commons)."
+  "image_credits": "Foto: Ledger Nano S (Motokoka, CC BY-SA 4.0, Wikimedia Commons).",
+  "title_en": "Hot wallet vs cold wallet: what's the difference?",
+  "summary_en": "A hot wallet is connected to the internet, a cold wallet is kept offline. Each has its own risks.",
+  "key_points_en": [
+   "A hot wallet is connected to the internet (apps, browser extensions, exchange accounts): convenient, but more exposed to malware and phishing.",
+   "A cold wallet keeps keys offline (for example a hardware wallet): more resistant to online attacks.",
+   "A cold wallet is still at risk if the seed phrase is lost or the device was bought from an unofficial source."
+  ],
+  "body_en": [
+   "A crypto wallet basically guards the private keys used to access funds. The difference between hot and cold is whether those keys ever touch an online device.",
+   "A hot wallet suits small amounts used often, because it is fast and easy. The trade-off is that the keys sit on an internet-connected device, so malware, phishing sites or a hacked account can drain the funds.",
+   "A cold wallet keeps keys on a device that is not online, making remote attacks harder. But responsibility shifts to the owner: the seed phrase must be stored offline and never shared with anyone. Only buy devices from the manufacturer's official store, as shown by the Trezor Safe 5 case on Tokopedia covered by COIN BRO."
+  ],
+  "image_alt_en": "Ledger Nano S hardware wallet",
+  "image_credits_en": "Photo: Ledger Nano S (Motokoka, CC BY-SA 4.0, Wikimedia Commons)."
  }
 ]

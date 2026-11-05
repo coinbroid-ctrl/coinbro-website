@@ -67,7 +67,33 @@
   ],
   "image_credits": "Foto: Richard Teng di Binance Blockchain Week 2023, Istanbul (Binance, CC BY 4.0); kaus dan tas Binance (Bretwa, CC BY-SA 4.0). Via Wikimedia Commons. Foto ilustrasi, bukan foto kejadian.",
   "origin": "/workspace/ig_binance/caption.txt",
-  "image_alt": "Richard Teng, kini co-CEO Binance, berbicara di Binance Blockchain Week 2023 di Istanbul"
+  "image_alt": "Richard Teng, kini co-CEO Binance, berbicara di Binance Blockchain Week 2023 di Istanbul",
+  "title_en": "Binance hacked for ±US$6.3 billion: the biggest crypto hack in history?",
+  "summary_en": "According to TRM Labs, Binance was hit by an attack worth about US$6.3 billion across 10 blockchains, with most of the funds drained in ±20 minutes.",
+  "key_points_en": [
+   "According to TRM Labs, about US$6.36 billion left Binance wallets across 10 blockchains, most of it in ±20 minutes starting at 20:05 UTC on 29 October 2026 (04:05 WITA, 30 October).",
+   "That is about 4x the Bybit hack (±US$1.5 billion, February 2025).",
+   "Binance's initial statement (30 Oct): a DevOps engineer's laptop was likely compromised and used to access a service container to submit unauthorized withdrawals; there is no evidence that wallet private keys leaked.",
+   "TRM Labs and Chainalysis (high confidence) point to TraderTraitor, a North Korean group; the FBI said the same on 31 October 2026.",
+   "Binance said ±US$3 billion was frozen on-chain (30 Oct); TRM's count is nearly US$2.7 billion, with ±US$2.4 billion still held by the attacker."
+  ],
+  "body_en": [
+   "According to TRM Labs, about US$6.36 billion left Binance wallets across 10 blockchains on 29 October 2026. Most of the funds were drained in ±20 minutes, starting at 20:05 UTC (04:05 WITA, 30 October). It is the largest crypto theft on record, about 4x the Bybit hack (±US$1.5 billion, February 2025).",
+   "How did it happen? In its 30 October update, Binance said its initial investigation pointed to a compromised DevOps engineer's laptop, which was used to access a service container and submit unauthorized withdrawal transactions. Binance said there is no evidence that wallet private keys leaked. Binance's later post-mortem (3 November) said the campaign began in June through a fake installer and fake job interviews.",
+   "Who is behind it? TRM Labs and Chainalysis point with high confidence to TraderTraitor, a North Korean group, the same group behind the Bybit hack. On 31 October 2026, the FBI also said North Korean hackers were behind the theft.",
+   "Frozen funds: Binance said ±US$3 billion had been frozen on-chain as of 30 October. TRM counts nearly US$2.7 billion (including ±1.77 billion USDT by Tether and ±825 million USDC by Circle), while ±US$2.4 billion is still held by the attacker.",
+   "The impact: Binance promised to cover all losses through its SAFU fund and company funds, and said user funds are safe; withdrawals were temporarily suspended. In the market, BTC fell about 4% and briefly traded below US$78,000 on 30 October."
+  ],
+  "why_en": "Binance promised to cover all losses and said user funds are safe, but the case again raises questions about the risk of keeping crypto on an exchange.",
+  "tips_title_en": "Safety tips from the COIN BRO caption",
+  "tips_en": [
+   "Use a hardware security key (not SMS 2FA).",
+   "Turn on the withdrawal whitelist.",
+   "Use a unique email alias.",
+   "Check your login sessions regularly."
+  ],
+  "image_alt_en": "Richard Teng, now co-CEO of Binance, speaking at Binance Blockchain Week 2023 in Istanbul",
+  "image_credits_en": "Photos: Richard Teng at Binance Blockchain Week 2023, Istanbul (Binance, CC BY 4.0); Binance t-shirt and bag (Bretwa, CC BY-SA 4.0). Via Wikimedia Commons. Illustrative photos, not of the incident."
  },
  {
   "slug": "rusia-buka-trading-bitcoin-di-bursa-resmi",
@@ -119,7 +145,24 @@
   ],
   "image_credits": "Foto: gedung Moscow Exchange (Fitiss, CC BY-SA 3.0); Kremlin Moskow (Andrey Korzun, CC BY-SA 4.0); koin Bitcoin (Satheesh Sankaran, CC BY 2.0). Via Wikimedia Commons.",
   "origin": "/workspace/ig_moex/caption.txt",
-  "image_alt": "Gedung utama Moscow Exchange"
+  "image_alt": "Gedung utama Moscow Exchange",
+  "title_en": "Russia opens Bitcoin trading on its official exchange from 1 December",
+  "summary_en": "Moscow Exchange plans to open trading in Bitcoin, Ethereum and USDT from 1 December 2026.",
+  "key_points_en": [
+   "Moscow Exchange plans to open trading in Bitcoin, Ethereum and USDT from 1 December 2026. Boris Blokhin (senior managing director) repeated the plan on 31 October 2026, and the exchange announced it officially on 2 November.",
+   "Trading runs on the stock market infrastructure with clearing by the National Clearing Centre, from 06:50 to 23:50 Moscow time; a pilot has been running since early October.",
+   "Non-qualified investors must pass a test and are limited to 300,000 rubles per year through one broker; qualified investors have no cap.",
+   "Moscow Exchange and its clearing house have been under US sanctions since June 2024."
+  ],
+  "body_en": [
+   "Moscow Exchange, Russia's largest exchange, plans to open trading in Bitcoin, Ethereum and USDT from 1 December 2026. Boris Blokhin, senior managing director of Moscow Exchange, described the plan on 31 October 2026 (Interfax), and the exchange announced it officially on 2 November.",
+   "What is planned? Three initial assets: BTC, ETH and USDT. Trading uses the exchange's stock market technology and clearing by the National Clearing Centre, with trading hours of 06:50–23:50 Moscow time. Assets are held through partner digital depositories. Test transactions have been running since early October, and the first phase of the launch consists of pilot transactions.",
+   "Who can buy? Non-qualified investors must pass a test and are limited to 300,000 rubles (±US$3,700) per year through one broker, while qualified investors have no cap.",
+   "Background: Russia's digital currency law (No. 282-FZ) took effect on 1 September 2026, with some provisions taking effect in July and September 2027. Moscow Exchange and the National Clearing Centre have been under US sanctions since June 2024, which raises questions about USDT, since Tether usually freezes sanctioned wallets."
+  ],
+  "why_en": "This will be Russia's first organized crypto market, on the same exchange as Sberbank and Gazprom shares, even though the exchange is under US sanctions.",
+  "image_alt_en": "Main building of Moscow Exchange",
+  "image_credits_en": "Photos: Moscow Exchange building (Fitiss, CC BY-SA 3.0); Moscow Kremlin (Andrey Korzun, CC BY-SA 4.0); Bitcoin coin (Satheesh Sankaran, CC BY 2.0). Via Wikimedia Commons."
  },
  {
   "slug": "laba-tether-q3-2026",
@@ -168,7 +211,25 @@
   ],
   "image_credits": "Foto: Paolo Ardoino (Gage Skidmore, CC BY-SA 3.0); batangan emas (Stevebidmead, CC0); koin Casascius dan uang dolar (Gage Skidmore, CC BY-SA 3.0); gedung Treasury AS (Wisneyykarin, CC BY-SA 4.0). Via Wikimedia Commons.",
   "origin": "/workspace/ig_2026-11-01_news/caption.txt",
-  "image_alt": "Paolo Ardoino, CEO Tether"
+  "image_alt": "Paolo Ardoino, CEO Tether",
+  "title_en": "Tether posts US$1.5 billion profit in Q3 2026, excess reserves nearly double",
+  "summary_en": "Tether's Q3 2026 report, attested by BDO, shows US$1.5 billion in net operating profit and US$7.95 billion in excess reserves.",
+  "key_points_en": [
+   "According to Tether's Q3 2026 report, released on 30 October and attested by BDO, Q3 net operating profit was US$1.5 billion, the same as the previous quarter.",
+   "January–September 2026: total net operating profit of US$4.5 billion, mainly from US T-bill interest and reverse repos.",
+   "As of 30 September 2026: total assets US$191.5 billion, total liabilities US$183.5 billion. Excess reserves rose to US$7.95 billion from US$4.1 billion at the end of Q2.",
+   "Reserves include US T-bills (direct and indirect) of US$132.4 billion, gold of US$19.08 billion, and Bitcoin of US$8.37 billion (up from ±US$5.8 billion at the end of June)."
+  ],
+  "body_en": [
+   "Tether, the issuer of the USDT stablecoin, posted US$1.5 billion in net operating profit in the third quarter of 2026, and its excess reserves nearly doubled.",
+   "According to Tether's Q3 2026 report, released on 30 October and attested by accounting firm BDO, Q3 profit matched the previous quarter. Over January–September 2026, Tether's total net operating profit reached US$4.5 billion. The main sources were interest on US T-bills (short-term government debt) and reverse repos.",
+   "Excess reserves nearly 2x: as of 30 September 2026, Tether's total assets were US$191.5 billion and its total liabilities US$183.5 billion. The difference, its excess reserves, rose to US$7.95 billion from US$4.1 billion at the end of Q2. Holdings include US T-bills (direct and indirect) of US$132.4 billion, gold of US$19.08 billion, and Bitcoin of US$8.37 billion.",
+   "On par with a country: Cointelegraph noted that Tether's US T-bill exposure is close to South Korea's holdings of US government debt (US$134.2 billion, US Treasury data for August)."
+  ],
+  "why_en": "Cointelegraph noted that Tether's US T-bill exposure is close to South Korea's holdings of US government debt (US$134.2 billion, US Treasury data for August). The profit figure is Tether's own claim; BDO's attestation only checks assets and liabilities as of 30 September and is not a full audit.",
+  "analysis_en": "These numbers show the stablecoin business depends heavily on US interest rates. If rates fall, T-bill income could fall too. Most of the rise in excess reserves also came from higher Bitcoin and gold prices, which can reverse.",
+  "image_alt_en": "Paolo Ardoino, CEO of Tether",
+  "image_credits_en": "Photos: Paolo Ardoino (Gage Skidmore, CC BY-SA 3.0); gold bars (Stevebidmead, CC0); Casascius coin and dollar bills (Gage Skidmore, CC BY-SA 3.0); US Treasury building (Wisneyykarin, CC BY-SA 4.0). Via Wikimedia Commons."
  },
  {
   "slug": "coinbase-untung-us719-juta-saham-anjlok",
@@ -218,7 +279,24 @@
   ],
   "image_credits": "Foto: Brian Armstrong, CEO Coinbase, di TechCrunch Disrupt 2018 (TechCrunch, CC BY 2.0, Wikimedia Commons).",
   "origin": "/workspace/reels/2026-11-01_pm/caption.txt",
-  "image_alt": "CEO Coinbase Brian Armstrong di TechCrunch Disrupt 2018"
+  "image_alt": "CEO Coinbase Brian Armstrong di TechCrunch Disrupt 2018",
+  "title_en": "Coinbase earns US$719 million in Q3 2026, but its stock drops about 13%",
+  "summary_en": "Net income rose, but total revenue fell 35% and transaction revenue dropped about 44%.",
+  "key_points_en": [
+   "Q3 2026 net income rose to US$718.7 million (Q3 2025: US$432.6 million).",
+   "Total revenue fell 35% to US$1.22 billion; transaction revenue dropped 44% to US$590.2 million.",
+   "Almost all of the profit came from gains on crypto assets held for investment (US$715 million); operating income was only US$61.7 million (Q3 2025: US$480.5 million).",
+   "Stablecoin revenue was US$306.9 million. COIN shares fell about 13% on 30 October, as BTC briefly dropped below US$77K."
+  ],
+  "body_en": [
+   "Coinbase earned US$719 million in Q3 2026, yet its stock dropped about 13% the day after the report came out.",
+   "According to its 10-Q filing with the SEC, Coinbase's Q3 2026 net income rose to US$718.7 million (Q3 2025: US$432.6 million). But total revenue fell 35% to US$1.22 billion, and transaction revenue dropped 44% to US$590.2 million.",
+   "Almost all of the profit came from gains on crypto assets it holds for investment, about US$715 million. Operating income was just US$61.7 million. What helped hold things up: stablecoin revenue of US$306.9 million. COIN shares fell about 13% on 30 October, the same day Bitcoin briefly dropped below US$77K after the Binance hack."
+  ],
+  "why_en": "A big profit does not necessarily mean the core business is strong: most of the profit came from gains in the value of assets held, not from operations.",
+  "analysis_en": "A big profit does not necessarily mean the core business is doing well. Always check where the profit comes from.",
+  "image_alt_en": "Coinbase CEO Brian Armstrong at TechCrunch Disrupt 2018",
+  "image_credits_en": "Photo: Brian Armstrong, CEO of Coinbase, at TechCrunch Disrupt 2018 (TechCrunch, CC BY 2.0, Wikimedia Commons)."
  },
  {
   "slug": "whitepaper-bitcoin-18-tahun",
@@ -265,7 +343,24 @@
   ],
   "image_credits": "Foto: patung Satoshi Nakamoto di Budapest (Fekist, CC BY-SA 4.0), patung, bukan foto Satoshi; halaman 1 whitepaper Bitcoin (bitcoin.org, MIT); koin Casascius (Steve Jurvetson, CC BY 2.0). Via Wikimedia Commons.",
   "origin": "/workspace/ig_watcher/caption.txt",
-  "image_alt": "Patung Satoshi Nakamoto di Budapest"
+  "image_alt": "Patung Satoshi Nakamoto di Budapest",
+  "title_en": "The Bitcoin whitepaper turns 18 today",
+  "summary_en": "On 31 October 2008, Satoshi Nakamoto announced a nine-page paper on peer-to-peer electronic cash.",
+  "key_points_en": [
+   "31 October 2008: the paper \"Bitcoin: A Peer-to-Peer Electronic Cash System\" was announced on a cryptography mailing list. The network only went live on 3 January 2009.",
+   "January 2024: spot Bitcoin ETFs were approved in the US.",
+   "As of 31 October 2026, Bitcoin trades at about US$77,400 with a market value of about US$1.55 trillion.",
+   "Supply is capped at 21 million coins; more than 95% have already been mined."
+  ],
+  "body_en": [
+   "Today, 31 October 2026, marks exactly 18 years since Satoshi Nakamoto announced a nine-page paper titled \"Bitcoin: A Peer-to-Peer Electronic Cash System\" on a cryptography mailing list on 31 October 2008. The Bitcoin network itself only went live on 3 January 2009.",
+   "What does the paper say? Satoshi proposed peer-to-peer electronic cash that lets payments be sent directly from one party to another without going through a financial institution. Transactions are broadcast to the network and recorded in a chain of blocks secured by proof-of-work, so no trusted third party is needed to prevent double-spending.",
+   "From 2008 to 2026: the paper was announced on 31 October 2008; the first block was mined on 3 January 2009; spot Bitcoin ETFs were approved in the US in January 2024. Today, Bitcoin trades at about US$77,400 with a market value of about US$1.55 trillion. Its supply is capped at 21 million coins and more than 95% have already been mined.",
+   "A good moment to talk about custody: the anniversary comes two days after the ±US$6.3 billion Binance hot-wallet hack. Binance said user funds are safe and set aside more than US$6.34 billion of company funds to cover the losses."
+  ],
+  "why_en": "Bitcoin's original vision was to transact without a trusted third party. The anniversary comes days after Binance reported a ±US$6.3 billion hot-wallet hack, so for long-term savings, self-custody is worth considering.",
+  "image_alt_en": "Statue of Satoshi Nakamoto in Budapest",
+  "image_credits_en": "Photos: Satoshi Nakamoto statue in Budapest (Fekist, CC BY-SA 4.0), a statue, not a photo of Satoshi; page 1 of the Bitcoin whitepaper (bitcoin.org, MIT); Casascius coin (Steve Jurvetson, CC BY 2.0). Via Wikimedia Commons."
  },
  {
   "slug": "trezor-safe-5-tokopedia-diduga-disadap",
@@ -318,7 +413,32 @@
   ],
   "image_credits": "Foto ilustrasi: dua hardware wallet Trezor One dan koin Casascius 5 BTC (Gage Skidmore, CC BY-SA 3.0, Wikimedia Commons). Bukan perangkat yang dilaporkan.",
   "origin": "/workspace/ig_trezor/caption.txt",
-  "image_alt": "Hardware wallet Trezor dan koin Bitcoin fisik (ilustrasi)"
+  "image_alt": "Hardware wallet Trezor dan koin Bitcoin fisik (ilustrasi)",
+  "title_en": "Trezor Safe 5 bought on Tokopedia allegedly fitted with a spy implant",
+  "summary_en": "Trezor considers a report of a hardware implant in a Trezor Safe 5 from a buyer in Indonesia credible, but has not yet examined the device in its lab.",
+  "key_points_en": [
+   "The device was bought in August 2026 from CryptoBilis via Tokopedia and reported to Trezor on 28 October. Trezor removed CryptoBilis from its reseller list on 9 October 2026.",
+   "Trezor has not yet received or examined the device, but considers the report credible based on the description and a video interview. No CryptoBilis buyer has reported a loss of funds to Trezor.",
+   "According to the report, there is an extra circuit board between the main board and the screen, with a cellular module and antenna; it allegedly reads what the screen shows (including the recovery phrase) and sends it over a mobile network.",
+   "Ledger found a similar implant in its devices sold by CryptoBilis. Separately, Singapore Police (28 Oct) recorded at least 2 modified Ledgers bought from local retail stores, with losses of about S$3.5 million."
+  ],
+  "body_en": [
+   "Trezor received a report from a buyer in Indonesia about a Trezor Safe 5 allegedly fitted with a hardware implant. The device was bought in August 2026 from CryptoBilis via Tokopedia, and reported through Trezor's responsible disclosure program on 28 October. Trezor had already removed CryptoBilis from its reseller list on 9 October 2026.",
+   "Trezor has not yet received the device, but considers the report credible based on the description and a video interview with the reporter. So far, no CryptoBilis buyer has reported a loss of funds to Trezor.",
+   "How does it work? According to the report, which Trezor has not verified, there is an extra circuit board between the main board and the screen, with a cellular module and antenna. The implant allegedly reads what the screen shows, including the recovery phrase, and sends it over a mobile network whenever the device is plugged in.",
+   "Not the first case: Ledger's Donjon team found an implant in Ledger devices sold by CryptoBilis. Separately, Singapore Police on 28 October recorded at least 2 modified Ledgers bought from local retail stores, with total losses of about S$3.5 million."
+  ],
+  "why_en": "Only buy hardware wallets from the official site or an authorized reseller listed on the brand's site. This is still an allegation that Trezor has not examined in its lab.",
+  "tips_title_en": "Bought a Trezor from CryptoBilis since March 2026?",
+  "tips_en": [
+   "Move your funds to a new wallet with a new seed as soon as possible.",
+   "Do not use the old seed on any device.",
+   "Not set up yet? Do not use it.",
+   "Contact Trezor Support for a replacement device.",
+   "Trezor Support will never ask for your recovery phrase. Watch out for phishing that exploits this case."
+  ],
+  "image_alt_en": "Trezor hardware wallets and a physical Bitcoin coin (illustration)",
+  "image_credits_en": "Illustrative photo: two Trezor One hardware wallets and a 5 BTC Casascius coin (Gage Skidmore, CC BY-SA 3.0, Wikimedia Commons). Not the reported device."
  },
  {
   "slug": "taruhan-us1-juta-calacanis-vs-cardone",
@@ -370,7 +490,25 @@
   ],
   "image_credits": "Foto: Jason Calacanis di LAUNCH Festival 2016 (Preshdineshkumar, CC BY-SA 4.0); Grant Cardone (Gage Skidmore, CC BY-SA 4.0). Via Wikimedia Commons.",
   "origin": "/workspace/reels/tonight/caption.txt",
-  "image_alt": "Jason Calacanis di LAUNCH Festival 2016"
+  "image_alt": "Jason Calacanis di LAUNCH Festival 2016",
+  "title_en": "\"Bitcoin will never break its record again\" — then someone bet US$1 million",
+  "summary_en": "Grant Cardone challenged Jason Calacanis's claim with a US$1 million bet; no funded agreement exists yet.",
+  "key_points_en": [
+   "27 Oct 2026: Jason Calacanis said Bitcoin could return to about US$57,000 within 12 months and would \"never\" break its all-time high again.",
+   "Grant Cardone challenged him with a US$1 million bet: BTC must reach or exceed the US$126,210.50 record by 12:00 PST on 28 Oct 2028.",
+   "Terence Michael (same terms as Cardone) and Fred Krueger (deadline 28 Oct 2036) also offered US$1 million each; total offers US$3 million.",
+   "No agreement yet: Calacanis replied \"So much free money!\" and asked about escrow, but has not formally accepted any offer."
+  ],
+  "body_en": [
+   "On 27 Oct 2026, Jason Calacanis (co-host of the All-In podcast) wrote on X that Bitcoin could fall to US$57,000 within a year and would \"never\" break its all-time high again. Grant Cardone, founder of Cardone Capital, then challenged him with a US$1 million bet.",
+   "Cardone's terms: BTC must reach or exceed the US$126,210.50 record by 12:00 PST on 28 Oct 2028. If not, Cardone pays Calacanis US$1 million.",
+   "Other challengers joined: Terence Michael on the same terms, and Fred Krueger with a looser deadline of 28 Oct 2036. Total bets offered: US$3 million.",
+   "Accepted? Not yet. Calacanis replied \"So much free money!\" and asked whether there is an escrow or platform to lock in the bet, but there is no official agreement.",
+   "The price gap: BTC was about US$78,000 at the time, about 38% below the record. For Cardone to win, BTC needs to rise about 62%."
+  ],
+  "why_en": "This is a clash of opinions, not a proven prediction. BTC was about US$78,000 at the time, about 38% below the record; for Cardone to win, BTC needs to rise about 62%.",
+  "image_alt_en": "Jason Calacanis at LAUNCH Festival 2016",
+  "image_credits_en": "Photos: Jason Calacanis at LAUNCH Festival 2016 (Preshdineshkumar, CC BY-SA 4.0); Grant Cardone (Gage Skidmore, CC BY-SA 4.0). Via Wikimedia Commons."
  },
  {
   "slug": "pentagon-program-rahasia-bitcoin",
@@ -447,6 +585,22 @@
   ],
   "image_credits": "Foto ilustrasi: koin Bitcoin (Satheesh Sankaran, CC BY 2.0, Wikimedia Commons).",
   "origin": "/workspace/telegram/2026-11-01_post1.txt",
-  "image_alt": "Koin Bitcoin fisik di tangan (ilustrasi)"
+  "image_alt": "Koin Bitcoin fisik di tangan (ilustrasi)",
+  "title_en": "BTC selling pressure rises: short-term holders send 36,600 BTC to exchanges at a loss",
+  "summary_en": "According to CryptoQuant (analyst Darkfost), more than 36,600 BTC were sent to exchanges within 24 hours after BTC touched US$76K.",
+  "key_points_en": [
+   "Short-term holders sent more than 36,600 BTC to exchanges at a loss within 24 hours after BTC touched US$76K (CryptoQuant, analyst Darkfost).",
+   "Over 7 days, short-term holders sent 45,400 BTC to Binance, the highest in October.",
+   "Mike McGlone (Bloomberg Intelligence): since the end of 2024, Bitcoin has lagged long-term US government bonds by about 19% (IBIT vs TLT). This is one analyst's opinion."
+  ],
+  "body_en": [
+   "Short-term holders sent more than 36,600 BTC to exchanges at a loss within 24 hours after BTC touched US$76K (CryptoQuant, analyst Darkfost). Over 7 days, short-term holders sent 45,400 BTC to Binance, the highest in October.",
+   "Darkfost himself said stronger capitulation may signal the correction is nearing an extreme, so this data does not automatically mean prices will keep falling.",
+   "Mike McGlone (Bloomberg Intelligence) compared the IBIT Bitcoin ETF with the TLT US bond ETF: as of 30 Oct 2026 the ratio was 81 (100 = end of 2024), meaning Bitcoin has lagged US bonds by about 19%. This is one analyst's opinion."
+  ],
+  "why_en": "Exchange inflows are often read as potential selling pressure, but this is data from one analyst and not a certainty about price direction.",
+  "analysis_en": "Mike McGlone sees BTC weakness below US$80,000 as a possible sign of pressure on risk assets. This is one analyst's opinion, not a market fact.",
+  "image_alt_en": "Physical Bitcoin coin in a hand (illustration)",
+  "image_credits_en": "Illustrative photo: Bitcoin coin (Satheesh Sankaran, CC BY 2.0, Wikimedia Commons)."
  }
 ]
