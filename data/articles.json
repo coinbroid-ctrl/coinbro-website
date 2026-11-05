@@ -6,19 +6,19 @@
   "title": "Binance dibobol ±US$6,3 miliar: hack crypto terbesar sepanjang sejarah?",
   "summary": "Menurut TRM Labs, Binance jadi korban serangan senilai sekitar US$6,3 miliar di 10 blockchain, sebagian besar dana tersedot dalam ±20 menit.",
   "key_points": [
-   "Menurut TRM Labs, nilai curian sekitar US$6,3 miliar di 10 blockchain; sebagian besar disedot dalam ±20 menit mulai sekitar pukul 04.05 WITA, 30 Oktober 2026.",
+   "Menurut TRM Labs, sekitar US$6,36 miliar keluar dari wallet Binance di 10 blockchain; sebagian besar dalam ±20 menit mulai 20.05 UTC, 29 Oktober 2026 (04.05 WITA, 30 Oktober).",
    "Angkanya sekitar 4x lebih besar dari hack Bybit (±US$1,5 miliar, Februari 2025).",
-   "Binance menyatakan laptop seorang DevOps engineer disusupi lalu dipakai mengakses service container yang memungkinkan penarikan tak sah; tidak ada bukti private key wallet bocor.",
-   "TRM Labs (tingkat keyakinan tinggi) dan Chainalysis menunjuk grup TraderTraitor yang berafiliasi dengan Korea Utara. Binance sendiri belum menyebut pelaku.",
-   "Binance mengklaim ±US$3 miliar dibekukan; hitungan TRM sekitar US$2,7 miliar, dengan ±US$2,4 miliar masih dipegang pelaku."
+   "Pernyataan awal Binance (30 Okt): laptop seorang DevOps engineer diduga disusupi dan dipakai mengakses service container untuk mengirim penarikan tak sah; tidak ada bukti private key wallet bocor.",
+   "TRM Labs dan Chainalysis (keyakinan tinggi) menunjuk grup TraderTraitor asal Korea Utara; FBI menyatakan hal yang sama pada 31 Oktober 2026.",
+   "Binance menyebut ±US$3 miliar dibekukan on-chain (30 Okt); hitungan TRM hampir US$2,7 miliar, dengan ±US$2,4 miliar masih dipegang pelaku."
   ],
-  "why_it_matters": "Binance berjanji mengganti semua kerugian lewat dana SAFU dan dana perusahaan, dan menyatakan dana pengguna aman. Penarikan diperkirakan dibuka lagi dalam ≤48 jam, dan BTC sempat turun lebih dari 4% ke sekitar US$78.000. Kasus ini kembali membuka pertanyaan soal risiko menyimpan crypto di exchange.",
+  "why_it_matters": "Binance berjanji mengganti semua kerugian dan menyatakan dana pengguna aman, tetapi kasus ini kembali membuka pertanyaan soal risiko menyimpan crypto di exchange.",
   "body": [
-   "Menurut TRM Labs, Binance menjadi korban serangan dengan nilai curian sekitar US$6,3 miliar di 10 blockchain. Sebagian besar dana disedot dalam ±20 menit, mulai sekitar pukul 04.05 WITA pada 30 Oktober 2026. Angkanya sekitar 4x lebih besar dari hack Bybit (±US$1,5 miliar, Februari 2025).",
-   "Bagaimana bisa terjadi? Binance menyatakan laptop seorang DevOps engineer disusupi, lalu dipakai untuk mengakses service container yang memungkinkan penarikan tak sah. Binance bilang tidak ada bukti private key wallet bocor.",
-   "Siapa pelakunya? TRM Labs (tingkat keyakinan tinggi) dan Chainalysis menunjuk grup TraderTraitor yang berafiliasi dengan Korea Utara, grup yang sama dengan hack Bybit menurut FBI. Binance sendiri belum menyebut pelaku.",
-   "Soal dana yang dibekukan: Binance mengklaim ±US$3 miliar sudah dibekukan. Hitungan TRM sekitar US$2,7 miliar, tetapi ±US$2,4 miliar masih dipegang pelaku.",
-   "Dampaknya: Binance berjanji mengganti semua kerugian lewat dana SAFU dan dana perusahaan, dan menyatakan dana pengguna aman. Penarikan diperkirakan dibuka lagi dalam ≤48 jam. Di pasar, BTC sempat turun lebih dari 4% ke sekitar US$78.000."
+   "Menurut TRM Labs, sekitar US$6,36 miliar keluar dari wallet Binance di 10 blockchain pada 29 Oktober 2026. Sebagian besar dana disedot dalam ±20 menit, mulai pukul 20.05 UTC (04.05 WITA, 30 Oktober). Ini pencurian crypto terbesar yang pernah tercatat, sekitar 4x hack Bybit (±US$1,5 miliar, Februari 2025).",
+   "Bagaimana bisa terjadi? Dalam pembaruan 30 Oktober, Binance menyatakan investigasi awal mengarah ke laptop seorang DevOps engineer yang disusupi, lalu dipakai untuk mengakses service container dan mengirim transaksi penarikan tak sah. Binance bilang tidak ada bukti private key wallet bocor. Post-mortem Binance berikutnya (3 November) menyebut kampanye ini dimulai sejak Juni lewat installer palsu dan tawaran wawancara kerja palsu.",
+   "Siapa pelakunya? TRM Labs dan Chainalysis menunjuk grup TraderTraitor asal Korea Utara dengan tingkat keyakinan tinggi, grup yang sama di balik hack Bybit. Pada 31 Oktober 2026, FBI juga menyatakan peretas Korea Utara berada di balik pencurian ini.",
+   "Soal dana yang dibekukan: Binance menyebut ±US$3 miliar sudah dibekukan on-chain per 30 Oktober. Hitungan TRM hampir US$2,7 miliar (antara lain Tether ±1,77 miliar USDT dan Circle ±825 juta USDC), sementara ±US$2,4 miliar masih dipegang pelaku.",
+   "Dampaknya: Binance berjanji mengganti semua kerugian lewat dana SAFU dan dana perusahaan, dan menyatakan dana pengguna aman; penarikan sempat dihentikan sementara. Di pasar, BTC turun sekitar 4% dan sempat di bawah US$78.000 pada 30 Oktober."
   ],
   "tips_title": "Tips aman dari caption COIN BRO",
   "tips": [
@@ -29,42 +29,45 @@
   ],
   "sources": [
    {
-    "name": "Binance",
-    "url": "https://www.binance.com",
-    "deep_link": false
+    "name": "Binance: Security Incident Update (30 Okt 2026)",
+    "url": "https://www.binance.com/en/support/announcement/detail/c5a8729a97ac486d963784d96c5642d7",
+    "deep_link": true
    },
    {
     "name": "TRM Labs",
-    "url": "https://www.trmlabs.com",
-    "deep_link": false
+    "url": "https://www.trmlabs.com/resources/blog/north-korea-has-stolen-usd-128-billion-in-crypto-usd-74-billion-of-it-in-2026",
+    "deep_link": true
    },
    {
-    "name": "CNBC",
-    "url": "https://www.cnbc.com",
-    "deep_link": false
+    "name": "AP News: FBI says North Korean hackers behind Binance heist",
+    "url": "https://apnews.com/article/binance-crypto-hack-north-korea-fbi-883f18140c1e21ce0c38781e72cbe315",
+    "deep_link": true
+   },
+   {
+    "name": "Decrypt",
+    "url": "https://decrypt.co/382224/trm-and-chainalysis-tie-6-4b-binance-hack-to-north-koreas-tradertraitor",
+    "deep_link": true
    },
    {
     "name": "BBC",
-    "url": "https://www.bbc.com",
-    "deep_link": false
+    "url": "https://www.bbc.com/news/articles/ck9dz3v7z7v3o",
+    "deep_link": true
+   },
+   {
+    "name": "CNBC: Bitcoin holds up after Binance hack",
+    "url": "https://www.cnbc.com/2026/10/30/binance-hack-bitcoin-price.html",
+    "deep_link": true
    }
   ],
   "published_at": "2026-10-30T14:22:03+08:00",
   "published_note": "slide-binance",
   "images": [
-   "assets/img/slides/binance-1.jpg",
-   "assets/img/slides/binance-2.jpg",
-   "assets/img/slides/binance-3.jpg",
-   "assets/img/slides/binance-4.jpg",
-   "assets/img/slides/binance-5.jpg",
-   "assets/img/slides/binance-6.jpg",
-   "assets/img/slides/binance-7.jpg",
-   "assets/img/slides/binance-8.jpg"
+   "assets/img/photos/binance.jpg",
+   "assets/img/photos/binance2.jpg"
   ],
-  "image_credits": null,
-  "tiktok_id": "7702805606549261588",
-  "tiktok_label": "Hot vs Cold Wallet",
-  "origin": "/workspace/ig_binance/caption.txt"
+  "image_credits": "Foto: Richard Teng di Binance Blockchain Week 2023, Istanbul (Binance, CC BY 4.0); kaus dan tas Binance (Bretwa, CC BY-SA 4.0). Via Wikimedia Commons. Foto ilustrasi, bukan foto kejadian.",
+  "origin": "/workspace/ig_binance/caption.txt",
+  "image_alt": "Richard Teng, kini co-CEO Binance, berbicara di Binance Blockchain Week 2023 di Istanbul"
  },
  {
   "slug": "rusia-buka-trading-bitcoin-di-bursa-resmi",
@@ -73,57 +76,50 @@
   "title": "Rusia buka trading Bitcoin di bursa resmi mulai 1 Desember",
   "summary": "Moscow Exchange berencana membuka perdagangan Bitcoin, Ethereum, dan USDT mulai 1 Desember 2026.",
   "key_points": [
-   "Moscow Exchange berencana membuka perdagangan Bitcoin, Ethereum, dan USDT mulai 1 Desember 2026, disampaikan Boris Blokhin (senior managing director) pada 31 Oktober 2026.",
-   "Perdagangan berjalan di infrastruktur pasar saham, dari pagi hingga tengah malam waktu Moskow; sejumlah klien disebut sudah uji coba.",
-   "Investor ritel dibatasi maksimal 300.000 rubel per tahun untuk setiap perantara; investor kualifikasi tidak dibatasi. Keduanya wajib lulus tes.",
-   "Crypto tetap dilarang untuk pembayaran domestik di Rusia; mulai 1 Juli 2027 transaksi P2P tanpa perantara juga dilarang."
+   "Moscow Exchange berencana membuka perdagangan Bitcoin, Ethereum, dan USDT mulai 1 Desember 2026. Boris Blokhin (senior managing director) menyampaikannya lagi pada 31 Oktober 2026, dan bursa mengumumkannya resmi pada 2 November.",
+   "Perdagangan berjalan di infrastruktur pasar saham dengan kliring National Clearing Centre, pukul 06.50–23.50 waktu Moskow; uji coba (pilot) sudah berjalan sejak awal Oktober.",
+   "Investor non-kualifikasi wajib lulus tes dan dibatasi maksimal 300.000 rubel per tahun lewat satu broker; investor kualifikasi tidak dibatasi.",
+   "Moscow Exchange dan lembaga kliringnya masuk daftar sanksi AS sejak Juni 2024."
   ],
-  "why_it_matters": "Pada 2022 bank sentral Rusia sempat mengusulkan larangan crypto. Kini UU mata uang digital yang berlaku sejak 1 September 2026 membuka akses crypto lewat broker dan perantara resmi.",
+  "why_it_matters": "Ini akan menjadi pasar crypto terorganisir pertama di Rusia, di bursa yang sama dengan saham Sberbank dan Gazprom, meski bursanya terkena sanksi AS.",
   "body": [
-   "Moscow Exchange, bursa terbesar Rusia, berencana membuka perdagangan Bitcoin, Ethereum, dan USDT mulai 1 Desember 2026. Rencana ini disampaikan Boris Blokhin, senior managing director Moscow Exchange, pada 31 Oktober 2026, seperti dilaporkan RIA Novosti, Vedomosti, dan NTV.",
-   "Apa yang direncanakan? Tiga aset awal: Bitcoin, Ethereum, dan USDT. Perdagangan berjalan di infrastruktur pasar saham, dengan jam trading dari pagi hingga tengah malam waktu Moskow. Pencatatan dan penyimpanan aset dilakukan lewat depositori digital mitra. Sejumlah klien disebut sudah aktif melakukan uji coba.",
-   "Siapa yang boleh membeli? Investor ritel dibatasi maksimal 300.000 rubel per tahun untuk setiap perantara, sedangkan investor kualifikasi tidak dibatasi. Keduanya wajib lulus tes lebih dulu. Crypto tetap dilarang untuk pembayaran domestik di Rusia, dan mulai 1 Juli 2027 transaksi P2P tanpa perantara juga akan dilarang.",
-   "Dari wacana larangan ke bursa resmi: pada 2022, bank sentral Rusia sempat mengusulkan larangan crypto. Kini, UU mata uang digital yang berlaku sejak 1 September 2026 membuka akses crypto lewat broker dan perantara resmi."
+   "Moscow Exchange, bursa terbesar Rusia, berencana membuka perdagangan Bitcoin, Ethereum, dan USDT mulai 1 Desember 2026. Boris Blokhin, senior managing director Moscow Exchange, menyampaikan rencana ini pada 31 Oktober 2026 (Interfax), dan bursa mengumumkannya resmi pada 2 November.",
+   "Apa yang direncanakan? Tiga aset awal: BTC, ETH, dan USDT. Perdagangan memakai teknologi pasar saham bursa dan kliring National Clearing Centre, dengan jam trading 06.50–23.50 waktu Moskow. Penyimpanan aset dilakukan lewat depositori digital mitra. Uji coba transaksi sudah berjalan sejak awal Oktober, dan tahap awal peluncuran berupa transaksi pilot.",
+   "Siapa yang boleh membeli? Investor non-kualifikasi wajib lulus tes dan dibatasi maksimal 300.000 rubel (±US$3.700) per tahun lewat satu broker, sedangkan investor kualifikasi tidak dibatasi.",
+   "Latar belakangnya: UU mata uang digital Rusia (No. 282-FZ) berlaku sejak 1 September 2026, dengan sebagian ketentuan baru berlaku Juli dan September 2027. Moscow Exchange dan National Clearing Centre sendiri berada di bawah sanksi AS sejak Juni 2024, sehingga muncul pertanyaan soal USDT, karena Tether biasa membekukan wallet yang terkena sanksi."
   ],
   "sources": [
    {
-    "name": "Vedomosti",
-    "url": "https://www.vedomosti.ru",
-    "deep_link": false
+    "name": "Moscow Exchange (rilis resmi)",
+    "url": "https://www.moex.com/n105654",
+    "deep_link": true
    },
    {
-    "name": "NTV",
-    "url": "https://www.ntv.ru",
-    "deep_link": false
-   },
-   {
-    "name": "Vesti / RIA Novosti",
-    "url": "https://ria.ru",
-    "deep_link": false
+    "name": "Interfax",
+    "url": "https://www.interfax.ru/business/1126292",
+    "deep_link": true
    },
    {
     "name": "TASS",
-    "url": "https://tass.com",
-    "deep_link": false
+    "url": "https://tass.com/economy/2199379",
+    "deep_link": true
    },
    {
-    "name": "Crypto Briefing",
-    "url": "https://cryptobriefing.com",
-    "deep_link": false
+    "name": "CoinDesk",
+    "url": "https://www.coindesk.com/markets/2026/11/04/u-s-sanctioned-moscow-exchange-to-list-bitcoin-and-tether-s-usdt-in-december",
+    "deep_link": true
    }
   ],
   "published_at": "2026-11-01T05:00:07+08:00",
   "published_note": "slide-moex",
   "images": [
-   "assets/img/slides/moex-1.jpg",
-   "assets/img/slides/moex-2.jpg",
-   "assets/img/slides/moex-3.jpg",
-   "assets/img/slides/moex-4.jpg"
+   "assets/img/photos/moex_main.jpg",
+   "assets/img/photos/kremlin.jpg",
+   "assets/img/photos/hold.jpg"
   ],
-  "image_credits": "Foto: Kremlin Moskow (Andrey Korzun, CC BY-SA 4.0), gedung Moscow Exchange (Fitiss, CC BY-SA 3.0), koin Bitcoin (Satheesh Sankaran, CC BY 2.0), gedung Bank of Russia (A.Savin, FAL), via Wikimedia Commons.",
-  "tiktok_id": "7702990255175109909",
-  "tiktok_label": "Bitcoin cuma 21 juta",
-  "origin": "/workspace/ig_moex/caption.txt"
+  "image_credits": "Foto: gedung Moscow Exchange (Fitiss, CC BY-SA 3.0); Kremlin Moskow (Andrey Korzun, CC BY-SA 4.0); koin Bitcoin (Satheesh Sankaran, CC BY 2.0). Via Wikimedia Commons.",
+  "origin": "/workspace/ig_moex/caption.txt",
+  "image_alt": "Gedung utama Moscow Exchange"
  },
  {
   "slug": "laba-tether-q3-2026",
@@ -135,102 +131,94 @@
    "Menurut laporan Q3 2026 yang dirilis Tether pada 30 Oktober dan diatestasi BDO, laba operasional bersih Q3 US$1,5 miliar, sama dengan kuartal sebelumnya.",
    "Januari–September 2026: total laba operasional bersih US$4,5 miliar, terutama dari bunga T-bill AS dan reverse repo.",
    "Per 30 September 2026: total aset US$191,5 miliar, total kewajiban US$183,5 miliar. Cadangan lebih naik ke US$7,95 miliar dari US$4,1 miliar di akhir Q2.",
-   "Isi cadangan antara lain T-bill AS (langsung dan tidak langsung) US$132,4 miliar, emas fisik US$19,08 miliar, dan Bitcoin US$8,37 miliar."
+   "Isi cadangan antara lain T-bill AS (langsung dan tidak langsung) US$132,4 miliar, emas US$19,08 miliar, dan Bitcoin US$8,37 miliar (naik dari ±US$5,8 miliar di akhir Juni)."
   ],
-  "why_it_matters": "Cointelegraph mencatat eksposur T-bill AS Tether mendekati kepemilikan surat utang AS milik Korea Selatan (US$134,2 miliar, data Treasury AS per Agustus). Laporan ini adalah atestasi, bukan audit laporan keuangan penuh yang dipublikasikan, dan nilai aset seperti emas serta Bitcoin bisa berubah mengikuti harga pasar.",
+  "why_it_matters": "Cointelegraph mencatat eksposur T-bill AS Tether mendekati kepemilikan surat utang AS milik Korea Selatan (US$134,2 miliar, data Treasury AS per Agustus). Angka laba adalah klaim Tether; atestasi BDO hanya memeriksa posisi aset dan kewajiban per 30 September, bukan audit penuh.",
   "body": [
    "Tether, penerbit stablecoin USDT, mencetak laba operasional bersih US$1,5 miliar di kuartal ketiga 2026, dan cadangan lebihnya naik hampir dua kali lipat.",
    "Menurut laporan Q3 2026 yang dirilis Tether pada 30 Oktober dan diatestasi kantor akuntan BDO, laba Q3 sama dengan kuartal sebelumnya. Sepanjang Januari–September 2026, total laba operasional bersih Tether mencapai US$4,5 miliar. Sumber utamanya adalah bunga T-bill (surat utang jangka pendek) AS dan reverse repo.",
-   "Cadangan lebih nyaris 2x lipat: per 30 September 2026, total aset Tether US$191,5 miliar, sedangkan total kewajibannya US$183,5 miliar. Selisihnya, atau cadangan lebih, naik ke US$7,95 miliar dari US$4,1 miliar di akhir Q2. Isinya antara lain T-bill AS (langsung dan tidak langsung) US$132,4 miliar, emas fisik US$19,08 miliar, dan Bitcoin US$8,37 miliar.",
+   "Cadangan lebih nyaris 2x lipat: per 30 September 2026, total aset Tether US$191,5 miliar, sedangkan total kewajibannya US$183,5 miliar. Selisihnya, atau cadangan lebih, naik ke US$7,95 miliar dari US$4,1 miliar di akhir Q2. Isinya antara lain T-bill AS (langsung dan tidak langsung) US$132,4 miliar, emas US$19,08 miliar, dan Bitcoin US$8,37 miliar.",
    "Sekelas negara: Cointelegraph mencatat eksposur T-bill AS Tether mendekati kepemilikan surat utang AS milik Korea Selatan (US$134,2 miliar, data Treasury AS per Agustus)."
   ],
-  "analysis": "Angka ini menunjukkan bisnis stablecoin sangat bergantung pada suku bunga AS. Kalau bunga turun, pendapatan dari T-bill juga berpotensi ikut turun. Perlu dicatat juga, laporan ini adalah atestasi, bukan audit laporan keuangan penuh yang dipublikasikan, dan nilai aset seperti emas serta Bitcoin bisa berubah mengikuti harga pasar.",
+  "analysis": "Angka ini menunjukkan bisnis stablecoin sangat bergantung pada suku bunga AS. Kalau bunga turun, pendapatan dari T-bill juga berpotensi ikut turun. Sebagian besar kenaikan cadangan lebih juga datang dari naiknya harga Bitcoin dan emas, yang bisa berbalik.",
   "sources": [
    {
     "name": "Tether.io (rilis resmi Q3 2026)",
-    "url": "https://tether.io",
-    "deep_link": false
+    "url": "https://tether.io/news/tether-generates-1-5-billion-in-q3-net-operating-profit-as-reserve-buffer-doubles-to-almost-8-billion/",
+    "deep_link": true
    },
    {
     "name": "Cointelegraph",
-    "url": "https://cointelegraph.com",
-    "deep_link": false
+    "url": "https://cointelegraph.com/news/tethers-excess-reserves-nearly-double-to-8b-as-q3-profit-hits-15b",
+    "deep_link": true
    },
    {
-    "name": "Crypto Briefing",
-    "url": "https://cryptobriefing.com",
-    "deep_link": false
-   },
-   {
-    "name": "Securities.io",
-    "url": "https://www.securities.io",
-    "deep_link": false
+    "name": "Stablecoin Insider",
+    "url": "https://stablecoininsider.org/tether-q3-2026-attestation/",
+    "deep_link": true
    }
   ],
   "published_at": "2026-11-01T11:04:03+08:00",
   "published_note": "slide-tether",
   "images": [
-   "assets/img/slides/tether-1.jpg",
-   "assets/img/slides/tether-2.jpg",
-   "assets/img/slides/tether-3.jpg",
-   "assets/img/slides/tether-4.jpg"
+   "assets/img/photos/ardoino.jpg",
+   "assets/img/photos/goldbars.jpg",
+   "assets/img/photos/btcusd.jpg",
+   "assets/img/photos/treasury.jpg"
   ],
-  "image_credits": "Foto: Paolo Ardoino (Gage Skidmore, CC BY-SA 3.0), batangan emas (Stevebidmead, CC0), koin Casascius 25 BTC (Gage Skidmore, CC BY-SA 3.0), gedung Treasury AS (Wisneyykarin, CC BY-SA 4.0), via Wikimedia Commons.",
-  "tiktok_id": "7703069975610805525",
-  "tiktok_label": "Coinbase Q3",
-  "origin": "/workspace/ig_2026-11-01_news/caption.txt"
+  "image_credits": "Foto: Paolo Ardoino (Gage Skidmore, CC BY-SA 3.0); batangan emas (Stevebidmead, CC0); koin Casascius dan uang dolar (Gage Skidmore, CC BY-SA 3.0); gedung Treasury AS (Wisneyykarin, CC BY-SA 4.0). Via Wikimedia Commons.",
+  "origin": "/workspace/ig_2026-11-01_news/caption.txt",
+  "image_alt": "Paolo Ardoino, CEO Tether"
  },
  {
   "slug": "coinbase-untung-us719-juta-saham-anjlok",
   "category": "etf-makro",
   "type": "news",
-  "title": "Coinbase untung US$719 juta di Q3 2026, tapi sahamnya sempat anjlok lebih dari 13%",
+  "title": "Coinbase untung US$719 juta di Q3 2026, tapi sahamnya anjlok sekitar 13%",
   "summary": "Laba bersih naik, tetapi pendapatan total turun 35% dan pendapatan transaksi anjlok sekitar 44%.",
   "key_points": [
    "Laba bersih Q3 2026 naik jadi US$718,7 juta (Q3 2025: US$432,6 juta).",
-   "Total pendapatan turun 35% jadi US$1,22 miliar; pendapatan transaksi, yang mayoritas dari biaya trading, anjlok sekitar 44% ke US$590 juta.",
-   "Laba banyak terbantu kenaikan nilai aset kripto yang dipegang untuk investasi (sekitar US$715 juta); laba operasional sekitar US$62 juta.",
-   "Pendapatan stablecoin sekitar US$307 juta. Di saat yang sama, Bitcoin sempat turun ke sekitar US$77 ribu."
+   "Total pendapatan turun 35% jadi US$1,22 miliar; pendapatan transaksi anjlok 44% ke US$590,2 juta.",
+   "Laba hampir seluruhnya dari keuntungan aset kripto yang dipegang untuk investasi (US$715 juta); laba operasional hanya US$61,7 juta (Q3 2025: US$480,5 juta).",
+   "Pendapatan stablecoin US$306,9 juta. Saham COIN turun sekitar 13% pada 30 Oktober, saat BTC sempat di bawah US$77 ribu."
   ],
   "why_it_matters": "Laba besar belum tentu berarti bisnis inti sedang kuat: sebagian besar laba berasal dari kenaikan nilai aset yang dipegang, bukan dari operasional.",
   "body": [
-   "Coinbase untung US$719 juta di Q3 2026, tapi sahamnya malah sempat anjlok lebih dari 13%.",
-   "Laba bersih Coinbase di kuartal III 2026 naik jadi US$718,7 juta (Q3 2025: US$432,6 juta). Tapi total pendapatannya turun 35% jadi US$1,22 miliar, dan pendapatan transaksi, yang mayoritas dari biaya trading, anjlok sekitar 44% ke US$590 juta.",
-   "Labanya banyak terbantu kenaikan nilai aset kripto yang mereka pegang untuk investasi, sekitar US$715 juta. Laba operasionalnya cuma sekitar US$62 juta. Yang lumayan menahan: pendapatan stablecoin sekitar US$307 juta. Di saat yang sama, Bitcoin sempat turun ke sekitar US$77 ribu."
+   "Coinbase untung US$719 juta di Q3 2026, tapi sahamnya malah anjlok sekitar 13% sehari setelah laporan keluar.",
+   "Menurut laporan 10-Q ke SEC, laba bersih Coinbase di kuartal III 2026 naik jadi US$718,7 juta (Q3 2025: US$432,6 juta). Tapi total pendapatannya turun 35% jadi US$1,22 miliar, dan pendapatan transaksi anjlok 44% ke US$590,2 juta.",
+   "Labanya hampir seluruhnya berasal dari keuntungan aset kripto yang mereka pegang untuk investasi, sekitar US$715 juta. Laba operasionalnya cuma US$61,7 juta. Yang lumayan menahan: pendapatan stablecoin US$306,9 juta. Saham COIN turun sekitar 13% pada 30 Oktober, di hari yang sama Bitcoin sempat jatuh di bawah US$77 ribu setelah hack Binance."
   ],
   "analysis": "Laba besar belum tentu berarti bisnis intinya lagi kuat. Selalu cek labanya datang dari mana.",
   "sources": [
    {
     "name": "Laporan 10-Q Coinbase ke SEC (Q3 2026)",
-    "url": "https://www.sec.gov",
-    "deep_link": false
-   },
-   {
-    "name": "Reuters",
-    "url": "https://www.reuters.com",
-    "deep_link": false
+    "url": "https://www.sec.gov/Archives/edgar/data/1679788/000167978826000122/coin-20260930.htm",
+    "deep_link": true
    },
    {
     "name": "CNBC",
-    "url": "https://www.cnbc.com",
-    "deep_link": false
+    "url": "https://www.cnbc.com/2026/10/29/coinbase-coin-earnings-q3-2026-.html",
+    "deep_link": true
+   },
+   {
+    "name": "Reuters via Investing.com",
+    "url": "https://www.investing.com/news/stock-market-news/coinbase-snaps-losing-streak-with-thirdquarter-profit-on-crypto-trading-rebound-4985073",
+    "deep_link": true
    },
    {
     "name": "Yahoo Finance",
-    "url": "https://finance.yahoo.com",
-    "deep_link": false
+    "url": "https://finance.yahoo.com/markets/crypto/articles/coin-stock-sinks-over-2-154445585.html",
+    "deep_link": true
    }
   ],
   "published_at": "2026-11-01T13:11:16+08:00",
   "published_note": "reel-pm",
   "images": [
-   "assets/img/reels/coinbase.jpg"
+   "assets/img/photos/coinbase.jpg"
   ],
-  "images_kind": "cover",
-  "image_credits": null,
-  "tiktok_id": "7703069975610805525",
-  "tiktok_label": "Coinbase Q3",
-  "origin": "/workspace/reels/2026-11-01_pm/caption.txt"
+  "image_credits": "Foto: Brian Armstrong, CEO Coinbase, di TechCrunch Disrupt 2018 (TechCrunch, CC BY 2.0, Wikimedia Commons).",
+  "origin": "/workspace/reels/2026-11-01_pm/caption.txt",
+  "image_alt": "CEO Coinbase Brian Armstrong di TechCrunch Disrupt 2018"
  },
  {
   "slug": "whitepaper-bitcoin-18-tahun",
@@ -249,47 +237,35 @@
    "Hari ini, 31 Oktober 2026, tepat 18 tahun sejak Satoshi Nakamoto mengumumkan paper sembilan halaman berjudul \"Bitcoin: A Peer-to-Peer Electronic Cash System\" lewat milis kriptografi pada 31 Oktober 2008. Jaringan Bitcoin sendiri baru berjalan pada 3 Januari 2009.",
    "Apa isi paper-nya? Satoshi mengusulkan uang elektronik peer-to-peer yang memungkinkan pembayaran dikirim langsung dari satu pihak ke pihak lain, tanpa lewat lembaga keuangan. Transaksi disiarkan ke jaringan dan dicatat dalam rantai blok yang diamankan proof-of-work, sehingga tidak perlu pihak ketiga tepercaya untuk mencegah double-spending.",
    "Dari 2008 ke 2026: paper diumumkan 31 Oktober 2008; blok pertama ditambang 3 Januari 2009; ETF Bitcoin spot di AS disetujui Januari 2024. Hari ini, Bitcoin diperdagangkan sekitar US$77.400 dengan nilai pasar sekitar US$1,55 triliun. Pasokannya dibatasi 21 juta koin dan lebih dari 95% sudah ditambang.",
-   "Momen yang pas untuk bicara kustodi: peringatan ulang tahun ini muncul beberapa hari setelah Binance melaporkan hack sekitar US$6,3 miliar dari hot wallet. Binance menyatakan dana pengguna aman dan menyiapkan lebih dari US$6,34 miliar untuk menutup kerugian."
+   "Momen yang pas untuk bicara kustodi: peringatan ulang tahun ini muncul dua hari setelah hack Binance sekitar US$6,3 miliar dari hot wallet. Binance menyatakan dana pengguna aman dan menyiapkan lebih dari US$6,34 miliar dana perusahaan untuk menutup kerugian."
   ],
   "sources": [
    {
-    "name": "Watcher.Guru",
-    "url": "https://watcher.guru",
-    "deep_link": false
-   },
-   {
-    "name": "crypto.news",
-    "url": "https://crypto.news",
-    "deep_link": false
-   },
-   {
-    "name": "CoinDesk",
-    "url": "https://www.coindesk.com",
-    "deep_link": false
-   },
-   {
-    "name": "KuCoin",
-    "url": "https://www.kucoin.com",
-    "deep_link": false
-   },
-   {
-    "name": "bitcoin.org (whitepaper)",
+    "name": "Bitcoin whitepaper (bitcoin.org)",
     "url": "https://bitcoin.org/bitcoin.pdf",
-    "deep_link": false
+    "deep_link": true
+   },
+   {
+    "name": "CoinMarketCap: snapshot 31 Okt 2026",
+    "url": "https://coinmarketcap.com/historical/20261031/",
+    "deep_link": true
+   },
+   {
+    "name": "Decrypt (dana cadangan Binance)",
+    "url": "https://decrypt.co/382224/trm-and-chainalysis-tie-6-4b-binance-hack-to-north-koreas-tradertraitor",
+    "deep_link": true
    }
   ],
   "published_at": "2026-10-31T21:05:16+08:00",
   "published_note": "slide-watcher",
   "images": [
-   "assets/img/slides/watcher-1.jpg",
-   "assets/img/slides/watcher-2.jpg",
-   "assets/img/slides/watcher-3.jpg",
-   "assets/img/slides/watcher-4.jpg"
+   "assets/img/photos/bust1.jpg",
+   "assets/img/photos/wp-1.jpg",
+   "assets/img/photos/casa.jpg"
   ],
-  "image_credits": "Foto: patung Satoshi Nakamoto di Budapest (Fekist, CC BY-SA 4.0, Wikimedia Commons). Patung, bukan foto Satoshi. Slide 2: halaman 1 whitepaper (bitcoin.org, lisensi MIT); slide 3–4: Wikimedia Commons (Satheesh Sankaran CC BY 2.0; Steve Jurvetson CC BY 2.0).",
-  "tiktok_id": "7702990255175109909",
-  "tiktok_label": "Bitcoin cuma 21 juta",
-  "origin": "/workspace/ig_watcher/caption.txt"
+  "image_credits": "Foto: patung Satoshi Nakamoto di Budapest (Fekist, CC BY-SA 4.0), patung, bukan foto Satoshi; halaman 1 whitepaper Bitcoin (bitcoin.org, MIT); koin Casascius (Steve Jurvetson, CC BY 2.0). Via Wikimedia Commons.",
+  "origin": "/workspace/ig_watcher/caption.txt",
+  "image_alt": "Patung Satoshi Nakamoto di Budapest"
  },
  {
   "slug": "trezor-safe-5-tokopedia-diduga-disadap",
@@ -298,55 +274,51 @@
   "title": "Trezor Safe 5 dari Tokopedia diduga dipasangi alat penyadap",
   "summary": "Trezor menilai laporan implan perangkat keras pada Trezor Safe 5 dari seorang pembeli di Indonesia kredibel, namun belum memeriksa perangkatnya di lab.",
   "key_points": [
-   "Perangkat dibeli Agustus 2026 dari CryptoBilis lewat Tokopedia. CryptoBilis sebelumnya reseller resmi Trezor di Asia Tenggara, diputus pada 9 Oktober 2026.",
-   "Trezor belum memeriksa perangkat di lab, tetapi menilai laporan kredibel berdasarkan deskripsi, foto, dan wawancara video. Belum ada laporan dana hilang.",
+   "Perangkat dibeli Agustus 2026 dari CryptoBilis lewat Tokopedia dan dilaporkan ke Trezor pada 28 Oktober. Trezor mencoret CryptoBilis dari daftar reseller pada 9 Oktober 2026.",
+   "Trezor belum menerima atau memeriksa perangkatnya, tetapi menilai laporan kredibel berdasarkan deskripsi dan wawancara video. Belum ada pembeli CryptoBilis yang melapor kehilangan dana ke Trezor.",
    "Menurut laporan, ada papan sirkuit tambahan antara mainboard dan layar, lengkap dengan modul seluler dan antena; diduga membaca isi layar (termasuk recovery phrase) dan mengirimnya lewat jaringan seluler.",
-   "Ledger mengonfirmasi sebagian perangkatnya yang dijual CryptoBilis dimodifikasi fisik. Polisi Singapura (28 Oktober) mencatat minimal 2 kasus Ledger yang dimodifikasi, total kerugian sekitar S$3,5 juta."
+   "Ledger menemukan implan serupa di perangkatnya yang dijual CryptoBilis. Terpisah, Polisi Singapura (28 Okt) mencatat minimal 2 Ledger termodifikasi yang dibeli di toko ritel lokal, dengan kerugian sekitar S$3,5 juta."
   ],
   "why_it_matters": "Beli hardware wallet hanya dari situs resmi atau reseller resmi yang tercantum di situs brand-nya. Ini masih dugaan yang belum diperiksa di lab oleh Trezor.",
   "body": [
-   "Trezor menerima laporan dari seorang pembeli di Indonesia soal Trezor Safe 5 yang diduga dipasangi implan perangkat keras. Perangkat itu dibeli pada Agustus 2026 dari CryptoBilis lewat Tokopedia. CryptoBilis sebelumnya adalah reseller resmi Trezor di Asia Tenggara, tapi sudah diputus pada 9 Oktober 2026.",
-   "Trezor belum memeriksa perangkat tersebut di lab, tapi menilai laporan ini kredibel berdasarkan deskripsi, foto, dan wawancara video dengan pelapor. Sejauh ini belum ada laporan dana hilang, karena pelapor sudah memindahkan dananya sebelum menemukan implan.",
-   "Bagaimana cara kerjanya? Menurut laporan, ada papan sirkuit tambahan di antara mainboard dan layar, lengkap dengan modul seluler dan antena. Implan ini diduga membaca isi layar, termasuk recovery phrase, lalu mengirimnya lewat jaringan seluler setiap kali perangkat dicolok.",
-   "Bukan kasus pertama: Ledger sudah mengonfirmasi bahwa sebagian perangkatnya yang dijual CryptoBilis dimodifikasi secara fisik. Polisi Singapura (28 Oktober) juga mencatat minimal 2 kasus Ledger yang dimodifikasi, dengan total kerugian sekitar S$3,5 juta."
+   "Trezor menerima laporan dari seorang pembeli di Indonesia soal Trezor Safe 5 yang diduga dipasangi implan perangkat keras. Perangkat itu dibeli pada Agustus 2026 dari CryptoBilis lewat Tokopedia, dan dilaporkan lewat program responsible disclosure Trezor pada 28 Oktober. Trezor sudah mencoret CryptoBilis dari daftar reseller pada 9 Oktober 2026.",
+   "Trezor belum menerima perangkat tersebut, tapi menilai laporan ini kredibel berdasarkan deskripsi dan wawancara video dengan pelapor. Sejauh ini belum ada pembeli CryptoBilis yang melaporkan kehilangan dana ke Trezor.",
+   "Bagaimana cara kerjanya? Menurut laporan yang belum diverifikasi Trezor, ada papan sirkuit tambahan di antara mainboard dan layar, lengkap dengan modul seluler dan antena. Implan ini diduga membaca isi layar, termasuk recovery phrase, lalu mengirimnya lewat jaringan seluler setiap kali perangkat dicolok.",
+   "Bukan kasus pertama: tim Donjon milik Ledger menemukan implan di perangkat Ledger yang dijual CryptoBilis. Secara terpisah, Polisi Singapura pada 28 Oktober mencatat minimal 2 Ledger termodifikasi yang dibeli di toko ritel lokal, dengan total kerugian sekitar S$3,5 juta."
   ],
   "tips_title": "Pernah beli Trezor dari CryptoBilis sejak Maret 2026?",
   "tips": [
    "Pindahkan dana ke wallet baru dengan seed baru secepatnya.",
    "Jangan pakai seed lama di perangkat apa pun.",
    "Belum di-setup? Jangan dipakai.",
-   "Hubungi Trezor Support untuk perangkat pengganti atau voucher.",
+   "Hubungi Trezor Support untuk perangkat pengganti.",
    "Trezor Support tidak akan pernah meminta recovery phrase. Waspadai phishing yang memanfaatkan kasus ini."
   ],
   "sources": [
    {
-    "name": "Trezor",
-    "url": "https://trezor.io",
-    "deep_link": false
+    "name": "Trezor blog",
+    "url": "https://trezor.io/blog/news/implant-reported-in-a-trezor-sold-by-cryptobilis",
+    "deep_link": true
    },
    {
     "name": "Decrypt",
-    "url": "https://decrypt.co",
-    "deep_link": false
+    "url": "https://decrypt.co/382216/trezor-warns-cryptobilis-buyers-after-report-of-hardware-implant-in-safe-5",
+    "deep_link": true
    },
    {
-    "name": "Cointelegraph",
-    "url": "https://cointelegraph.com",
-    "deep_link": false
-   },
-   {
-    "name": "CoinDesk",
-    "url": "https://www.coindesk.com",
-    "deep_link": false
+    "name": "Singapore Police Force",
+    "url": "https://www.police.gov.sg/Media-Hub/News/2026/10/20261028_police_advisory_on_tampered_cryptocurrency_hardware_wallets",
+    "deep_link": true
    }
   ],
   "published_at": "2026-10-31T11:08:39+08:00",
   "published_note": "caption-trezor",
-  "images": [],
-  "image_credits": null,
-  "tiktok_id": "7702805606549261588",
-  "tiktok_label": "Hot vs Cold Wallet",
-  "origin": "/workspace/ig_trezor/caption.txt"
+  "images": [
+   "assets/img/photos/trezor_btc.jpg"
+  ],
+  "image_credits": "Foto ilustrasi: dua hardware wallet Trezor One dan koin Casascius 5 BTC (Gage Skidmore, CC BY-SA 3.0, Wikimedia Commons). Bukan perangkat yang dilaporkan.",
+  "origin": "/workspace/ig_trezor/caption.txt",
+  "image_alt": "Hardware wallet Trezor dan koin Bitcoin fisik (ilustrasi)"
  },
  {
   "slug": "taruhan-us1-juta-calacanis-vs-cardone",
@@ -356,47 +328,49 @@
   "summary": "Grant Cardone menantang pernyataan Jason Calacanis dengan taruhan US$1 juta; belum ada kesepakatan yang didanai.",
   "key_points": [
    "27 Okt 2026: Jason Calacanis bilang Bitcoin bisa kembali ke sekitar US$57.000 dalam 12 bulan dan \"tidak akan pernah\" tembus rekor tertingginya lagi.",
-   "Sehari kemudian Grant Cardone menantang dengan taruhan US$1 juta: BTC menyentuh US$126.210,50 paling lambat 28 Okt 2028 pukul 12.00 PST.",
-   "Fred Krueger (tenggat 2036) dan Terence Michael juga menawarkan masing-masing US$1 juta; total tawaran US$3 juta.",
-   "Belum diterima: menurut laporan media, Calacanis baru bertanya soal layanan escrow dan menyebut tenggat 10 tahun terlalu lama."
+   "Grant Cardone menantang dengan taruhan US$1 juta: BTC menyentuh atau melewati rekor US$126.210,50 paling lambat 28 Okt 2028 pukul 12.00 PST.",
+   "Terence Michael (syarat sama dengan Cardone) dan Fred Krueger (tenggat 28 Okt 2036) juga menawarkan masing-masing US$1 juta; total tawaran US$3 juta.",
+   "Belum ada kesepakatan: Calacanis membalas \"So much free money!\" dan bertanya soal escrow, tetapi belum menerima tawaran mana pun secara resmi."
   ],
   "why_it_matters": "Ini adu opini, bukan prediksi yang terbukti. BTC saat itu sekitar US$78.000, sekitar 38% di bawah rekor; agar taruhan Cardone menang, BTC perlu naik sekitar 62%.",
   "body": [
-   "Pada 27 Okt 2026, Jason Calacanis (investor awal Uber & co-host podcast All-In) bilang Bitcoin bisa kembali ke sekitar US$57.000 dalam 12 bulan dan \"tidak akan pernah\" tembus rekor tertingginya lagi. Sehari kemudian, Grant Cardone langsung menantang dengan taruhan US$1 juta.",
-   "Syarat taruhan Cardone: BTC menyentuh (hit or exceed) US$126.210,50 paling lambat 28 Okt 2028 pukul 12.00 PST. Bisa dipercayakan langsung atau lewat escrow pihak ketiga.",
-   "Penantang lain ikut masuk: Fred Krueger (tenggat 2036) dan Terence Michael juga menawarkan masing-masing US$1 juta. Total tawaran taruhan: US$3 juta.",
-   "Sudah diterima? Belum. Menurut laporan media, Calacanis baru bertanya soal layanan escrow dan menyebut tenggat 10 tahun terlalu lama. Belum ada kesepakatan yang didanai.",
-   "Selisih harganya: BTC sekitar US$78.000, sekitar 38% di bawah rekor. Agar taruhan Cardone menang, BTC perlu naik sekitar 62%."
+   "Pada 27 Okt 2026, Jason Calacanis (co-host podcast All-In) menulis di X bahwa Bitcoin bisa turun ke US$57.000 dalam setahun dan \"tidak akan pernah\" tembus rekor tertingginya lagi. Grant Cardone, pendiri Cardone Capital, lalu menantangnya dengan taruhan US$1 juta.",
+   "Syarat taruhan Cardone: BTC menyentuh atau melewati rekor US$126.210,50 paling lambat 28 Okt 2028 pukul 12.00 PST. Kalau tidak, Cardone yang membayar US$1 juta ke Calacanis.",
+   "Penantang lain ikut masuk: Terence Michael dengan syarat yang sama, dan Fred Krueger dengan tenggat lebih longgar, 28 Okt 2036. Total tawaran taruhan: US$3 juta.",
+   "Sudah diterima? Belum. Calacanis membalas \"So much free money!\" dan bertanya apakah ada escrow atau platform untuk mengunci taruhan, tetapi belum ada kesepakatan resmi.",
+   "Selisih harganya: BTC sekitar US$78.000 saat itu, sekitar 38% di bawah rekor. Agar taruhan Cardone menang, BTC perlu naik sekitar 62%."
   ],
   "sources": [
    {
+    "name": "Moneywise via Yahoo Finance",
+    "url": "https://finance.yahoo.com/markets/crypto/articles/grant-cardone-bets-jason-calacanis-130000437.html",
+    "deep_link": true
+   },
+   {
     "name": "Benzinga",
-    "url": "https://www.benzinga.com",
-    "deep_link": false
+    "url": "https://www.benzinga.com/crypto/cryptocurrency/26/10/62684888/jason-calacanis-bitcoin-prediction-grant-cardone-bet",
+    "deep_link": true
    },
    {
-    "name": "TheStreet",
-    "url": "https://www.thestreet.com",
-    "deep_link": false
-   },
-   {
-    "name": "CCN",
-    "url": "https://www.ccn.com",
-    "deep_link": false
+    "name": "Bitcoin.com News",
+    "url": "https://news.bitcoin.com/price-predictions/jason-calacanis-bitcoin-prediction-draws-3m-rival-bets-wont-bite/",
+    "deep_link": true
    },
    {
     "name": "BeInCrypto",
-    "url": "https://beincrypto.com",
-    "deep_link": false
+    "url": "https://beincrypto.com/calacanis-bitcoin-bet-all-time-high/",
+    "deep_link": true
    }
   ],
   "published_at": "2026-10-30T19:02:32+08:00",
   "published_note": "caption-tonight",
-  "images": [],
-  "image_credits": null,
-  "tiktok_id": "7702990255175109909",
-  "tiktok_label": "Bitcoin cuma 21 juta",
-  "origin": "/workspace/reels/tonight/caption.txt"
+  "images": [
+   "assets/img/photos/calacanis.jpg",
+   "assets/img/photos/cardone.jpg"
+  ],
+  "image_credits": "Foto: Jason Calacanis di LAUNCH Festival 2016 (Preshdineshkumar, CC BY-SA 4.0); Grant Cardone (Gage Skidmore, CC BY-SA 4.0). Via Wikimedia Commons.",
+  "origin": "/workspace/reels/tonight/caption.txt",
+  "image_alt": "Jason Calacanis di LAUNCH Festival 2016"
  },
  {
   "slug": "pentagon-program-rahasia-bitcoin",
@@ -427,8 +401,6 @@
   "published_note": "caption-ref",
   "images": [],
   "image_credits": null,
-  "tiktok_id": "7702990255175109909",
-  "tiktok_label": "Bitcoin cuma 21 juta",
   "origin": "/workspace/ig_ref/caption.txt",
   "hold": true,
   "hold_reason": "Hanya satu sumber (kantor anggota Kongres) dan belum diverifikasi independen; ditahan sampai ada sumber primer/independen."
@@ -441,28 +413,40 @@
   "summary": "Menurut CryptoQuant (analis Darkfost), lebih dari 36.600 BTC dikirim ke exchange dalam 24 jam setelah BTC menyentuh US$76K.",
   "key_points": [
    "Short-term holder mengirim lebih dari 36.600 BTC ke exchange dalam kondisi rugi, dalam 24 jam setelah BTC sentuh US$76K (CryptoQuant, analis Darkfost).",
-   "Inflow 7 hari mereka ke Binance tembus 45.400 BTC, tertinggi di bulan Oktober.",
-   "Mike McGlone (Bloomberg Intelligence): jika BTC jatuh di bawah US$80.000, itu bisa jadi tanda crypto melemah dibanding obligasi pemerintah AS. Ini opini satu analis."
+   "Dalam 7 hari, short-term holder mengirim 45.400 BTC ke Binance, tertinggi di bulan Oktober.",
+   "Mike McGlone (Bloomberg Intelligence): sejak akhir 2024 Bitcoin tertinggal sekitar 19% dari obligasi pemerintah AS jangka panjang (IBIT vs TLT). Ini opini satu analis."
   ],
   "why_it_matters": "Inflow ke exchange sering dibaca sebagai potensi tekanan jual, tetapi ini data dari satu analis dan bukan kepastian arah harga.",
   "body": [
-   "Short-term holder mengirim lebih dari 36.600 BTC ke exchange dalam kondisi rugi, dalam 24 jam setelah BTC menyentuh US$76K (CryptoQuant, analis Darkfost). Inflow 7 hari mereka ke Binance tembus 45.400 BTC, tertinggi di bulan Oktober.",
-   "Mike McGlone (Bloomberg Intelligence) mengatakan, kalau BTC jatuh di bawah US$80.000, itu bisa jadi tanda crypto melemah dibanding obligasi pemerintah AS. Ini opini satu analis."
+   "Short-term holder mengirim lebih dari 36.600 BTC ke exchange dalam kondisi rugi, dalam 24 jam setelah BTC menyentuh US$76K (CryptoQuant, analis Darkfost). Dalam 7 hari, short-term holder mengirim 45.400 BTC ke Binance, tertinggi di bulan Oktober.",
+   "Darkfost sendiri menilai kapitulasi yang makin kuat bisa menandakan koreksi mendekati titik ekstrem, jadi data ini tidak otomatis berarti harga akan terus turun.",
+   "Mike McGlone (Bloomberg Intelligence) membandingkan ETF Bitcoin IBIT dengan ETF obligasi AS TLT: per 30 Okt 2026 rasionya 81 (100 = akhir 2024), artinya Bitcoin tertinggal sekitar 19% dari obligasi AS. Ini opini satu analis."
   ],
-  "analysis": "Mike McGlone (Bloomberg Intelligence) menilai BTC di bawah US$80.000 bisa menjadi tanda crypto melemah dibanding obligasi pemerintah AS. Ini opini satu analis, bukan fakta pasar.",
+  "analysis": "Mike McGlone menilai pelemahan BTC di bawah US$80.000 bisa jadi tanda tekanan pada aset berisiko. Ini opini satu analis, bukan fakta pasar.",
   "sources": [
    {
-    "name": "CryptoQuant (analis Darkfost)",
+    "name": "PANews (mengutip CryptoQuant, Darkfost)",
+    "url": "https://www.panews.io/articles/01a1913e-ca1c-72e3-9bb8-b6d5bf6a103c",
+    "deep_link": true
+   },
+   {
+    "name": "CryptoQuant",
     "url": "https://cryptoquant.com",
     "deep_link": false
+   },
+   {
+    "name": "U.Today (Mike McGlone)",
+    "url": "https://u.today/bitcoin-faces-critical-turning-point-against-us-treasury-bonds-bloomberg-says?amp=",
+    "deep_link": true
    }
   ],
   "published_at": "2026-11-01T13:42:50+08:00",
   "published_note": "telegram-post1",
-  "images": [],
-  "image_credits": null,
-  "tiktok_id": "7702990255175109909",
-  "tiktok_label": "Bitcoin cuma 21 juta",
-  "origin": "/workspace/telegram/2026-11-01_post1.txt"
+  "images": [
+   "assets/img/photos/hold.jpg"
+  ],
+  "image_credits": "Foto ilustrasi: koin Bitcoin (Satheesh Sankaran, CC BY 2.0, Wikimedia Commons).",
+  "origin": "/workspace/telegram/2026-11-01_post1.txt",
+  "image_alt": "Koin Bitcoin fisik di tangan (ilustrasi)"
  }
 ]

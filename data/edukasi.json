@@ -6,7 +6,7 @@
   "title": "Kenapa Bitcoin cuma ada 21 juta?",
   "summary": "Pasokan Bitcoin dibatasi oleh aturan protokol, bukan oleh satu perusahaan. Ini cara batas 21 juta bekerja.",
   "published_at": "2026-11-03T12:00:00+08:00",
-  "image": "assets/img/reels/btc21.jpg",
+  "image": "assets/img/photos/casa.jpg",
   "tiktok_id": "7702990255175109909",
   "tiktok_label": "Bitcoin cuma 21 juta",
   "key_points": [
@@ -31,7 +31,9 @@
     "url": "https://bitcoin.org/bitcoin.pdf",
     "deep_link": true
    }
-  ]
+  ],
+  "image_alt": "Koin Bitcoin fisik Casascius",
+  "image_credits": "Foto: koin Casascius (Steve Jurvetson, CC BY 2.0, Wikimedia Commons)."
  },
  {
   "slug": "apa-itu-halving-bitcoin",
@@ -40,7 +42,7 @@
   "title": "Apa itu halving Bitcoin?",
   "summary": "Halving memotong hadiah blok Bitcoin separuh setiap 210.000 blok. Ini riwayat dan jadwal berikutnya.",
   "published_at": "2026-11-03T12:05:00+08:00",
-  "image": null,
+  "image": "assets/img/photos/mining.jpg",
   "key_points": [
    "Halving adalah pemotongan hadiah blok untuk miner menjadi separuh, terjadi setiap 210.000 blok (sekitar empat tahun).",
    "Hadiah blok turun dari 50 BTC (2009) ke 25 (2012), 12,5 (2016), 6,25 (2020), dan 3,125 BTC (April 2024).",
@@ -63,7 +65,9 @@
     "url": "https://bitcoin.org/bitcoin.pdf",
     "deep_link": true
    }
-  ]
+  ],
+  "image_alt": "Deretan mesin mining Bitcoin",
+  "image_credits": "Foto: Bitcoin mining farm (Marko Ahtisaari, CC BY 2.0, Wikimedia Commons)."
  },
  {
   "slug": "stablecoin-apa-jenis-dan-risikonya",
@@ -72,7 +76,7 @@
   "title": "Stablecoin: apa itu, jenisnya, dan risikonya",
   "summary": "Stablecoin dirancang menjaga nilai stabil, umumnya dipatok ke dolar AS. Stabil bukan berarti bebas risiko.",
   "published_at": "2026-11-03T12:10:00+08:00",
-  "image": null,
+  "image": "assets/img/photos/dollar.jpg",
   "key_points": [
    "Stablecoin adalah aset kripto yang dirancang mempertahankan nilai tetap, paling umum 1 koin = 1 dolar AS.",
    "Ada yang didukung cadangan (uang tunai, surat utang), ada yang didukung aset kripto, dan ada yang algoritmik.",
@@ -101,7 +105,9 @@
     "url": "https://www.coindesk.com",
     "deep_link": false
    }
-  ]
+  ],
+  "image_alt": "Uang kertas 100 dolar AS",
+  "image_credits": "Foto: uang kertas 100 dolar AS (Revisorweb, domain publik, Wikimedia Commons)."
  },
  {
   "slug": "hot-wallet-vs-cold-wallet",
@@ -110,7 +116,7 @@
   "title": "Hot wallet vs cold wallet: bedanya apa?",
   "summary": "Hot wallet terhubung ke internet, cold wallet disimpan offline. Masing-masing punya risiko sendiri.",
   "published_at": "2026-11-03T12:15:00+08:00",
-  "image": "assets/img/reels/wallet.jpg",
+  "image": "assets/img/photos/ledger1.jpg",
   "tiktok_id": "7702805606549261588",
   "tiktok_label": "Hot vs Cold Wallet",
   "key_points": [
@@ -136,6 +142,8 @@
     "url": "https://bitcoin.org/en/secure-your-wallet",
     "deep_link": true
    }
-  ]
+  ],
+  "image_alt": "Hardware wallet Ledger Nano S",
+  "image_credits": "Foto: Ledger Nano S (Motokoka, CC BY-SA 4.0, Wikimedia Commons)."
  }
 ]
