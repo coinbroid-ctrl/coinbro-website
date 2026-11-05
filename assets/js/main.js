@@ -40,3 +40,10 @@
   // --- telegram embeds: show fallback link if widget doesn't render ---
   setTimeout(function(){$$('.tg-card').forEach(function(c){if(!c.querySelector('iframe')){var f=c.querySelector('.tg-fallback');if(f)f.style.display='block'}})},6000);
 })();
+// --- dashboard market panel (CoinGecko public API; no data shown if it fails) ---
+(function(){var m=document.getElementById('mkt');if(!m)return;
+function f(n){return n>=1000?n.toLocaleString('en-US',{maximumFractionDigits:0}):n.toLocaleString('en-US',{maximumFractionDigits:n<1?4:2})}
+function load(){fetch('https://api.coingecko.com/api/v3/coins/markets?vs_currency=usd&ids=bitcoin,ethereum,tether,binancecoin,solana&order=market_cap_desc').then(function(r){if(!r.ok)throw 0;return r.json()}).then(function(d){
+m.innerHTML=d.map(function(c){var ch=c.price_change_percentage_24h||0;return '<div class="q"><div class="s">'+c.symbol.toUpperCase()+'</div><div class="p">US$'+f(c.current_price)+'</div><div class="c '+(ch>=0?'up':'dn')+'">'+(ch>=0?'▲ ':'▼ ')+Math.abs(ch).toFixed(2)+'% 24h</div></div>'}).join('')
+}).catch(function(){if(!m.querySelector('.q'))m.innerHTML='<div class="mkt-load muted"><span class="l-id">Data pasar belum bisa dimuat. Coba lagi nanti.</span><span class="l-en">Market data could not be loaded. Try again later.</span></div>'})}
+load();setInterval(load,60000)})();
