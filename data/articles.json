@@ -602,5 +602,295 @@
   "analysis_en": "Mike McGlone sees BTC weakness below US$80,000 as a possible sign of pressure on risk assets. This is one analyst's opinion, not a market fact.",
   "image_alt_en": "Physical Bitcoin coin in a hand (illustration)",
   "image_credits_en": "Illustrative photo: Bitcoin coin (Satheesh Sankaran, CC BY 2.0, Wikimedia Commons)."
+ },
+ {
+  "slug": "bitcoin-kembali-80-ribu-demokrat-kuasai-kongres",
+  "category": "bitcoin",
+  "type": "news",
+  "title": "Bitcoin balik ke atas US$80.000 setelah Demokrat menangi Kongres AS, nasib RUU CLARITY dipertanyakan",
+  "summary": "Bitcoin pulih ke kisaran US$80.000 setelah Partai Demokrat menang di DPR dan Senat AS pada pemilu sela 3 November. Pelaku industri menilai RUU struktur pasar crypto CLARITY makin sulit lolos.",
+  "key_points": [
+   "Partai Demokrat memenangi kendali DPR dan Senat AS di pemilu sela 3 November 2026. Mayoritas baru mulai bertugas 3 Januari 2027.",
+   "Menurut CoinDesk, BTC sempat turun ke dekat US$75.700 pada Rabu dini hari (waktu AS) saat hasil pemilu masuk, lalu naik ke sekitar US$80.484 pada Kamis pagi waktu Asia, naik 5,7% dalam 24 jam (data CoinGecko).",
+   "Di periode yang sama, ETH naik sekitar 8% ke ±US$2.425, dan Zcash (ZEC) naik 11,7% ke ±US$1.318 menjelang upgrade jaringan NU7.",
+   "CoinDesk mencatat minyak Brent turun lebih dari 8% pada Rabu dan S&P 500 naik 1,6%, sementara dolar AS melemah.",
+   "Stefan Muehlbauer dari CertiK kepada Cointelegraph: RUU CLARITY \"kemungkinan besar mati\". Jeff Mei dari BTSE kepada CoinDesk: CLARITY dalam bentuknya sekarang kecil kemungkinan lolos."
+  ],
+  "why_it_matters": "RUU CLARITY dirancang untuk mengatur struktur pasar crypto di AS. Kalau macet, kepastian aturan yang ditunggu industri bisa tertunda. Muehlbauer memperkirakan Elizabeth Warren dan Maxine Waters, dua pengkritik crypto, akan memimpin Komite Perbankan Senat dan Komite Jasa Keuangan DPR.",
+  "body": [
+   "Bitcoin kembali ke kisaran US$80.000 setelah Partai Demokrat memenangi kendali dua kamar Kongres AS, yaitu DPR dan Senat, dalam pemilu sela (midterm) 3 November 2026.",
+   "Menurut CoinDesk, BTC sempat turun ke dekat US$75.700 pada Rabu dini hari waktu AS saat hasil pemilu mulai masuk. Cointelegraph menyebut level itu yang terendah dalam tujuh minggu. Setelah itu harga pulih bersama saham AS: BTC kembali ke US$80.000 saat bursa Wall Street dibuka Rabu, dan diperdagangkan sekitar US$80.484 pada Kamis pagi waktu Asia, naik 5,7% dalam 24 jam menurut data CoinGecko yang dikutip CoinDesk.",
+   "Aset lain ikut naik. Menurut CoinDesk, ETH naik sekitar 8% ke ±US$2.425, sedangkan Zcash (ZEC) naik 11,7% ke ±US$1.318. Kenaikan ZEC terjadi menjelang upgrade jaringan NU7 yang diperkirakan sekitar Jumat, yang memangkas target waktu antarblok dari 75 detik menjadi 25 detik.",
+   "Dari sisi pasar global, CoinDesk mencatat minyak Brent turun lebih dari 8% pada Rabu karena investor bertaruh Kongres yang dikuasai Demokrat akan menambah tekanan untuk mengakhiri konflik di Timur Tengah. S&P 500 naik 1,6% dan dolar AS melemah.",
+   "Soal regulasi, kabarnya kurang cerah bagi industri. Stefan Muehlbauer, kepala urusan pemerintahan AS di CertiK, mengatakan kepada Cointelegraph bahwa RUU CLARITY \"kemungkinan besar mati\", baik di sisa masa sidang sekarang maupun di Kongres berikutnya. Jeff Mei, COO exchange BTSE, mengatakan kepada CoinDesk bahwa CLARITY dalam bentuknya sekarang kecil kemungkinan lolos."
+  ],
+  "analysis": "Reaksi pasar menunjukkan investor sejauh ini lebih fokus pada hilangnya ketidakpastian pemilu, turunnya harga minyak, dan melemahnya dolar daripada pada risiko regulasi. Namun kalau RUU CLARITY benar-benar macet, industri crypto AS bisa lebih lama beroperasi tanpa kerangka aturan pasar yang jelas. Ini interpretasi, bukan prediksi harga.",
+  "sources": [
+   {
+    "name": "CoinDesk: Bitcoin holds above $80,000 as Zcash jumps 12% in post-election crypto rebound",
+    "url": "https://www.coindesk.com/markets/2026/11/05/bitcoin-holds-above-usd80-000-as-zcash-jumps-12-in-post-election-crypto-rebound",
+    "deep_link": true
+   },
+   {
+    "name": "Cointelegraph: Democrats sweep Congress, Bitcoin hits $80K, CLARITY doubts",
+    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
+    "deep_link": true
+   },
+   {
+    "name": "Investing.com: Bitcoin firms to $80.5k as U.S. elections buoy risk appetite",
+    "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-firms-to-805k-as-us-elections-buoy-risk-appetite-but-outlook-unclear-5002271",
+    "deep_link": true
+   }
+  ],
+  "published_at": "2026-11-05T19:15:00+08:00",
+  "images": [
+   "assets/img/photos/us_capitol.jpg",
+   "assets/img/photos/btcusd.jpg"
+  ],
+  "image_alt": "Gedung Capitol AS di Washington, D.C., tempat Kongres AS bersidang",
+  "image_credits": "Foto: sisi barat Gedung Capitol AS (Architect of the Capitol, domain publik); koin Casascius dan uang dolar (Gage Skidmore, CC BY-SA 3.0). Via Wikimedia Commons. Foto ilustrasi.",
+  "title_en": "Bitcoin back above US$80,000 after Democrats win the US Congress, CLARITY bill's fate in doubt",
+  "summary_en": "Bitcoin recovered to around US$80,000 after the Democratic Party won the US House and Senate in the 3 November midterms. Industry figures say the CLARITY crypto market structure bill now looks harder to pass.",
+  "key_points_en": [
+   "The Democratic Party won control of the US House and Senate in the 3 November 2026 midterm elections. The new majorities take office on 3 January 2027.",
+   "According to CoinDesk, BTC briefly fell toward US$75,700 early Wednesday (US time) as results came in, then rose to about US$80,484 on Thursday morning Asian time, up 5.7% in 24 hours (CoinGecko data).",
+   "Over the same period, ETH rose about 8% to ±US$2,425, and Zcash (ZEC) rose 11.7% to ±US$1,318 ahead of its NU7 network upgrade.",
+   "CoinDesk noted Brent crude fell more than 8% on Wednesday and the S&P 500 gained 1.6%, while the US dollar weakened.",
+   "CertiK's Stefan Muehlbauer told Cointelegraph the CLARITY bill is \"likely dead\". BTSE's Jeff Mei told CoinDesk CLARITY in its current form is unlikely to pass."
+  ],
+  "why_en": "The CLARITY bill is designed to set rules for the structure of US crypto markets. If it stalls, the regulatory clarity the industry has been waiting for could be delayed. Muehlbauer expects Elizabeth Warren and Maxine Waters, two crypto critics, to chair the Senate Banking Committee and the House Financial Services Committee.",
+  "body_en": [
+   "Bitcoin returned to around US$80,000 after the Democratic Party won control of both chambers of the US Congress, the House and the Senate, in the 3 November 2026 midterm elections.",
+   "According to CoinDesk, BTC briefly fell toward US$75,700 early Wednesday US time as results started coming in. Cointelegraph called it the lowest level in seven weeks. Prices then recovered along with US stocks: BTC returned to US$80,000 at Wednesday's Wall Street open, and traded around US$80,484 on Thursday morning Asian time, up 5.7% in 24 hours according to CoinGecko data cited by CoinDesk.",
+   "Other assets rose too. According to CoinDesk, ETH gained about 8% to ±US$2,425, while Zcash (ZEC) rose 11.7% to ±US$1,318. ZEC's rise came ahead of its NU7 network upgrade, expected around Friday, which cuts the target time between blocks from 75 seconds to 25 seconds.",
+   "In global markets, CoinDesk noted Brent crude fell more than 8% on Wednesday as investors bet a Democratic-controlled Congress would add pressure to end the Middle East conflict. The S&P 500 rose 1.6% and the US dollar weakened.",
+   "On regulation, the news is less upbeat for the industry. Stefan Muehlbauer, head of US government affairs at CertiK, told Cointelegraph the CLARITY bill is \"likely dead\", both in the remaining current session and in the next Congress. Jeff Mei, COO of exchange BTSE, told CoinDesk that CLARITY in its current form is unlikely to pass."
+  ],
+  "analysis_en": "The market reaction suggests investors are, for now, focusing more on the end of election uncertainty, lower oil prices and a weaker dollar than on regulatory risk. But if the CLARITY bill really stalls, the US crypto industry could operate longer without a clear market framework. This is interpretation, not a price prediction.",
+  "image_alt_en": "The US Capitol in Washington, D.C., where the US Congress meets",
+  "image_credits_en": "Photos: west front of the US Capitol (Architect of the Capitol, public domain); Casascius coin and dollar bills (Gage Skidmore, CC BY-SA 3.0). Via Wikimedia Commons. Illustrative photos."
+ },
+ {
+  "slug": "ojk-transaksi-kripto-september-2026-naik-32-persen",
+  "category": "regulasi",
+  "type": "news",
+  "title": "OJK: transaksi kripto RI September 2026 tembus Rp30,56 triliun, 5 penyelenggara kena sanksi",
+  "summary": "Nilai transaksi aset kripto di Indonesia naik 31,96% secara bulanan pada September 2026. OJK juga menjatuhkan sanksi ke lima penyelenggara dan menanggapi insiden keamanan Binance.",
+  "key_points": [
+   "Menurut OJK, nilai transaksi aset kripto September 2026 mencapai Rp30,56 triliun, naik 31,96% dari Agustus. Transaksi derivatif aset keuangan digital (AKD) Rp5,8 triliun, naik 27,19%.",
+   "Jumlah akun konsumen AKD mencapai 23,51 juta per September 2026, naik 1,29% secara bulanan.",
+   "OJK menjatuhkan sanksi administratif ke 3 penyelenggara ITSK dan 2 penyelenggara AKD/aset kripto: 2 penghentian kegiatan tertentu, 1 denda, dan 18 peringatan tertulis. Nama perusahaan tidak disebut dalam pemberitaan.",
+   "Soal insiden Binance, OJK mengingatkan aturan POJK 27/2024: minimal 70% aset konsumen disimpan di kustodian; dari bagian yang dikelola sendiri oleh pedagang, minimal 70% wajib di cold storage.",
+   "OJK mengimbau masyarakat tetap tenang dan hanya bertransaksi lewat pedagang aset kripto yang berizin dan diawasi OJK."
+  ],
+  "why_it_matters": "Lonjakan transaksi terjadi bersamaan dengan insiden keamanan besar di exchange global. Menurut POJK 27/2024 Pasal 91 ayat 1, pedagang wajib menjaga keamanan dan bertanggung jawab jika aset kripto konsumen yang mereka simpan hilang. Ini salah satu perlindungan utama bagi pengguna exchange berizin di Indonesia.",
+  "body": [
+   "Otoritas Jasa Keuangan (OJK) mencatat nilai transaksi aset kripto di Indonesia mencapai Rp30,56 triliun pada September 2026, naik 31,96% dibanding Agustus. Data ini disampaikan Kepala Eksekutif Pengawas ITSK, Aset Keuangan Digital, dan Aset Kripto OJK, Adi Budiarso, dalam konferensi pers Rapat Dewan Komisioner Bulanan (RDKB) secara virtual, Kamis (5/11/2026).",
+   "Transaksi derivatif aset keuangan digital tercatat Rp5,8 triliun, naik 27,19%. Jumlah akun konsumen mencapai 23,51 juta per September 2026, tumbuh 1,29% secara bulanan.",
+   "Sanksi: OJK menjatuhkan sanksi administratif kepada tiga penyelenggara Inovasi Teknologi Sektor Keuangan (ITSK) dan dua penyelenggara aset keuangan digital/aset kripto karena melanggar POJK. Rinciannya dua sanksi penghentian kegiatan tertentu, satu denda administratif, dan 18 peringatan tertulis. Pemberitaan tidak menyebut nama perusahaan yang dikenai sanksi.",
+   "Insiden Binance: Adi menyebut insiden keamanan siber di Binance menjadi pengingat pentingnya tata kelola teknologi informasi, pengendalian akses, dan pengawasan internal. Ia menjelaskan bahwa POJK Nomor 27 Tahun 2024 mengatur aset konsumen disimpan paling sedikit 70% di pengelola tempat penyimpanan (kustodian) dan paling banyak 30% dikelola sendiri oleh pedagang. Dari bagian yang dikelola sendiri itu, paling sedikit 70% wajib di cold storage dan paling banyak 30% di hot wallet.",
+   "Pasal 91 ayat 1 POJK 27/2024 mewajibkan pedagang menjaga keamanan dan bertanggung jawab jika aset kripto konsumen yang disimpannya hilang. Menurut Adi, penyelesaian kerugian akan mempertimbangkan hasil pemeriksaan penyebab kehilangan. OJK mengimbau masyarakat tetap tenang dan hanya bertransaksi lewat penyelenggara yang berizin dan diawasi OJK."
+  ],
+  "tips_title": "Cek sebelum pakai exchange",
+  "tips": [
+   "Pastikan exchange terdaftar sebagai pedagang aset keuangan digital berizin OJK.",
+   "Aktifkan 2FA berbasis aplikasi atau hardware key, bukan SMS.",
+   "Simpan aset jangka panjang di wallet yang kunci pribadinya kamu pegang sendiri."
+  ],
+  "sources": [
+   {
+    "name": "CNBC Indonesia: Kripto Jadi Primadona, OJK: Transaksi Naik 31,96%, Tembus Rp30,56 T",
+    "url": "https://www.cnbcindonesia.com/market/20261105150358-17-782662/kripto-jadi-primadona-ojk-transaksi-naik-3196-tembus-rp3056-t",
+    "deep_link": true
+   },
+   {
+    "name": "CNBC Indonesia: Ada Insiden Siber Binance, OJK Buka Suara soal Keamanan Aset Kripto",
+    "url": "https://www.cnbcindonesia.com/market/20261105155128-17-782712/ada-insiden-siber-binance-ojk-buka-suara-soal-keamanan-aset-kripto",
+    "deep_link": true
+   },
+   {
+    "name": "Liputan6: OJK Sanksi 5 Perusahaan Kripto dan Fintech, 18 Dapat Peringatan Tertulis",
+    "url": "https://www.liputan6.com/crypto/read/8329194/ojk-sanksi-5-perusahaan-kripto-dan-fintech-18-dapat-peringatan-tertulis",
+    "deep_link": true
+   },
+   {
+    "name": "OJK: siaran pers Forum Sektoral IAKD Syariah (3 Nov 2026)",
+    "url": "https://ojk.go.id/id/berita-dan-kegiatan/siaran-pers/Pages/Forum-Sektoral-dalam-Rangkaian-Indonesia-Islamic-Finance-Summit-2026.aspx",
+    "deep_link": true
+   }
+  ],
+  "published_at": "2026-11-05T19:16:00+08:00",
+  "images": [
+   "assets/img/photos/ojk_gedung.jpg"
+  ],
+  "image_alt": "Gedung OJK Regional 7 Sumatera Bagian Selatan di Palembang",
+  "image_credits": "Foto: Gedung OJK Regional 7 Sumatera Bagian Selatan, Palembang (Firzafp, CC BY-SA 4.0, Wikimedia Commons). Foto ilustrasi, bukan lokasi konferensi pers.",
+  "title_en": "OJK: Indonesia's crypto trading hit Rp30.56 trillion in September 2026, 5 operators sanctioned",
+  "summary_en": "Crypto trading value in Indonesia rose 31.96% month on month in September 2026. OJK also sanctioned five operators and responded to the Binance security incident.",
+  "key_points_en": [
+   "According to OJK, crypto asset trading value in September 2026 reached Rp30.56 trillion, up 31.96% from August. Digital financial asset (AKD) derivatives trading was Rp5.8 trillion, up 27.19%.",
+   "AKD consumer accounts reached 23.51 million as of September 2026, up 1.29% month on month.",
+   "OJK imposed administrative sanctions on 3 financial technology (ITSK) operators and 2 digital financial asset/crypto operators: 2 suspensions of certain activities, 1 fine and 18 written warnings. The companies were not named in the reports.",
+   "On the Binance incident, OJK pointed to regulation POJK 27/2024: at least 70% of customer assets must be held with a custodian; of the portion a trader manages itself, at least 70% must be in cold storage.",
+   "OJK urged the public to stay calm and only trade through crypto traders licensed and supervised by OJK."
+  ],
+  "why_en": "The jump in trading came at the same time as a major security incident at a global exchange. Under Article 91(1) of POJK 27/2024, traders must keep customer crypto assets they hold secure and are responsible if those assets are lost. This is one of the main protections for users of licensed exchanges in Indonesia.",
+  "body_en": [
+   "Indonesia's Financial Services Authority (OJK) recorded crypto asset trading in Indonesia of Rp30.56 trillion in September 2026, up 31.96% from August. The figures were presented by Adi Budiarso, OJK's Chief Executive for Supervision of Financial Technology, Digital Financial Assets and Crypto Assets, at the virtual press conference for the Monthly Board of Commissioners Meeting (RDKB) on Thursday (5/11/2026).",
+   "Digital financial asset derivatives trading was Rp5.8 trillion, up 27.19%. Consumer accounts reached 23.51 million as of September 2026, up 1.29% month on month.",
+   "Sanctions: OJK imposed administrative sanctions on three financial technology innovation (ITSK) operators and two digital financial asset/crypto operators for breaching OJK regulations. These consisted of two suspensions of certain activities, one administrative fine and 18 written warnings. The reports did not name the companies sanctioned.",
+   "The Binance incident: Adi said the cybersecurity incident at Binance is a reminder of the importance of IT governance, access control and internal oversight. He explained that POJK No. 27 of 2024 requires at least 70% of customer assets to be held with a custodian and at most 30% to be managed by the trader itself. Of the self-managed portion, at least 70% must be in cold storage and at most 30% in hot wallets.",
+   "Article 91(1) of POJK 27/2024 requires traders to keep customer crypto assets they hold secure and makes them responsible if those assets are lost. According to Adi, settling losses will take into account the findings on the cause of the loss. OJK urged the public to stay calm and only trade through operators licensed and supervised by OJK."
+  ],
+  "tips_title_en": "Check before you use an exchange",
+  "tips_en": [
+   "Make sure the exchange is an OJK-licensed digital financial asset trader.",
+   "Turn on app-based or hardware-key 2FA, not SMS.",
+   "Keep long-term holdings in a wallet whose private keys you hold yourself."
+  ],
+  "image_alt_en": "OJK Regional Office 7 South Sumatra building in Palembang",
+  "image_credits_en": "Photo: OJK Regional Office 7 South Sumatra building, Palembang (Firzafp, CC BY-SA 4.0, Wikimedia Commons). Illustrative photo, not the press conference venue."
+ },
+ {
+  "slug": "ekonomi-ri-tumbuh-5-47-persen-ihsg-rupiah-menguat",
+  "category": "etf-makro",
+  "type": "news",
+  "title": "Ekonomi RI tumbuh 5,47% di kuartal III 2026, IHSG melonjak 2,25% dan rupiah menguat",
+  "summary": "BPS mencatat pertumbuhan ekonomi Indonesia kuartal III 2026 sebesar 5,47% secara tahunan. Pada hari yang sama IHSG ditutup naik 2,25% ke 5.030 dan rupiah menguat ke Rp18.082 per dolar AS.",
+  "key_points": [
+   "BPS: ekonomi Indonesia tumbuh 5,47% (yoy) di kuartal III 2026, naik dari 5,29% di kuartal II 2026 dan 5,04% di kuartal III 2025.",
+   "PDB kuartal III 2026 atas dasar harga konstan Rp3.633,2 triliun dan atas dasar harga berlaku Rp6.741,0 triliun.",
+   "IHSG ditutup naik 110,49 poin atau 2,25% ke 5.030 pada Kamis (5/11). Semua indeks sektoral menguat, dipimpin sektor barang baku (+3,6%).",
+   "Rupiah spot ditutup menguat 0,46% ke Rp18.082 per dolar AS (Bloomberg Technoz).",
+   "Phintraco Sekuritas menyebut penguatan IHSG didorong optimisme atas hasil pemilu sela AS dan data PDB yang di atas perkiraan."
+  ],
+  "why_it_matters": "Bagi investor crypto di Indonesia, nilai rupiah ikut menentukan harga aset dalam rupiah. Saat rupiah menguat, harga BTC atau USDT dalam rupiah bisa naik lebih kecil dibanding kenaikannya dalam dolar AS, atau malah turun.",
+  "body": [
+   "Badan Pusat Statistik (BPS) melaporkan ekonomi Indonesia tumbuh 5,47% secara tahunan (year-on-year) pada kuartal III 2026. Angka ini lebih tinggi dari 5,29% di kuartal II 2026 dan 5,04% di kuartal III 2025. Data ini disampaikan Deputi Bidang Neraca dan Analisis Statistik BPS, Moh. Edy Mahmud, di Jakarta, Kamis (5/11/2026).",
+   "PDB kuartal III 2026 atas dasar harga konstan mencapai Rp3.633,2 triliun dan atas dasar harga berlaku Rp6.741,0 triliun. Menurut CNN Indonesia, lima lapangan usaha penyumbang terbesar, yaitu industri pengolahan, pertanian, perdagangan, konstruksi, dan pertambangan, mencakup sekitar 65,31% PDB.",
+   "Pasar saham merespons positif. IHSG ditutup naik 110,49 poin atau 2,25% ke level 5.030. Menurut CNN Indonesia, seluruh indeks sektoral menguat, dipimpin sektor barang baku yang naik 3,6%. Phintraco Sekuritas, seperti dikutip Suara.com, menyebut penguatan didorong optimisme atas hasil pemilu sela AS yang dimenangkan Partai Demokrat serta data pertumbuhan ekonomi kuartal III yang di atas estimasi.",
+   "Rupiah ikut menguat. Menurut Bloomberg Technoz, rupiah spot ditutup naik 0,46% ke Rp18.082 per dolar AS, ditopang data PDB, harga minyak yang turun ke sekitar US$94 per barel, dan indeks dolar AS yang turun 0,13% ke 101,43."
+  ],
+  "analysis": "Data PDB yang kuat dan meredanya ketidakpastian pemilu AS sama-sama mendorong aset berisiko, termasuk crypto yang hari ini juga naik. Tapi penguatan rupiah berarti kenaikan harga crypto dalam rupiah bisa lebih kecil dibanding dalam dolar AS. Ini interpretasi, bukan saran investasi.",
+  "sources": [
+   {
+    "name": "ANTARA: BPS: Ekonomi RI tumbuh 5,47 persen pada triwulan III 2026",
+    "url": "https://www.antaranews.com/berita/5833219/bps-ekonomi-ri-tumbuh-547-persen-pada-triwulan-iii-2026",
+    "deep_link": true
+   },
+   {
+    "name": "CNN Indonesia: Ekonomi RI Tumbuh 5,47 Persen Pada Kuartal III 2026",
+    "url": "https://www.cnnindonesia.com/ekonomi/20261105110227-532-1423566/ekonomi-ri-tumbuh-547-persen-pada-kuartal-iii-2026",
+    "deep_link": true
+   },
+   {
+    "name": "CNN Indonesia: IHSG Menanjak 2,25 Persen ke 5.030 Sore Ini",
+    "url": "https://www.cnnindonesia.com/ekonomi/20261105162059-92-1423748/ihsg-menanjak-225-persen-ke-5030-sore-ini",
+    "deep_link": true
+   },
+   {
+    "name": "Suara.com: IHSG Berhasil Tembus Level 5.000 Lagi",
+    "url": "https://www.suara.com/bisnis/2026/11/05/170044/ihsg-berhasil-tembus-level-5000-lagi",
+    "deep_link": true
+   },
+   {
+    "name": "Bloomberg Technoz: Rupiah Tutup Perdagangan di Bawah Rp18.100/US$",
+    "url": "https://www.bloombergtechnoz.com/detail-news/126888/rupiah-tutup-perdagangan-di-bawah-rp18-100-us",
+    "deep_link": true
+   }
+  ],
+  "published_at": "2026-11-05T19:17:00+08:00",
+  "images": [
+   "assets/img/photos/rupiah.jpg"
+  ],
+  "image_alt": "Lembaran uang kertas Rp50.000 disusun melingkar",
+  "image_credits": "Foto: lembaran uang Rp50.000 (Jonny-mt, CC BY 3.0, Wikimedia Commons). Foto ilustrasi.",
+  "title_en": "Indonesia's economy grows 5.47% in Q3 2026, IHSG jumps 2.25% and the rupiah strengthens",
+  "summary_en": "Statistics Indonesia (BPS) recorded Q3 2026 economic growth of 5.47% year on year. On the same day the IHSG closed up 2.25% at 5,030 and the rupiah strengthened to Rp18,082 per US dollar.",
+  "key_points_en": [
+   "BPS: Indonesia's economy grew 5.47% (yoy) in Q3 2026, up from 5.29% in Q2 2026 and 5.04% in Q3 2025.",
+   "Q3 2026 GDP at constant prices was Rp3,633.2 trillion and at current prices Rp6,741.0 trillion.",
+   "The IHSG closed up 110.49 points, or 2.25%, at 5,030 on Thursday (5/11). All sector indices rose, led by basic materials (+3.6%).",
+   "The spot rupiah closed 0.46% stronger at Rp18,082 per US dollar (Bloomberg Technoz).",
+   "Phintraco Sekuritas said the IHSG's rise was driven by optimism over the US midterm results and GDP data that beat estimates."
+  ],
+  "why_en": "For crypto investors in Indonesia, the rupiah's value helps determine asset prices in rupiah. When the rupiah strengthens, the rupiah price of BTC or USDT can rise less than its US dollar price, or even fall.",
+  "body_en": [
+   "Statistics Indonesia (BPS) reported that Indonesia's economy grew 5.47% year on year in Q3 2026. That is higher than 5.29% in Q2 2026 and 5.04% in Q3 2025. The data was presented by BPS Deputy for Balance and Statistical Analysis Moh. Edy Mahmud in Jakarta on Thursday (5/11/2026).",
+   "Q3 2026 GDP at constant prices reached Rp3,633.2 trillion and at current prices Rp6,741.0 trillion. According to CNN Indonesia, the five largest contributing sectors, manufacturing, agriculture, trade, construction and mining, make up about 65.31% of GDP.",
+   "The stock market reacted positively. The IHSG closed up 110.49 points, or 2.25%, at 5,030. According to CNN Indonesia, all sector indices rose, led by basic materials, up 3.6%. Phintraco Sekuritas, as quoted by Suara.com, said the gains were driven by optimism over the US midterm results won by the Democratic Party and by Q3 growth data that beat estimates.",
+   "The rupiah strengthened too. According to Bloomberg Technoz, the spot rupiah closed 0.46% higher at Rp18,082 per US dollar, supported by the GDP data, oil prices falling to around US$94 a barrel, and the US dollar index falling 0.13% to 101.43."
+  ],
+  "analysis_en": "Strong GDP data and fading US election uncertainty both supported risk assets, including crypto, which also rose today. But a stronger rupiah means crypto price gains in rupiah can be smaller than in US dollars. This is interpretation, not investment advice.",
+  "image_alt_en": "Rp50,000 banknotes arranged in a circle",
+  "image_credits_en": "Photo: Rp50,000 banknotes (Jonny-mt, CC BY 3.0, Wikimedia Commons). Illustrative photo."
+ },
+ {
+  "slug": "prancis-tolak-anggaran-aturan-lapor-wallet-crypto-gugur",
+  "category": "regulasi",
+  "type": "news",
+  "title": "Parlemen Prancis tolak RUU anggaran 2027, aturan wajib lapor wallet crypto ikut gugur (untuk sementara)",
+  "summary": "Assemblée nationale menolak bagian pendapatan RUU anggaran 2027, sehingga tiga amandemen terkait crypto, termasuk kewajiban melapor wallet self-custody senilai €100.000 ke atas, tidak ikut dibawa ke Senat.",
+  "key_points": [
+   "Rabu malam, 4 November 2026 waktu Paris (Kamis pagi WITA), Assemblée nationale menolak bagian pertama (pendapatan) RUU anggaran 2027. Menurut franceinfo, penolakan bulat dari 458 anggota yang memberi suara.",
+   "Karena bagian pertama ditolak, seluruh RUU dianggap ditolak di pembacaan pertama. Senat akan membahas teks awal versi pemerintah mulai 20 November.",
+   "Menurut Cointelegraph, tiga amandemen crypto ikut gugur: pajak atas konversi crypto ke stablecoin, kewajiban melapor wallet self-custody bernilai minimal €100.000, dan kenaikan denda bagi platform crypto dari €10.000 ke €50.000.",
+   "Amandemen-amandemen itu masih bisa diajukan ulang di Senat dan harus lolos sisa proses anggaran untuk menjadi undang-undang."
+  ],
+  "why_it_matters": "Kewajiban melapor wallet pribadi akan memperluas pengawasan pajak dari exchange ke wallet yang kuncinya dipegang pengguna sendiri. Untuk sekarang usulan itu tertunda, tetapi belum mati.",
+  "body": [
+   "Rencana Prancis mewajibkan pemilik wallet crypto pribadi melapor ke kantor pajak tertahan dulu. Assemblée nationale (majelis rendah Prancis) menolak bagian pertama RUU anggaran negara 2027, yang mengatur pendapatan negara seperti pajak, pada Rabu malam, 4 November 2026 waktu Paris (Kamis pagi WITA).",
+   "Menurut situs resmi Assemblée nationale, karena bagian pertama tidak disetujui, seluruh RUU dianggap ditolak di pembacaan pertama berdasarkan Pasal 119 Peraturan Tata Tertib. Franceinfo melaporkan penolakan itu bulat dari 458 anggota yang memberi suara. Pemerintah akan mengirim teks awal versi pemerintah ke Senat, tanpa amandemen yang sebelumnya disetujui anggota parlemen.",
+   "Menurut Cointelegraph, ada tiga amandemen terkait crypto yang ikut gugur. Pertama, amandemen 16 Oktober yang membuat keuntungan dari konversi crypto ke stablecoin kena pajak. Kedua, amandemen yang disetujui Selasa (3/11) untuk mewajibkan wajib pajak melaporkan crypto self-custody dengan total nilai minimal €100.000 (sekitar US$112.000) per 31 Desember. Ketiga, amandemen yang menaikkan denda bagi platform crypto yang tidak memberikan informasi yang diminta otoritas pajak, dari €10.000 menjadi €50.000.",
+   "Usulan-usulan itu masih bisa diajukan lagi di Senat. Menurut Cointelegraph, Senat dijadwalkan mulai membahas RUU anggaran pada 20 November dan pasal-pasal bagian pendapatan pada 23 November."
+  ],
+  "analysis": "Penolakan RUU di pembacaan pertama bukan hal baru di Prancis; kantor Perdana Menteri, menurut franceinfo, menyebutnya skenario klasik. Artinya isu pelaporan wallet pribadi masih bisa muncul lagi di Senat. Pengguna crypto di Eropa sudah dilaporkan lewat exchange berdasarkan aturan DAC8, jadi wallet self-custody tetap jadi sorotan berikutnya.",
+  "sources": [
+   {
+    "name": "Assemblée nationale: Rejet, en première lecture, du projet de loi de finances pour 2027",
+    "url": "https://www.assemblee-nationale.fr/dyn/actualites-accueil-hub/rejet-en-premiere-lecture-du-projet-de-loi-de-finances-pour-2027",
+    "deep_link": true
+   },
+   {
+    "name": "Cointelegraph: France budget rejection sidelines stablecoin tax, wallet reporting",
+    "url": "https://cointelegraph.com/news/france-rejects-budget-revenue-sidelines-crypto-amendments",
+    "deep_link": true
+   },
+   {
+    "name": "franceinfo: L'Assemblée nationale rejette à l'unanimité le budget de l'Etat 2027",
+    "url": "https://www.franceinfo.fr/economie/budget/l-assemblee-nationale-rejette-a-l-unanimite-le-budget-de-l-etat-2027-en-premiere-lecture_8268527.html",
+    "deep_link": true
+   },
+   {
+    "name": "Cointelegraph: France backs reporting of self-custodied crypto worth 100,000 euros",
+    "url": "https://cointelegraph.com/news/france-approves-amendment-self-custodied-crypto-wallets-100k",
+    "deep_link": true
+   }
+  ],
+  "published_at": "2026-11-05T19:18:00+08:00",
+  "images": [
+   "assets/img/photos/assemblee_hemicycle.jpg",
+   "assets/img/photos/trezor_btc.jpg"
+  ],
+  "image_alt": "Ruang sidang (hémicycle) Assemblée nationale Prancis di Palais Bourbon, Paris",
+  "image_credits": "Foto: hémicycle Assemblée nationale di Palais Bourbon, Paris, Juli 2026 (Dev Jadiya, CC BY-SA 4.0); dua hardware wallet Trezor One dan koin Casascius 5 BTC (Gage Skidmore, CC BY-SA 3.0). Via Wikimedia Commons.",
+  "title_en": "French parliament rejects 2027 budget bill, crypto wallet reporting rule falls away (for now)",
+  "summary_en": "The Assemblée nationale rejected the revenue part of the 2027 budget bill, so three crypto-related amendments, including a duty to report self-custody wallets worth €100,000 or more, will not go to the Senate.",
+  "key_points_en": [
+   "On Wednesday evening, 4 November 2026 Paris time (Thursday morning WITA), the Assemblée nationale rejected the first (revenue) part of the 2027 budget bill. According to franceinfo, the rejection was unanimous among the 458 members who voted.",
+   "Because the first part was rejected, the whole bill is considered rejected at first reading. The Senate will debate the government's original text from 20 November.",
+   "According to Cointelegraph, three crypto amendments fell away: a tax on crypto-to-stablecoin conversions, a duty to report self-custody wallets worth at least €100,000, and higher fines for crypto platforms, from €10,000 to €50,000.",
+   "The amendments can still be reintroduced in the Senate and would have to survive the rest of the budget process to become law."
+  ],
+  "why_en": "A duty to report personal wallets would extend tax oversight from exchanges to wallets whose keys users hold themselves. For now the proposal is on hold, but it is not dead.",
+  "body_en": [
+   "France's plan to require owners of personal crypto wallets to report them to the tax office is on hold for now. The Assemblée nationale (France's lower house) rejected the first part of the 2027 state budget bill, which covers government revenue such as taxes, on Wednesday evening, 4 November 2026 Paris time (Thursday morning WITA).",
+   "According to the Assemblée nationale's official website, because the first part was not adopted, the whole bill is considered rejected at first reading under Article 119 of its Rules of Procedure. Franceinfo reported the rejection was unanimous among the 458 members who voted. The government will send its original text to the Senate, without the amendments lawmakers had adopted.",
+   "According to Cointelegraph, three crypto-related amendments fell away. First, a 16 October amendment that would make gains from converting crypto into stablecoins taxable. Second, an amendment adopted on Tuesday (3/11) requiring taxpayers to report self-custodied crypto worth a total of at least €100,000 (about US$112,000) as of 31 December. Third, an amendment raising fines for crypto platforms that fail to provide information requested by tax authorities, from €10,000 to €50,000.",
+   "The proposals can still be reintroduced in the Senate. According to Cointelegraph, the Senate is scheduled to start debating the budget bill on 20 November and the revenue articles on 23 November."
+  ],
+  "analysis_en": "Rejecting the bill at first reading is not new in France; the Prime Minister's office, according to franceinfo, called it the classic scenario. That means the personal wallet reporting issue could come back in the Senate. Crypto users in Europe are already reported via exchanges under the DAC8 rules, so self-custody wallets remain the next focus.",
+  "image_alt_en": "The hemicycle of the French Assemblée nationale at the Palais Bourbon, Paris",
+  "image_credits_en": "Photos: Assemblée nationale hemicycle at the Palais Bourbon, Paris, July 2026 (Dev Jadiya, CC BY-SA 4.0); two Trezor One hardware wallets and a 5 BTC Casascius coin (Gage Skidmore, CC BY-SA 3.0). Via Wikimedia Commons."
  }
 ]
