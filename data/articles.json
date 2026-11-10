@@ -1184,5 +1184,300 @@
   ],
   "image_alt_en": "OJK Regional Office 7 South Sumatra building in Palembang",
   "image_credits_en": "Photo: OJK Regional Office 7 South Sumatra building, Palembang (Firzafp, CC BY-SA 4.0, Wikimedia Commons). Illustrative photo."
+ },
+ {
+  "slug": "mara-jual-13597-btc-lunasi-utang-us750-juta",
+  "category": "bitcoin",
+  "type": "news",
+  "title": "MARA jual 13.597 BTC senilai sekitar US$1,1 miliar usai kuartal III, lunasi utang beragunan bitcoin US$750 juta",
+  "summary": "Penambang bitcoin MARA Holdings mengungkap dalam surat pemegang saham kuartal III 2026 bahwa mereka menjual 13.597 BTC setelah kuartal berakhir dan memakai US$750 juta hasilnya untuk melunasi pinjaman beragunan bitcoin. MARA juga menyatakan akan terus memonetisasi bitcoin.",
+  "key_points": [
+   "Setelah kuartal III berakhir, MARA menjual 13.597 BTC di harga rata-rata sekitar US$81.039, dengan hasil sekitar US$1,1 miliar, menurut surat pemegang saham resmi perusahaan.",
+   "Sebesar US$750 juta dipakai untuk melunasi penuh pinjaman berjangka beragunan bitcoin. Kini kurang dari 5% kepemilikan BTC MARA yang dipinjamkan atau dijaminkan.",
+   "Per 30 September 2026, MARA memegang 34.012 BTC dan menambang 2.247 BTC selama kuartal III.",
+   "Pendapatan kuartal III turun 35% menjadi US$164,2 juta, tetapi laba bersih naik ke US$632,1 juta, terutama karena keuntungan belum terealisasi US$885,3 juta dari bitcoin.",
+   "Dewan direksi menyetujui program pembelian kembali saham hingga US$500 juta, dan MARA menyatakan akan terus menjual bitcoin sesuai kondisi pasar."
+  ],
+  "why_it_matters": "MARA termasuk pemegang bitcoin korporat terbesar. Ketika penambang besar beralih dari \"hold\" ke menjual BTC dari neraca untuk bayar utang dan membiayai proyek energi dan AI, ini menambah pasokan di pasar dan menunjukkan perubahan strategi di industri penambangan.",
+  "body": [
+   "MARA Holdings (Nasdaq: MARA), salah satu penambang bitcoin publik terbesar di dunia, merilis surat pemegang saham kuartal III 2026 pada Senin (9/11) waktu AS. Dalam dokumen itu, MARA mengungkap telah menjual 13.597 bitcoin setelah kuartal berakhir, di harga rata-rata sekitar US$81.039, dengan hasil sekitar US$1,1 miliar.",
+   "Menurut MARA, US$750 juta dari hasil penjualan itu dipakai untuk melunasi penuh pinjaman berjangka beragunan bitcoin. Pinjaman tersebut diambil saat bitcoin diperdagangkan di sekitar US$64.000 untuk membiayai akuisisi pembangkit listrik Long Ridge. MARA memperkirakan selisih harga itu memberi manfaat bersih sekitar US$170 juta. Setelah pelunasan, kurang dari 5% kepemilikan BTC MARA masih dipinjamkan atau dijaminkan.",
+   "Per 30 September 2026, MARA memegang 34.012 BTC. Selama kuartal III, perusahaan menambang 2.247 BTC dan menjual 3.891 BTC di harga rata-rata US$75.300. Sepanjang sembilan bulan pertama 2026, MARA telah menjual sekitar 26.984 BTC senilai US$1,9 miliar.",
+   "Pendapatan kuartal III turun 35% secara tahunan menjadi US$164,2 juta dari US$252,4 juta, karena rata-rata harga bitcoin selama kuartal lebih rendah. Meski begitu, laba bersih naik menjadi US$632,1 juta dari US$123,1 juta setahun sebelumnya, terutama berkat keuntungan belum terealisasi sebesar US$885,3 juta atas aset digital. The Block juga melaporkan penurunan pendapatan 35% dan penjualan 13.597 BTC tersebut.",
+   "MARA menyatakan akan terus memonetisasi bitcoin untuk menjaga fleksibilitas keuangan, termasuk mendanai proyek modal, sesuai kondisi pasar. Setelah kuartal berakhir, dewan direksi juga menyetujui program pembelian kembali saham hingga US$500 juta. Perusahaan sedang memperluas bisnis ke infrastruktur listrik dan komputasi, termasuk AI."
+  ],
+  "analysis": "Penjualan ini setara sekitar 40% dari BTC yang dipegang MARA per akhir September. Ini kontras dengan perusahaan seperti Strategy yang terus menambah BTC. Bagi pasar, yang perlu dicermati adalah apakah penambang lain ikut menjual cadangan BTC mereka. Ini interpretasi, bukan prediksi harga.",
+  "sources": [
+   {
+    "name": "MARA: Surat pemegang saham Q3 2026 (8-K, EX-99.1, resmi)",
+    "url": "https://ir.mara.com/sec-filings/all-sec-filings/content/0001507605-26-000026/q326shareholderletter.htm",
+    "deep_link": true
+   },
+   {
+    "name": "The Block: MARA posts Q3 net profit on bitcoin gains, sells 13,597 BTC to pay off loans",
+    "url": "https://www.theblock.co/news/business/2026-11-09-mara-q3-earnings-net-profit-bitcoin-sale-ai-pivot-436950",
+    "deep_link": true
+   }
+  ],
+  "published_at": "2026-11-10T13:30:00+08:00",
+  "images": [
+   "assets/img/photos/mara_mining.jpg"
+  ],
+  "image_alt": "Deretan mesin penambang bitcoin dengan lampu hijau di dalam gudang",
+  "image_credits": "Foto: fasilitas penambangan bitcoin (Marko Ahtisaari, CC BY 2.0, Wikimedia Commons). Foto ilustrasi, bukan fasilitas MARA.",
+  "title_en": "MARA sells 13,597 BTC worth about US$1.1 billion after Q3, repays US$750 million bitcoin-backed debt",
+  "summary_en": "Bitcoin miner MARA Holdings disclosed in its Q3 2026 shareholder letter that it sold 13,597 BTC after the quarter ended and used US$750 million of the proceeds to repay bitcoin-collateralized loans. MARA also said it will keep monetizing bitcoin.",
+  "key_points_en": [
+   "After Q3 ended, MARA sold 13,597 BTC at an average price of about US$81,039, with proceeds of about US$1.1 billion, according to the company's official shareholder letter.",
+   "US$750 million was used to fully repay its bitcoin-collateralized term loans. Less than 5% of MARA's BTC holdings are now loaned or pledged.",
+   "As of 30 September 2026, MARA held 34,012 BTC and mined 2,247 BTC during Q3.",
+   "Q3 revenue fell 35% to US$164.2 million, but net income rose to US$632.1 million, mainly due to a US$885.3 million unrealized gain on bitcoin.",
+   "The board approved a share repurchase program of up to US$500 million, and MARA said it will keep selling bitcoin subject to market conditions."
+  ],
+  "why_en": "MARA is among the largest corporate bitcoin holders. When a big miner shifts from \"holding\" to selling balance-sheet BTC to pay debt and fund energy and AI projects, it adds supply to the market and signals a change in strategy across the mining industry.",
+  "body_en": [
+   "MARA Holdings (Nasdaq: MARA), one of the world's largest publicly traded bitcoin miners, released its Q3 2026 shareholder letter on Monday (9/11) US time. In it, MARA disclosed that it sold 13,597 bitcoin after the quarter ended, at an average price of about US$81,039, with proceeds of about US$1.1 billion.",
+   "According to MARA, US$750 million of the proceeds was used to fully repay its bitcoin-collateralized term loans. The loans were taken out while bitcoin traded around US$64,000 to fund the acquisition of the Long Ridge power plant. MARA estimates the price difference delivered a net benefit of about US$170 million. After the repayment, less than 5% of MARA's BTC holdings remain loaned or pledged.",
+   "As of 30 September 2026, MARA held 34,012 BTC. During Q3, the company mined 2,247 BTC and sold 3,891 BTC at an average price of US$75,300. Over the first nine months of 2026, MARA sold about 26,984 BTC for US$1.9 billion.",
+   "Q3 revenue fell 35% year on year to US$164.2 million from US$252.4 million, because the average bitcoin price during the quarter was lower. Even so, net income rose to US$632.1 million from US$123.1 million a year earlier, mainly thanks to an unrealized gain of US$885.3 million on digital assets. The Block also reported the 35% revenue decline and the sale of the 13,597 BTC.",
+   "MARA said it will continue to monetize bitcoin to maintain financial flexibility, including funding capital projects, subject to market conditions. After the quarter ended, the board also approved a share repurchase program of up to US$500 million. The company is expanding into power and computing infrastructure, including AI."
+  ],
+  "analysis_en": "The sale equals about 40% of the BTC MARA held at the end of September. This contrasts with companies such as Strategy that keep adding BTC. For the market, the thing to watch is whether other miners also sell their BTC reserves. This is interpretation, not a price prediction.",
+  "image_alt_en": "Rows of bitcoin mining machines with green lights inside a warehouse",
+  "image_credits_en": "Photo: bitcoin mining facility (Marko Ahtisaari, CC BY 2.0, Wikimedia Commons). Illustrative photo, not a MARA facility."
+ },
+ {
+  "slug": "satgas-pasti-hentikan-16-investasi-ilegal-modus-tugas",
+  "category": "regulasi",
+  "type": "news",
+  "title": "Satgas PASTI OJK hentikan 16 entitas investasi ilegal, ada modus sewa komputasi, \"USDT\", sampai nonton film dibayar",
+  "summary": "Satgas Pemberantasan Aktivitas Keuangan Ilegal (Satgas PASTI) menghentikan kegiatan 16 entitas yang diduga menipu lewat tawaran investasi. Modusnya antara lain tugas berbayar dengan setoran deposit, investasi kripto dan forex, iklan AI yang menampilkan tokoh publik, dan pencatutan nama perusahaan berizin.",
+  "key_points": [
+   "Satgas PASTI menghentikan kegiatan 16 entitas yang diduga menawarkan investasi ilegal, menurut keterangan tertulis yang dikutip CNBC Indonesia dan detikFinance, Selasa (10/11/2026).",
+   "Sepuluh entitas, termasuk GPUCore, PilotXone, EarnTycoon, ZEDT, USDT AL, dan Task 33, diduga menipu lewat tawaran sewa komputasi dengan skema tugas, setoran deposit, dan member get member.",
+   "OneTwoMarkets diduga menawarkan investasi forex, komoditas, kripto, saham, dan indeks, serta memakai teknologi AI yang menampilkan tokoh publik untuk meyakinkan calon korban.",
+   "Ada juga modus pencatutan nama perusahaan berizin, seperti Easycash (PT Indonesia Fintopia Technology) dan Guotai Haitong Securities, serta MAERA dengan tugas menonton film dan membeli hak cipta film.",
+   "Akses aplikasi dan tautan terkait diblokir. Laporan bisa disampaikan lewat sipasti.ojk.go.id atau Kontak OJK 157."
+  ],
+  "why_it_matters": "Banyak penipuan memakai istilah yang akrab bagi pengguna crypto, seperti \"USDT\", komputasi GPU, atau trading kripto, untuk terlihat meyakinkan. Mengecek legalitas sebelum menyetor dana adalah perlindungan paling dasar.",
+  "body": [
+   "Otoritas Jasa Keuangan (OJK) melalui Satuan Tugas Pemberantasan Aktivitas Keuangan Ilegal (Satgas PASTI) menghentikan kegiatan 16 entitas yang diduga menawarkan investasi ilegal kepada masyarakat. Hal ini disampaikan Satgas PASTI dalam keterangan tertulis pada Selasa (10/11/2026), seperti dikutip CNBC Indonesia dan detikFinance.",
+   "Sebagian besar entitas memakai modus tugas tertentu. Sepuluh entitas dengan nama GPUCore, PilotXone, Aset Saham, Orion Wealth, Jadiduit, Impersonasi Easy Cash, EarnTycoon, ZEDT, USDT AL, dan Task 33 diduga melakukan penipuan investasi lewat tawaran penyewaan komputasi dengan skema pengerjaan tugas, setoran deposit, dan member get member. Menurut detikFinance, kesepuluh entitas itu tidak berbadan hukum di Indonesia, tidak berizin OJK, dan aplikasi atau situsnya tidak tercatat sebagai Penyelenggara Sistem Elektronik (PSE).",
+   "Satgas PASTI juga menemukan modus investasi instrumen keuangan dan aset. OneTwoMarkets diduga menawarkan investasi forex, komoditas, kripto, saham, dan indeks, serta mengaku berafiliasi dengan perusahaan berizin di Afrika Selatan. Dalam penawarannya, entitas ini diduga menggunakan teknologi kecerdasan buatan (AI) yang menampilkan tokoh publik. Hasil verifikasi menunjukkan OneTwoMarkets tidak berbadan hukum di Indonesia dan tidak berizin OJK.",
+   "Modus lain mencakup Zahra Berkah, yang menurut detikFinance menjanjikan keuntungan hingga 80% dalam 30 hari; Singapore Bhinneka Capital (SBC), yang menjanjikan keuntungan hingga tiga kali lipat berdasarkan jumlah anggota yang direkrut; Brevondale, yang mencantumkan logo OJK dan KSEI; serta MAERA, yang menawarkan tugas menonton film, membeli hak cipta, royalti, dan produksi film untuk pendapatan harian.",
+   "Satgas PASTI juga menemukan pencatutan nama perusahaan berizin. Orion Wealth mengatasnamakan Orion Wealth Management, Impersonasi Easy Cash mencatut nama PT Indonesia Fintopia Technology (Easycash), dan Impersonasi Guotai Haitong mencatut nama perusahaan sekuritas berizin di China.",
+   "Satgas PASTI telah menghentikan kegiatan entitas-entitas tersebut, memblokir akses aplikasi dan tautan (URL) terkait, dan akan berkoordinasi dengan aparat penegak hukum. Masyarakat yang dirugikan diminta melapor ke aparat penegak hukum setempat. Indikasi penawaran ilegal dapat dilaporkan lewat sipasti.ojk.go.id, Kontak OJK 157, WhatsApp 081157157157, atau email resmi OJK."
+  ],
+  "tips_title": "Cara cek sebelum setor dana",
+  "tips": [
+   "Waspadai janji untung tinggi dan pasti, apalagi yang dibayar per tugas atau per rekrutan anggota baru.",
+   "Cek izin langsung di situs resmi OJK atau Kontak OJK 157, bukan dari logo atau sertifikat yang ditunjukkan penawar.",
+   "Untuk aset kripto, gunakan hanya pedagang aset kripto yang berizin dan diawasi OJK."
+  ],
+  "sources": [
+   {
+    "name": "CNBC Indonesia: OJK Bongkar 16 Investasi Bodong, Ada Modus Nonton Film Dibayar",
+    "url": "https://www.cnbcindonesia.com/market/20261110105849-17-783816/ojk-bongkar-16-investasi-bodong-ada-modus-nonton-film-dibayar",
+    "deep_link": true
+   },
+   {
+    "name": "detikFinance: 16 Entitas Keuangan Ilegal Ditutup Gegara Penipuan, Begini Modusnya",
+    "url": "https://finance.detik.com/moneter/d-8746254/16-entitas-keuangan-ilegal-ditutup-gegara-penipuan-begini-modusnya",
+    "deep_link": true
+   },
+   {
+    "name": "Portal Satgas PASTI OJK (pelaporan resmi)",
+    "url": "https://sipasti.ojk.go.id/",
+    "deep_link": false
+   }
+  ],
+  "published_at": "2026-11-10T13:31:00+08:00",
+  "images": [
+   "assets/img/photos/ojk_gedung.jpg"
+  ],
+  "image_alt": "Gedung OJK Regional 7 Sumatera Bagian Selatan di Palembang",
+  "image_credits": "Foto: Gedung OJK Regional 7 Sumatera Bagian Selatan, Palembang (Firzafp, CC BY-SA 4.0, Wikimedia Commons). Foto ilustrasi.",
+  "title_en": "OJK's PASTI Task Force shuts 16 illegal investment entities, with schemes ranging from computing rental and \"USDT\" to paid movie-watching",
+  "summary_en": "The Task Force for the Eradication of Illegal Financial Activities (Satgas PASTI) has halted the activities of 16 entities suspected of fraud through investment offers. The schemes include paid tasks with deposits, crypto and forex investment, AI ads featuring public figures, and impersonation of licensed companies.",
+  "key_points_en": [
+   "Satgas PASTI halted the activities of 16 entities suspected of offering illegal investments, according to a written statement cited by CNBC Indonesia and detikFinance on Tuesday (10/11/2026).",
+   "Ten entities, including GPUCore, PilotXone, EarnTycoon, ZEDT, USDT AL and Task 33, are suspected of fraud through computing-rental offers with task schemes, deposits and member-get-member recruitment.",
+   "OneTwoMarkets is suspected of offering investment in forex, commodities, crypto, stocks and indices, and of using AI technology featuring public figures to convince potential victims.",
+   "Other schemes involved impersonating licensed companies, such as Easycash (PT Indonesia Fintopia Technology) and Guotai Haitong Securities, as well as MAERA with tasks of watching films and buying film copyrights.",
+   "Access to the related apps and links has been blocked. Reports can be made via sipasti.ojk.go.id or OJK Contact 157."
+  ],
+  "why_en": "Many scams use terms familiar to crypto users, such as \"USDT\", GPU computing or crypto trading, to look convincing. Checking legality before depositing funds is the most basic protection.",
+  "body_en": [
+   "Indonesia's Financial Services Authority (OJK), through the Task Force for the Eradication of Illegal Financial Activities (Satgas PASTI), has halted the activities of 16 entities suspected of offering illegal investments to the public. Satgas PASTI said this in a written statement on Tuesday (10/11/2026), as cited by CNBC Indonesia and detikFinance.",
+   "Most of the entities used task-based schemes. Ten entities named GPUCore, PilotXone, Aset Saham, Orion Wealth, Jadiduit, Impersonasi Easy Cash, EarnTycoon, ZEDT, USDT AL and Task 33 are suspected of investment fraud through computing-rental offers with task schemes, deposits and member-get-member recruitment. According to detikFinance, the ten entities have no legal entity in Indonesia, are not licensed by OJK, and their apps or websites are not registered as Electronic System Operators (PSE).",
+   "Satgas PASTI also found schemes involving financial instruments and assets. OneTwoMarkets is suspected of offering investment in forex, commodities, crypto, stocks and indices, and claimed affiliation with a licensed company in South Africa. In its offers, the entity allegedly used artificial intelligence (AI) technology featuring public figures. Verification showed OneTwoMarkets has no legal entity in Indonesia and is not licensed by OJK.",
+   "Other schemes included Zahra Berkah, which according to detikFinance promised returns of up to 80% in 30 days; Singapore Bhinneka Capital (SBC), which promised returns of up to three times based on the number of members recruited; Brevondale, which displayed the OJK and KSEI logos; and MAERA, which offered tasks of watching films and buying film copyrights, royalties and productions for daily income.",
+   "Satgas PASTI also found impersonation of licensed companies. Orion Wealth used the name of Orion Wealth Management, Impersonasi Easy Cash used the name of PT Indonesia Fintopia Technology (Easycash), and Impersonasi Guotai Haitong used the name of a securities firm licensed in China.",
+   "Satgas PASTI has halted these entities' activities, blocked access to the related apps and links (URLs), and will coordinate with law enforcement. People who have suffered losses are asked to report to local law enforcement. Signs of illegal offers can be reported via sipasti.ojk.go.id, OJK Contact 157, WhatsApp 081157157157, or OJK's official email."
+  ],
+  "tips_title_en": "How to check before depositing funds",
+  "tips_en": [
+   "Be wary of promises of high, guaranteed returns, especially ones paid per task or per new member recruited.",
+   "Check licensing directly on OJK's official website or via OJK Contact 157, not from logos or certificates shown by the person making the offer.",
+   "For crypto assets, use only crypto asset traders licensed and supervised by OJK."
+  ],
+  "image_alt_en": "OJK Regional Office 7 South Sumatra building in Palembang",
+  "image_credits_en": "Photo: OJK Regional Office 7 South Sumatra building, Palembang (Firzafp, CC BY-SA 4.0, Wikimedia Commons). Illustrative photo."
+ },
+ {
+  "slug": "ihsg-naik-1-66-persen-rupiah-terkuat-asia-jelang-cpi-as",
+  "category": "etf-makro",
+  "type": "news",
+  "title": "IHSG melesat 1,66% di sesi I, rupiah jadi mata uang terkuat Asia pagi ini jelang data inflasi AS",
+  "summary": "IHSG ditutup naik 1,66% ke 5.158 pada sesi I Selasa (10/11), didorong saham perbankan besar. Rupiah juga menguat ke sekitar Rp18.050 per dolar AS. Pasar kini menunggu rilis inflasi (CPI) AS Oktober malam ini.",
+  "key_points": [
+   "IHSG menguat 1,66% ke posisi 5.158 pada sesi I Selasa (10/11/2026), dengan nilai transaksi Rp3,61 triliun, menurut Bloomberg Technoz.",
+   "Di awal perdagangan, saham pengungkit antara lain BBCA, TLKM, ASII, BMRI, dan GOTO, menurut data Refinitiv yang dikutip CNBC Indonesia.",
+   "Rupiah menguat 0,11% ke Rp18.050 per dolar AS pada pukul 09.20 WIB, penguatan terbesar di antara 10 mata uang Asia yang dipantau CNBC Indonesia.",
+   "Indeks Keyakinan Konsumen (IKK) Bank Indonesia naik ke 119,9 pada Oktober 2026 dari 118,1, tertinggi sejak Mei.",
+   "CPI AS Oktober dirilis Selasa pukul 20.30 WIB, atau 21.30 WITA (13.30 UTC)."
+  ],
+  "why_it_matters": "Pasar saham, rupiah, dan crypto sama-sama sensitif terhadap arah suku bunga AS. Hasil CPI malam ini bisa mengubah sentimen di semua pasar tersebut, termasuk harga aset kripto dalam rupiah.",
+  "body": [
+   "Pasar keuangan Indonesia bergerak positif pada Selasa (10/11/2026). Menurut Bloomberg Technoz, Indeks Harga Saham Gabungan (IHSG) ditutup menguat 1,66% ke posisi 5.158 pada sesi I, setelah sempat menyentuh 5.160. Volume transaksi mencapai 8,78 miliar saham dengan nilai Rp3,61 triliun. Sebanyak 445 saham naik, 137 turun, dan 126 tidak bergerak.",
+   "Bloomberg Technoz menyebut saham PT Bank Rakyat Indonesia (Persero) Tbk (BBRI) sebagai salah satu pendorong, naik 1,42% ke Rp2.860 per saham. Di awal perdagangan, CNBC Indonesia mengutip data Refinitiv bahwa saham pengungkit IHSG antara lain BBCA, TLKM, ASII, BMRI, dan GOTO, dengan sektor material dasar naik 2%.",
+   "Rupiah juga menguat. CNBC Indonesia, mengutip data Refinitiv, mencatat rupiah naik 0,11% ke Rp18.050 per dolar AS pada pukul 09.20 WIB, penguatan paling tajam di antara 10 mata uang Asia yang dipantau. Won Korea Selatan menjadi yang paling melemah, turun 0,38%. ANTARA melaporkan rupiah dibuka menguat 16 poin atau 0,09% ke Rp18.069 per dolar AS.",
+   "Dari dalam negeri, Bank Indonesia merilis Indeks Keyakinan Konsumen (IKK) Oktober 2026 yang naik ke 119,9 dari 118,1 pada September, tertinggi sejak Mei, menurut CNBC Indonesia dan Republika.",
+   "Perhatian pasar kini beralih ke data inflasi konsumen (CPI) AS bulan Oktober yang dirilis Selasa pukul 08.30 waktu New York, atau 20.30 WIB / 21.30 WITA (13.30 UTC). CNBC Indonesia mencatat, berdasarkan CME FedWatch, pelaku pasar memperkirakan peluang sekitar 85% The Fed menaikkan suku bunga pada Desember."
+  ],
+  "analysis": "Penguatan pagi ini terjadi sebelum data inflasi AS keluar, jadi bisa saja berubah setelah rilis malam nanti. Menurut ekonom CORE Indonesia yang dikutip Tribun Medan, respons pasar domestik yang lebih kuat kemungkinan baru terlihat Rabu (11/11). Ini interpretasi, bukan prediksi harga.",
+  "sources": [
+   {
+    "name": "Bloomberg Technoz: Berkat Saham BBRI, IHSG Melesat 1,66% Tembus 5.158",
+    "url": "https://www.bloombergtechnoz.com/detail-news/127241/berkat-saham-bbri-ihsg-melesat-1-66-tembus-5-158",
+    "deep_link": true
+   },
+   {
+    "name": "CNBC Indonesia: Breaking! IHSG Menguat 1% Lebih, Ini Penyebabnya",
+    "url": "https://www.cnbcindonesia.com/market/20261110091701-17-783771/breaking-ihsg-menguat-1-lebih-ini-penyebabnya",
+    "deep_link": true
+   },
+   {
+    "name": "CNBC Indonesia: Dolar AS Minggir! Rupiah Jadi Raja Asia, Won - Dong Berguguran",
+    "url": "https://www.cnbcindonesia.com/research/20261110092524-128-783779/dolar-as-minggir-rupiah-jadi-raja-asia-won--dong-berguguran",
+    "deep_link": true
+   },
+   {
+    "name": "ANTARA: Rupiah menguat di tengah membaiknya sentimen di pasar domestik",
+    "url": "https://www.antaranews.com/berita/5843147/rupiah-menguat-di-tengah-membaiknya-sentimen-di-pasar-domestik",
+    "deep_link": true
+   },
+   {
+    "name": "Tribun Medan: Rupiah Menguat Tipis Rp18.069 per Dollar AS, IHSG Naik 5.096",
+    "url": "https://medan.tribunnews.com/bisnis/1819035/rupiah-menguat-tipis-rp18069-per-dollar-as-ihsg-naik-5096-selasa-10-november-2026",
+    "deep_link": true
+   },
+   {
+    "name": "Republika: Marak Sentimen Positif, IHSG dan Rupiah Kompak Menguat",
+    "url": "https://ekonomi.republika.co.id/berita/to9quv490/marak-sentimen-positif-ihsg-dan-rupiah-kompak-menguat",
+    "deep_link": true
+   }
+  ],
+  "published_at": "2026-11-10T13:32:00+08:00",
+  "images": [
+   "assets/img/photos/idx_gedung.jpg",
+   "assets/img/photos/rupiah.jpg"
+  ],
+  "image_alt": "Gedung Bursa Efek Indonesia (IDX) di Jakarta",
+  "image_credits": "Foto: Gedung Bursa Efek Indonesia, Jakarta (Bursa Efek Indonesia, CC BY-SA 4.0); lembaran uang Rp50.000 (Jonny-mt, CC BY 3.0). Via Wikimedia Commons. Foto ilustrasi.",
+  "title_en": "IDX Composite jumps 1.66% in session I, rupiah is Asia's strongest currency this morning ahead of US inflation data",
+  "summary_en": "The IDX Composite (IHSG) closed session I on Tuesday (10/11) up 1.66% at 5,158, driven by large bank stocks. The rupiah also strengthened to about Rp18,050 per US dollar. Markets are now waiting for tonight's US October inflation (CPI) release.",
+  "key_points_en": [
+   "The IDX Composite rose 1.66% to 5,158 in session I on Tuesday (10/11/2026), with trading value of Rp3.61 trillion, according to Bloomberg Technoz.",
+   "Early in trading, the index movers included BBCA, TLKM, ASII, BMRI and GOTO, according to Refinitiv data cited by CNBC Indonesia.",
+   "The rupiah rose 0.11% to Rp18,050 per US dollar at 09.20 WIB, the biggest gain among the 10 Asian currencies tracked by CNBC Indonesia.",
+   "Bank Indonesia's Consumer Confidence Index (IKK) rose to 119.9 in October 2026 from 118.1, the highest since May.",
+   "US October CPI is released on Tuesday at 20.30 WIB, or 21.30 WITA (13.30 UTC)."
+  ],
+  "why_en": "Stocks, the rupiah and crypto are all sensitive to the direction of US interest rates. Tonight's CPI result could shift sentiment across all of these markets, including crypto asset prices in rupiah.",
+  "body_en": [
+   "Indonesian financial markets moved higher on Tuesday (10/11/2026). According to Bloomberg Technoz, the IDX Composite (IHSG) closed session I up 1.66% at 5,158, after touching 5,160. Trading volume reached 8.78 billion shares worth Rp3.61 trillion. A total of 445 stocks rose, 137 fell and 126 were unchanged.",
+   "Bloomberg Technoz named shares of PT Bank Rakyat Indonesia (Persero) Tbk (BBRI) as one of the drivers, up 1.42% at Rp2,860 per share. Early in trading, CNBC Indonesia cited Refinitiv data showing the index movers included BBCA, TLKM, ASII, BMRI and GOTO, with the basic materials sector up 2%.",
+   "The rupiah also strengthened. CNBC Indonesia, citing Refinitiv data, reported the rupiah rose 0.11% to Rp18,050 per US dollar at 09.20 WIB, the sharpest gain among the 10 Asian currencies tracked. The South Korean won was the weakest, down 0.38%. ANTARA reported the rupiah opened 16 points or 0.09% stronger at Rp18,069 per US dollar.",
+   "Domestically, Bank Indonesia released its October 2026 Consumer Confidence Index (IKK), which rose to 119.9 from 118.1 in September, the highest since May, according to CNBC Indonesia and Republika.",
+   "Market attention now turns to US consumer inflation (CPI) data for October, released on Tuesday at 8:30 a.m. New York time, or 20.30 WIB / 21.30 WITA (13.30 UTC). CNBC Indonesia noted that, based on CME FedWatch, market participants see about an 85% chance the Fed raises interest rates in December."
+  ],
+  "analysis_en": "This morning's gains came before the US inflation data, so they could change after tonight's release. According to a CORE Indonesia economist cited by Tribun Medan, a stronger domestic market response may only show on Wednesday (11/11). This is interpretation, not a price prediction.",
+  "image_alt_en": "Indonesia Stock Exchange (IDX) building in Jakarta",
+  "image_credits_en": "Photo: Indonesia Stock Exchange building, Jakarta (Bursa Efek Indonesia, CC BY-SA 4.0); Rp50,000 banknote (Jonny-mt, CC BY 3.0). Via Wikimedia Commons. Illustrative photo."
+ },
+ {
+  "slug": "schwab-tambah-sol-avax-link-pnc-uji-pembayaran-usdc",
+  "category": "regulasi",
+  "type": "news",
+  "title": "Bank dan broker besar AS makin masuk crypto: Schwab buka trading SOL, AVAX, LINK; PNC uji terima pembayaran USDC",
+  "summary": "Charles Schwab menambah Solana, Avalanche, dan Chainlink ke platform Schwab Crypto, sehingga total ada lima aset. Di hari yang sama, PNC Bank meluncurkan pilot bagi klien korporat untuk menerima pembayaran stablecoin USDC lewat Coinbase.",
+  "key_points": [
+   "Charles Schwab mengumumkan pada 9 November 2026 bahwa klien Schwab Crypto kini bisa membeli dan menjual SOL, AVAX, dan LINK, selain bitcoin dan ethereum.",
+   "Schwab Crypto mulai diluncurkan bertahap pada Mei 2026 dan tersedia untuk semua klien ritel yang memenuhi syarat sejak Oktober. Biayanya 0,75% dari nilai tiap transaksi.",
+   "Menurut Finance Magnates dan crypto.news, layanan ini tidak tersedia untuk penduduk New York dan Louisiana, wilayah teritori AS, maupun luar negeri.",
+   "PNC Bank, juga pada 9 November, meluncurkan pilot terbatas agar klien Corporate & Institutional Banking bisa menerima USDC di jaringan Ethereum lewat produk Coinbase Payment.",
+   "USDC yang diterima otomatis dikonversi 1:1 ke dolar AS dan disetor ke rekening PNC klien."
+  ],
+  "why_it_matters": "Langkah ini menunjukkan lembaga keuangan tradisional di AS terus memperluas akses ke aset kripto dan stablecoin. Ini juga menambah jalur akses institusi dan ritel ke altcoin besar, bukan hanya BTC dan ETH.",
+  "body": [
+   "Charles Schwab mengumumkan pada Senin (9/11/2026) bahwa tiga token baru kini bisa dibeli dan dijual di platform Schwab Crypto: Solana (SOL), Avalanche (AVAX), dan Chainlink (LINK). Dengan tambahan ini, klien Schwab Crypto bisa memperdagangkan lima aset digital: bitcoin, ethereum, solana, avalanche, dan chainlink.",
+   "Menurut rilis resmi Schwab, Schwab Crypto mulai diluncurkan ke klien pada Mei 2026 dan tersedia untuk semua klien ritel yang memenuhi syarat sejak Oktober. Schwab menyebut biaya transaksinya 75 basis poin, atau 0,75% dari nilai tiap transaksi, dan berencana menambah aset digital lain secara bertahap.",
+   "Finance Magnates dan crypto.news melaporkan layanan ini disediakan lewat Charles Schwab Premier Bank, SSB, dan tidak tersedia bagi penduduk New York dan Louisiana, wilayah teritori AS, maupun yurisdiksi internasional. Finance Magnates juga mencatat aset kripto di layanan ini tidak dilindungi asuransi FDIC maupun SIPC.",
+   "Pada hari yang sama, PNC Bank mengumumkan klien Corporate & Institutional Banking kini bisa menerima pembayaran USDC, stablecoin yang didukung dolar AS, di jaringan Ethereum lewat produk Coinbase Payment. USDC yang masuk otomatis dikonversi 1:1 ke dolar AS dan disetor ke rekening PNC yang ditunjuk. PNC menyebut layanan ini awalnya ditawarkan terbatas kepada klien yang memenuhi syarat sebagai program pilot.",
+   "\"Saat ini, ini soal menguji dan belajar bersama klien kami,\" kata Tom Lang, kepala produk dan operasi treasury management PNC, kepada Reuters. Menurut Cointelegraph, PNC tidak mengungkap biaya, waktu penyelesaian, maupun jumlah klien yang ikut pilot."
+  ],
+  "sources": [
+   {
+    "name": "Charles Schwab: rilis resmi penambahan SOL, AVAX, dan LINK di Schwab Crypto",
+    "url": "https://pressroom.aboutschwab.com/press-releases/press-release/2026/Charles-Schwab-Makes-Solana-Avalanche-and-Chainlink-Available-to-Trade-Through-Schwab-Crypto-Accounts/default.aspx",
+    "deep_link": true
+   },
+   {
+    "name": "Finance Magnates: Schwab Crypto Adds Solana, Avalanche and Chainlink",
+    "url": "https://www.financemagnates.com/forex/schwab-crypto-adds-solana-avalanche-and-chainlink-expanding-offering-to-five-assets/",
+    "deep_link": true
+   },
+   {
+    "name": "PNC: rilis resmi pembayaran stablecoin untuk klien korporat",
+    "url": "https://pnc.mediaroom.com/2026-11-09-PNC-Bank-Launches-Incoming-Stablecoin-Payments-for-Corporate-and-Institutional-Banking-Clients",
+    "deep_link": true
+   },
+   {
+    "name": "Reuters via Investing.com: PNC to offer stablecoin payments to clients in Coinbase partnership",
+    "url": "https://www.investing.com/news/stock-market-news/pnc-to-offerstablecoin-payments-to-clients-in-coinbase-partnership-5012405",
+    "deep_link": true
+   },
+   {
+    "name": "Cointelegraph: PNC Brings USDC Payments to Institutional Banking Clients",
+    "url": "https://cointelegraph.com/news/pnc-bank-launches-usdc-payment-pilot-coinbase",
+    "deep_link": true
+   }
+  ],
+  "published_at": "2026-11-10T13:33:00+08:00",
+  "images": [
+   "assets/img/photos/schwab.jpg"
+  ],
+  "image_alt": "Papan nama Charles Schwab di dinding kantor",
+  "image_credits": "Foto: kantor Charles Schwab di Bethesda, Maryland (Tony Webster, CC BY 2.0, Wikimedia Commons). Foto ilustrasi.",
+  "title_en": "Big US banks and brokers push further into crypto: Schwab opens SOL, AVAX, LINK trading; PNC pilots receiving USDC payments",
+  "summary_en": "Charles Schwab added Solana, Avalanche and Chainlink to its Schwab Crypto platform, bringing the total to five assets. On the same day, PNC Bank launched a pilot letting corporate clients receive USDC stablecoin payments via Coinbase.",
+  "key_points_en": [
+   "Charles Schwab announced on 9 November 2026 that Schwab Crypto clients can now buy and sell SOL, AVAX and LINK, in addition to bitcoin and ethereum.",
+   "Schwab Crypto began rolling out in May 2026 and has been available to all eligible retail clients since October. The fee is 0.75% of the value of each trade.",
+   "According to Finance Magnates and crypto.news, the service is not available to residents of New York and Louisiana, US territories, or abroad.",
+   "PNC Bank, also on 9 November, launched a limited pilot letting Corporate & Institutional Banking clients receive USDC on the Ethereum network via Coinbase Payment products.",
+   "Incoming USDC is automatically converted 1:1 into US dollars and deposited into the client's PNC account."
+  ],
+  "why_en": "These moves show traditional US financial institutions continuing to widen access to crypto assets and stablecoins. They also add access routes for institutions and retail to large altcoins, not just BTC and ETH.",
+  "body_en": [
+   "Charles Schwab announced on Monday (9/11/2026) that three new tokens are now available to buy and sell on the Schwab Crypto platform: Solana (SOL), Avalanche (AVAX) and Chainlink (LINK). With these additions, Schwab Crypto clients can trade five digital assets: bitcoin, ethereum, solana, avalanche and chainlink.",
+   "According to Schwab's official release, Schwab Crypto began rolling out to clients in May 2026 and has been available to all eligible retail clients since October. Schwab said its trading fee is 75 basis points, or 0.75% of the value of each trade, and that it plans to add other digital assets over time.",
+   "Finance Magnates and crypto.news reported that the service is provided through Charles Schwab Premier Bank, SSB, and is not available to residents of New York and Louisiana, US territories or international jurisdictions. Finance Magnates also noted that crypto holdings in the service are not covered by FDIC insurance or SIPC protection.",
+   "On the same day, PNC Bank announced that Corporate & Institutional Banking clients can now receive payments in USDC, a US dollar-backed stablecoin, on the Ethereum network via Coinbase Payment products. Incoming USDC is automatically converted 1:1 into US dollars and deposited into a designated PNC account. PNC said the service is initially offered on a limited basis to eligible clients as a pilot program.",
+   "\"Right now, this is about testing and learning with our clients,\" Tom Lang, PNC's head of treasury management product and operations, told Reuters. According to Cointelegraph, PNC did not disclose fees, settlement times or the number of clients in the pilot."
+  ],
+  "image_alt_en": "Charles Schwab sign on an office wall",
+  "image_credits_en": "Photo: Charles Schwab office in Bethesda, Maryland (Tony Webster, CC BY 2.0, Wikimedia Commons). Illustrative photo."
  }
 ]
