@@ -204,5 +204,106 @@
   ],
   "image_alt_en": "Ledger Nano S hardware wallet",
   "image_credits_en": "Photo: Ledger Nano S (Motokoka, CC BY-SA 4.0, Wikimedia Commons)."
+ },
+ {
+  "slug": "sejarah-5-tahun-rekor-bitcoin-69-ribu-november-2021",
+  "type": "edu",
+  "category": "edukasi",
+  "title": "Sejarah: 5 tahun lalu, Bitcoin cetak rekor dekat US$69.000 di hari inflasi AS tembus 6,2%",
+  "summary": "Pada 10 November 2021, Bitcoin mencetak rekor tertinggi saat itu di sekitar US$68.950, tak lama setelah data inflasi AS keluar di level tertinggi sejak 1990. Setahun kemudian, harganya jatuh ke US$15.480. Ini kisahnya, dan kenapa hari ini terasa mirip.",
+  "published_at": "2026-11-10T19:18:00+08:00",
+  "images": [
+   "assets/img/photos/hold.jpg",
+   "assets/img/photos/dollar.jpg"
+  ],
+  "key_points": [
+   "Pada 10 November 2021, Bitcoin naik ke rekor US$68.950 tak lama setelah rilis data inflasi konsumen (CPI) AS pukul 13.30 UTC, menurut CoinDesk.",
+   "CPI AS Oktober 2021 naik 6,2% secara tahunan, tercepat sejak 1990. Inflasi inti naik 4,6%, tertinggi sejak Agustus 1991.",
+   "Saat itu banyak investor memakai Bitcoin dan emas sebagai \"lindung nilai inflasi\". Emas juga naik ke level tertinggi lima bulan di US$1.853.",
+   "Pada 16 Maret 2022, The Fed mulai menaikkan suku bunga. Pada November 2022, setelah runtuhnya FTX, Bitcoin jatuh ke US$15.480, terendah sejak November 2020.",
+   "Lima tahun kemudian, 10 November 2026, pasar kembali menunggu data CPI AS di jam yang sama, 13.30 UTC, dengan Bitcoin di sekitar US$74.000-an."
+  ],
+  "body": [
+   "Tanggal 10 November punya tempat khusus dalam sejarah Bitcoin. Pada hari itu di tahun 2021, Departemen Tenaga Kerja AS merilis data inflasi konsumen (CPI) bulan Oktober pukul 08.30 waktu New York, atau 13.30 UTC (21.30 WITA). Angkanya mengejutkan: harga konsumen naik 6,2% dibanding setahun sebelumnya, laju tercepat sejak 1990. Inflasi inti, yang tidak menghitung makanan dan energi, naik 4,6%, tertinggi sejak Agustus 1991. Secara bulanan, CPI naik 0,9%, menurut CNBC.",
+   "Pasar langsung bereaksi. Menurut CoinDesk, harga Bitcoin naik hampir US$3.000 setelah rilis data itu dan mencetak rekor baru US$68.950. Emas, aset lindung nilai tradisional, juga menembus level tertinggi lima bulan di US$1.853. CNBC melaporkan investor beralih ke aset yang dianggap tahan inflasi, baik yang lama seperti emas maupun yang baru seperti Bitcoin.",
+   "Narasinya saat itu sederhana: pasokan Bitcoin dibatasi 21 juta koin, jadi ia dianggap pelindung nilai ketika bank sentral mencetak uang dan inflasi naik. Bitcoin juga baru saja naik 40% di bulan Oktober 2021. Menurut CoinDesk, narasi populer saat itu mengaitkan reli tersebut dengan peluncuran ETF berjangka Bitcoin pertama di AS, sementara analis JPMorgan mengaitkannya dengan naiknya ekspektasi inflasi.",
+   "Tapi inflasi yang tinggi juga berarti The Fed harus bertindak. Pada 16 Maret 2022, The Fed menaikkan suku bunga acuan ke kisaran 0,25%-0,50% dan memberi sinyal kenaikan lanjutan. Uang murah yang ikut mendorong reli 2021 mulai ditarik.",
+   "Tahun 2022 kemudian menjadi \"crypto winter\". Pada November 2022, bursa FTX runtuh. CoinDesk melaporkan Bitcoin jatuh ke bawah US$16.000 setelah Binance membatalkan rencana mengambil alih FTX pada 9 November, dan FTX mengajukan kebangkrutan dua hari kemudian. Pada 21 November 2022, menurut Kitco News, Bitcoin menyentuh US$15.480, harga terendah sejak November 2020. Berdasarkan hitungan COIN BRO, itu sekitar 78% di bawah rekor setahun sebelumnya.",
+   "Lima tahun setelah rekor itu, polanya terasa akrab. Malam ini, 10 November 2026, data CPI AS kembali dirilis pukul 13.30 UTC (21.30 WITA). Bedanya, kali ini The Fed sedang membahas kenaikan suku bunga di bulan Desember, dan Bitcoin diperdagangkan di sekitar US$74.450 menurut crypto.news. Berdasarkan hitungan COIN BRO, itu hanya sekitar 8% di atas rekor November 2021."
+  ],
+  "why_it_matters": "Kisah 2021-2022 menunjukkan bahwa data inflasi bisa menggerakkan Bitcoin ke dua arah. Inflasi tinggi sempat mendorong harga ke rekor, tetapi respons bank sentral berupa suku bunga lebih tinggi kemudian ikut menekan pasar crypto.",
+  "tips_title": "Pelajaran dari sejarah ini",
+  "tips": [
+   "Narasi \"lindung nilai inflasi\" tidak selalu berlaku dalam jangka pendek. Arah suku bunga juga sangat berpengaruh.",
+   "Rekor harga bisa diikuti penurunan besar. Hindari memakai uang yang kamu butuhkan dalam waktu dekat untuk aset berisiko tinggi.",
+   "Simpan aset di platform yang terdaftar dan diawasi OJK, dan pahami risiko bursa, seperti yang terlihat dari kasus FTX."
+  ],
+  "analysis": "Sejarah tidak selalu berulang dengan cara yang sama. Kondisi 2026 berbeda dari 2021, misalnya sudah ada ETF Bitcoin spot dan lebih banyak perusahaan yang memegang BTC. Perbandingan ini dibuat untuk konteks, bukan untuk memprediksi harga.",
+  "sources": [
+   {
+    "name": "CoinDesk: Bitcoin Jumps to New All-Time High as Inflation Spikes to 6.2% in October (10 Nov 2021)",
+    "url": "https://www.coindesk.com/markets/2021/11/10/bitcoin-jumps-to-new-all-time-high-gold-rallies-as-inflation-expectations-surge",
+    "deep_link": true
+   },
+   {
+    "name": "CNBC: Gold, bitcoin lead gains in inflation hedges following biggest CPI jump in 3 decades (10 Nov 2021)",
+    "url": "https://www.cnbc.com/2021/11/10/gold-bitcoin-lead-gains-in-inflation-hedges-following-biggest-cpi-jump-in-3-decades.html",
+    "deep_link": true
+   },
+   {
+    "name": "Federal Reserve: FOMC statement, 16 Maret 2022",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20220316a.htm",
+    "deep_link": true
+   },
+   {
+    "name": "CoinDesk: Bitcoin Hits 2-Year Low Below $16K After Binance Backs Out of FTX Deal (9 Nov 2022)",
+    "url": "https://www.coindesk.com/markets/2022/11/09/bitcoin-falls-below-17k-amid-latest-ftx-meltdown",
+    "deep_link": true
+   },
+   {
+    "name": "Bloomberg: Crypto Markets Buckle as FTX Bankruptcy Spurs Search for Casualties (11 Nov 2022)",
+    "url": "https://www.bloomberg.com/news/articles/2022-11-11/crypto-markets-buckle-as-ftx-filing-spurs-search-for-casualties",
+    "deep_link": true
+   },
+   {
+    "name": "Kitco News: BTC dips to a multi-year low of $15,480 (21 Nov 2022)",
+    "url": "https://www.kitco.com/news/article/2022-11-21/fear-takes-over-crypto-market-btc-dips-multi-year-low-15480",
+    "deep_link": true
+   },
+   {
+    "name": "crypto.news: harga Bitcoin 10 Nov 2026 (dalam laporan Trump Media)",
+    "url": "https://crypto.news/trump-media-bitcoin-holdings-q3-2026/",
+    "deep_link": true
+   }
+  ],
+  "image_alt": "Koin Bitcoin fisik berwarna emas",
+  "image_credits": "Foto ilustrasi: koin Bitcoin (Satheesh Sankaran, CC BY 2.0); uang kertas 100 dolar AS (Revisorweb, domain publik). Via Wikimedia Commons.",
+  "title_en": "History: 5 years ago, Bitcoin set a record near US$69,000 on the day US inflation hit 6.2%",
+  "summary_en": "On 10 November 2021, Bitcoin set its then-record high of about US$68,950, shortly after US inflation data came out at its highest level since 1990. A year later, its price fell to US$15,480. Here is the story, and why today feels similar.",
+  "key_points_en": [
+   "On 10 November 2021, Bitcoin rose to a record US$68,950 shortly after the release of US consumer price index (CPI) data at 13:30 UTC, according to CoinDesk.",
+   "US CPI for October 2021 rose 6.2% year on year, the fastest since 1990. Core inflation rose 4.6%, the highest since August 1991.",
+   "At the time many investors used Bitcoin and gold as an \"inflation hedge\". Gold also rose to a five-month high of US$1,853.",
+   "On 16 March 2022, the Fed began raising interest rates. In November 2022, after the collapse of FTX, Bitcoin fell to US$15,480, its lowest since November 2020.",
+   "Five years later, on 10 November 2026, markets are again waiting for US CPI data at the same time, 13:30 UTC, with Bitcoin around the US$74,000 level."
+  ],
+  "body_en": [
+   "10 November holds a special place in Bitcoin's history. On that day in 2021, the US Labor Department released October consumer price index (CPI) data at 08:30 New York time, or 13:30 UTC (21:30 WITA). The figure was a shock: consumer prices rose 6.2% from a year earlier, the fastest pace since 1990. Core inflation, which excludes food and energy, rose 4.6%, the highest since August 1991. Month on month, CPI rose 0.9%, according to CNBC.",
+   "Markets reacted immediately. According to CoinDesk, the price of Bitcoin rose by nearly US$3,000 after the data release and set a new record of US$68,950. Gold, the traditional hedge, also broke through to a five-month high of US$1,853. CNBC reported that investors moved into assets seen as inflation-resistant, both old ones such as gold and new ones such as Bitcoin.",
+   "The narrative at the time was simple: Bitcoin's supply is capped at 21 million coins, so it was seen as a store of value when central banks print money and inflation rises. Bitcoin had also just rallied 40% in October 2021. According to CoinDesk, the popular narrative at the time linked that rally to the launch of the first US Bitcoin futures ETF, while JPMorgan analysts attributed it to rising inflation expectations.",
+   "But high inflation also meant the Fed had to act. On 16 March 2022, the Fed raised its policy rate to a range of 0.25%-0.50% and signaled further increases. The cheap money that had helped fuel the 2021 rally began to be withdrawn.",
+   "2022 then became a \"crypto winter\". In November 2022, the FTX exchange collapsed. CoinDesk reported that Bitcoin fell below US$16,000 after Binance backed out of a plan to acquire FTX on 9 November, and FTX filed for bankruptcy two days later. On 21 November 2022, according to Kitco News, Bitcoin touched US$15,480, its lowest price since November 2020. By COIN BRO's calculation, that was about 78% below the record set a year earlier.",
+   "Five years after that record, the pattern feels familiar. Tonight, 10 November 2026, US CPI data is again released at 13:30 UTC (21:30 WITA). The difference is that this time the Fed is discussing a rate hike in December, and Bitcoin is trading at around US$74,450 according to crypto.news. By COIN BRO's calculation, that is only about 8% above the November 2021 record."
+  ],
+  "why_en": "The 2021-2022 story shows that inflation data can move Bitcoin in both directions. High inflation briefly pushed the price to a record, but the central bank's response in the form of higher interest rates then weighed on the crypto market.",
+  "tips_title_en": "Lessons from this history",
+  "tips_en": [
+   "The \"inflation hedge\" narrative does not always hold in the short term. The direction of interest rates matters a lot too.",
+   "A record price can be followed by a big decline. Avoid using money you need in the near term for high-risk assets.",
+   "Keep assets on platforms registered with and supervised by OJK, and understand exchange risk, as the FTX case showed."
+  ],
+  "analysis_en": "History does not always repeat in the same way. Conditions in 2026 differ from 2021; for example, spot Bitcoin ETFs now exist and more companies hold BTC. This comparison is made for context, not to predict prices.",
+  "image_alt_en": "Gold-colored physical Bitcoin coin",
+  "image_credits_en": "Illustrative photo: Bitcoin coin (Satheesh Sankaran, CC BY 2.0); US 100-dollar bill (Revisorweb, public domain). Via Wikimedia Commons."
  }
 ]
