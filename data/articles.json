@@ -892,5 +892,297 @@
   "analysis_en": "Rejecting the bill at first reading is not new in France; the Prime Minister's office, according to franceinfo, called it the classic scenario. That means the personal wallet reporting issue could come back in the Senate. Crypto users in Europe are already reported via exchanges under the DAC8 rules, so self-custody wallets remain the next focus.",
   "image_alt_en": "The hemicycle of the French Assemblée nationale at the Palais Bourbon, Paris",
   "image_credits_en": "Photos: Assemblée nationale hemicycle at the Palais Bourbon, Paris, July 2026 (Dev Jadiya, CC BY-SA 4.0); two Trezor One hardware wallets and a 5 BTC Casascius coin (Gage Skidmore, CC BY-SA 3.0). Via Wikimedia Commons."
+ },
+ {
+  "slug": "bitcoin-sentuh-terendah-sejak-agustus-etf-keluar-jelang-cpi",
+  "category": "etf-makro",
+  "type": "news",
+  "title": "Bitcoin sempat sentuh level terendah sejak Agustus, ETF BTC catat arus keluar US$1,28 miliar jelang data inflasi AS",
+  "summary": "Bitcoin sempat turun ke sekitar US$73.761 dan likuidasi tembus US$1 miliar. ETF bitcoin spot AS mencatat arus keluar mingguan terbesar sejak Juni, sementara data tenaga kerja AS yang kuat dan rilis CPI Oktober malam ini jadi sorotan.",
+  "key_points": [
+   "Menurut CoinDesk, bitcoin sempat jatuh ke sekitar US$73.761 pada Minggu malam waktu AS (Senin, 9/11, waktu Indonesia), level terendah sejak Agustus, sebelum pulih ke atas US$75.000.",
+   "Lebih dari US$1 miliar posisi leverage crypto terlikuidasi dalam 24 jam, termasuk US$913 juta posisi long, menurut data CoinGlass yang dikutip CoinDesk.",
+   "ETF bitcoin spot AS mencatat arus keluar bersih US$1,282 miliar sepekan, terbesar sejak pekan 22–28 Juni, menurut data SoSoValue yang dikutip CoinDesk. Secara year-to-date, arus dana ETF kini minus US$914 juta.",
+   "Data resmi BLS: ekonomi AS menambah 165.000 lapangan kerja non-pertanian pada Oktober 2026, jauh di atas perkiraan, dan tingkat pengangguran turun ke 4,1%.",
+   "CPI (inflasi konsumen) AS bulan Oktober dirilis Selasa 10 November pukul 08.30 waktu New York, atau 21.30 WITA (13.30 UTC). Pada September, inflasi tahunan AS 3,7%, tertinggi sejak Mei."
+  ],
+  "why_it_matters": "Data kerja yang kuat dan inflasi yang masih tinggi bisa memperkuat alasan The Fed untuk menaikkan suku bunga lagi. Suku bunga yang lebih tinggi biasanya membuat aset berisiko seperti crypto kurang menarik. Tanpa arus masuk baru ke ETF, pemulihan harga bisa lebih sulit.",
+  "body": [
+   "Bitcoin kembali tertekan di awal pekan. Menurut CoinDesk, BTC sempat jatuh ke sekitar US$73.761 pada Minggu malam waktu AS (Senin, 9/11, waktu Indonesia), level terendah sejak Agustus, sebelum pulih ke atas US$75.000. Ether sempat turun di bawah US$2.100 sebelum memantul.",
+   "Gejolak harga itu memicu likuidasi paksa. Menurut data CoinGlass yang dikutip CoinDesk, lebih dari US$1 miliar posisi leverage crypto terlikuidasi dalam 24 jam, termasuk US$913 juta taruhan bahwa harga akan naik (long).",
+   "Arus dana institusi juga melemah. CoinDesk, mengutip data SoSoValue, mencatat ETF bitcoin spot yang terdaftar di AS mengalami arus keluar bersih US$1,282 miliar sepekan, terbesar sejak pekan 22–28 Juni. Empat dari lima hari perdagangan mencatat arus keluar, dan total arus dana ETF sepanjang tahun ini kini minus US$914 juta. Padahal ETF ini sempat kembali positif secara year-to-date pada 22 September.",
+   "Pada Senin waktu AS, saham justru menguat. CoinDesk mencatat Nasdaq naik 2,75% dan S&P 500 naik 2,35%, sementara bitcoin turun 1,1% ke sekitar US$74.800.",
+   "Dari sisi makro, Biro Statistik Tenaga Kerja AS (BLS) melaporkan pada Jumat (6/11) bahwa ekonomi AS menambah 165.000 lapangan kerja non-pertanian pada Oktober 2026. Menurut CNBC, angka ini jauh di atas perkiraan Dow Jones sebesar 59.000. Tingkat pengangguran turun ke 4,1% dari 4,2%, dan upah per jam naik 0,4% secara bulanan atau 3,1% secara tahunan.",
+   "Fokus berikutnya adalah CPI Oktober yang dirilis Selasa (10/11) pukul 08.30 waktu New York, atau 21.30 WITA (13.30 UTC). Menurut CoinDesk, CPI September naik 0,6% secara bulanan, mendorong inflasi tahunan ke 3,7%, tertinggi sejak Mei. CoinDesk juga menyebut CME FedWatch memperkirakan peluang kenaikan suku bunga The Fed pada Desember sebesar 85%."
+  ],
+  "analysis": "Bitcoin tertinggal saat saham AS naik, dan arus keluar ETF menunjukkan permintaan institusi sedang lemah. Jika CPI malam ini lebih panas dari perkiraan, tekanan ke aset berisiko bisa bertambah. Sebaliknya, inflasi yang lebih jinak bisa sedikit meredakan tekanan. Ini interpretasi, bukan prediksi harga.",
+  "sources": [
+   {
+    "name": "CoinDesk: Bitcoin's drop and pop triggers $1 billion in liquidations",
+    "url": "https://www.coindesk.com/markets/2026/11/09/bitcoin-drops-then-pops-as-nvidia-cheating-scandal-and-failed-iran-talks-trigger-volatility",
+    "deep_link": true
+   },
+   {
+    "name": "CoinDesk: Bitcoin bulls can't rely on ETF flows (Crypto Daily, 9 Nov 2026)",
+    "url": "https://www.coindesk.com/daybook-us/2026/11/09/bitcoin-bulls-can-t-rely-on-etf-flows",
+    "deep_link": true
+   },
+   {
+    "name": "CoinDesk: U.S. inflation, corporate earnings: Crypto Week Ahead",
+    "url": "https://www.coindesk.com/markets/2026/11/09/u-s-inflation-corporate-earnings-crypto-week-ahead",
+    "deep_link": true
+   },
+   {
+    "name": "BLS: The Employment Situation (rilis resmi)",
+    "url": "https://www.bls.gov/news.release/empsit.nr0.htm",
+    "deep_link": true
+   },
+   {
+    "name": "CNBC: U.S. economy added 165,000 jobs in October, unemployment rate slips to 4.1%",
+    "url": "https://www.cnbc.com/2026/11/06/jobs-report-october-2026.html",
+    "deep_link": true
+   }
+  ],
+  "published_at": "2026-11-10T08:40:00+08:00",
+  "images": [
+   "assets/img/photos/fed_eccles.jpg",
+   "assets/img/photos/btcusd.jpg"
+  ],
+  "image_alt": "Gedung Marriner S. Eccles, kantor pusat Dewan Gubernur Federal Reserve di Washington, D.C.",
+  "image_credits": "Foto: Gedung Eccles, kantor pusat The Fed (Federal Reserve, domain publik); koin Casascius dan uang dolar (Gage Skidmore, CC BY-SA 3.0). Via Wikimedia Commons. Foto ilustrasi.",
+  "title_en": "Bitcoin briefly hits its lowest since August, BTC ETFs see US$1.28 billion outflow ahead of US inflation data",
+  "summary_en": "Bitcoin briefly fell to about US$73,761 and liquidations topped US$1 billion. US spot bitcoin ETFs recorded their biggest weekly outflow since June, while strong US jobs data and tonight's October CPI release are in focus.",
+  "key_points_en": [
+   "According to CoinDesk, bitcoin briefly fell to about US$73,761 late Sunday US time (Monday, 9/11, Indonesia time), its lowest level since August, before recovering above US$75,000.",
+   "More than US$1 billion in leveraged crypto positions were liquidated in 24 hours, including US$913 million in long positions, according to CoinGlass data cited by CoinDesk.",
+   "US spot bitcoin ETFs recorded a net outflow of US$1.282 billion for the week, the largest since the week of 22–28 June, according to SoSoValue data cited by CoinDesk. Year to date, ETF flows are now minus US$914 million.",
+   "Official BLS data: the US economy added 165,000 nonfarm jobs in October 2026, far above expectations, and the unemployment rate fell to 4.1%.",
+   "US October CPI (consumer inflation) is released on Tuesday 10 November at 8:30 a.m. New York time, or 21.30 WITA (13.30 UTC). In September, US annual inflation was 3.7%, the highest since May."
+  ],
+  "why_en": "Strong jobs data and still-high inflation could strengthen the Fed's case for raising interest rates again. Higher rates usually make risk assets such as crypto less attractive. Without fresh ETF inflows, a price recovery could be harder.",
+  "body_en": [
+   "Bitcoin came under pressure again at the start of the week. According to CoinDesk, BTC briefly fell to about US$73,761 late Sunday US time (Monday, 9/11, Indonesia time), its lowest level since August, before recovering above US$75,000. Ether briefly dropped below US$2,100 before bouncing.",
+   "The price swings triggered forced liquidations. According to CoinGlass data cited by CoinDesk, more than US$1 billion in leveraged crypto positions were liquidated in 24 hours, including US$913 million in bets that prices would rise (longs).",
+   "Institutional flows also weakened. CoinDesk, citing SoSoValue data, reported that US-listed spot bitcoin ETFs saw a net outflow of US$1.282 billion for the week, the largest since the week of 22–28 June. Four of the five trading days saw outflows, and total ETF flows this year are now minus US$914 million. The ETFs had turned positive year to date on 22 September.",
+   "On Monday US time, stocks rose instead. CoinDesk noted the Nasdaq gained 2.75% and the S&P 500 rose 2.35%, while bitcoin fell 1.1% to about US$74,800.",
+   "On the macro side, the US Bureau of Labor Statistics (BLS) reported on Friday (6/11) that the US economy added 165,000 nonfarm jobs in October 2026. According to CNBC, this was far above the Dow Jones estimate of 59,000. The unemployment rate fell to 4.1% from 4.2%, and hourly pay rose 0.4% month on month, or 3.1% year on year.",
+   "The next focus is October CPI, released on Tuesday (10/11) at 8:30 a.m. New York time, or 21.30 WITA (13.30 UTC). According to CoinDesk, September CPI rose 0.6% month on month, pushing annual inflation to 3.7%, the highest since May. CoinDesk also said CME FedWatch puts the odds of a Fed rate hike in December at 85%."
+  ],
+  "analysis_en": "Bitcoin lagged as US stocks rose, and ETF outflows show institutional demand is weak for now. If tonight's CPI comes in hotter than expected, pressure on risk assets could increase. Conversely, softer inflation could ease the pressure slightly. This is interpretation, not a price prediction.",
+  "image_alt_en": "The Marriner S. Eccles Building, headquarters of the Federal Reserve Board of Governors in Washington, D.C.",
+  "image_credits_en": "Photos: Eccles Building, Fed headquarters (Federal Reserve, public domain); Casascius coin and dollar bills (Gage Skidmore, CC BY-SA 3.0). Via Wikimedia Commons. Illustrative photos."
+ },
+ {
+  "slug": "strategy-beli-1036-btc-total-850364",
+  "category": "bitcoin",
+  "type": "news",
+  "title": "Strategy beli lagi 1.036 BTC senilai US$81,9 juta, total kepemilikan jadi 850.364 BTC",
+  "summary": "Strategy membeli 1.036 BTC pada 2–8 November 2026 dengan harga rata-rata US$79.012. Di saat yang sama, perusahaan juga membeli kembali saham preferen STRC senilai US$188,3 juta.",
+  "key_points": [
+   "Menurut laporan Form 8-K ke SEC tertanggal 9 November 2026, Strategy membeli 1.036 BTC seharga ±US$81,9 juta pada 2–8 November, dengan harga rata-rata US$79.012 per BTC.",
+   "Total kepemilikan Strategy kini 850.364 BTC, dibeli dengan total biaya ±US$64,16 miliar atau rata-rata US$75.456 per BTC (termasuk biaya).",
+   "Menurut Cointelegraph, jumlah itu setara sekitar 4,05% dari batas maksimum 21 juta BTC.",
+   "Dana berasal dari penjualan saham biasa MSTR senilai ±US$283,8 juta (bersih). Sebanyak US$188,3 juta dipakai untuk membeli kembali saham preferen STRC.",
+   "Pembelian ini menyusul pembelian 811 BTC pada pekan sebelumnya."
+  ],
+  "why_it_matters": "Strategy adalah perusahaan publik pemegang bitcoin terbesar di dunia. Harga rata-rata pembelian mereka (US$75.456) kini dekat dengan harga pasar BTC, jadi posisi mereka berada di sekitar titik impas. Porsi dana yang dipakai untuk buyback STRC juga lebih besar dari porsi untuk bitcoin.",
+  "body": [
+   "Strategy (sebelumnya MicroStrategy), perusahaan yang dipimpin Executive Chairman Michael Saylor, kembali menambah bitcoin. Berdasarkan laporan Form 8-K ke Komisi Sekuritas dan Bursa AS (SEC) pada Senin (9/11/2026), perusahaan membeli 1.036 BTC seharga sekitar US$81,9 juta antara 2 dan 8 November 2026, dengan harga rata-rata US$79.012 per BTC.",
+   "Dengan tambahan itu, Strategy kini memegang 850.364 BTC. Menurut data Bitcoin Ledger di situs Strategy, total biaya akuisisinya sekitar US$64,16 miliar, atau rata-rata US$75.456 per BTC termasuk biaya. Cointelegraph mencatat jumlah tersebut setara sekitar 4,05% dari batas maksimum pasokan bitcoin 21 juta.",
+   "Menurut Cointelegraph, Strategy mengumpulkan dana bersih sekitar US$283,8 juta pekan lalu dari penjualan sekitar 2,05 juta saham biasa (MSTR) lewat program at-the-market. Dari jumlah itu, US$188,3 juta dipakai untuk membeli kembali sekitar 1,89 juta saham preferen STRC, US$81,9 juta untuk bitcoin, dan US$13,6 juta ditambahkan ke saldo kas.",
+   "Cointelegraph juga mencatat bahwa sejak awal Oktober, Strategy sudah menghabiskan sekitar US$1,06 miliar untuk buyback STRC, hampir lima kali lipat dari US$219,7 juta yang dipakai untuk membeli bitcoin di periode yang sama. Pada pekan sebelumnya, Strategy membeli 811 BTC seharga US$65,5 juta."
+  ],
+  "analysis": "Strategy tetap membeli bitcoin setiap pekan, tetapi dalam jumlah yang jauh lebih kecil dibanding beberapa bulan lalu, dan lebih banyak dana kini dialokasikan ke buyback saham preferen. Dengan harga BTC di sekitar rata-rata biaya perusahaan, pergerakan harga akan langsung terlihat di posisi untung-rugi mereka. Ini interpretasi, bukan saran investasi.",
+  "sources": [
+   {
+    "name": "Strategy: Strategy Acquires 1,036 BTC and Repurchases $188 Million of STRC (Form 8-K, 9 Nov 2026)",
+    "url": "https://www.strategy.com/press/strategy-acquires-1036-btc-and-repurchases-188-million-of-strc_11-09-2026",
+    "deep_link": true
+   },
+   {
+    "name": "Strategy: Bitcoin Ledger",
+    "url": "https://www.strategy.com/ledger",
+    "deep_link": true
+   },
+   {
+    "name": "Cointelegraph: Strategy buys 1,036 Bitcoin as BTC holdings climb to 850,364",
+    "url": "https://cointelegraph.com/news/strategy-buy-1036-bitcoin-holdings-850364-btc",
+    "deep_link": true
+   },
+   {
+    "name": "The Block: Strategy buys another 1,036 bitcoin for $82 million as holdings top 850,000 BTC",
+    "url": "https://www.theblock.co/news/business/2026-11-09-connecting-the-dots-michael-saylor-strategy-bitcoin-436094",
+    "deep_link": true
+   }
+  ],
+  "published_at": "2026-11-10T08:41:00+08:00",
+  "images": [
+   "assets/img/photos/saylor.jpg"
+  ],
+  "image_alt": "Michael Saylor, Executive Chairman Strategy, berbicara di konferensi Bitcoin 2025 di Las Vegas",
+  "image_credits": "Foto: Michael Saylor di Bitcoin 2025, Las Vegas, Mei 2025 (Gage Skidmore, CC BY-SA 2.0, Wikimedia Commons).",
+  "title_en": "Strategy buys another 1,036 BTC worth US$81.9 million, bringing holdings to 850,364 BTC",
+  "summary_en": "Strategy bought 1,036 BTC between 2 and 8 November 2026 at an average price of US$79,012. At the same time, the company also repurchased US$188.3 million of STRC preferred shares.",
+  "key_points_en": [
+   "According to a Form 8-K filed with the SEC dated 9 November 2026, Strategy bought 1,036 BTC for about US$81.9 million between 2 and 8 November, at an average price of US$79,012 per BTC.",
+   "Strategy's total holdings are now 850,364 BTC, bought for a total cost of about US$64.16 billion, or an average of US$75,456 per BTC (including fees).",
+   "According to Cointelegraph, that equals about 4.05% of the 21 million BTC maximum supply.",
+   "The funds came from selling about US$283.8 million (net) of MSTR common stock. US$188.3 million was used to buy back STRC preferred shares.",
+   "The purchase follows a purchase of 811 BTC the previous week."
+  ],
+  "why_en": "Strategy is the world's largest publicly traded bitcoin holder. Its average purchase price (US$75,456) is now close to BTC's market price, so its position is around breakeven. The share of funds used for the STRC buyback was also larger than the share used for bitcoin.",
+  "body_en": [
+   "Strategy (formerly MicroStrategy), the company led by Executive Chairman Michael Saylor, has added more bitcoin. According to a Form 8-K filed with the US Securities and Exchange Commission (SEC) on Monday (9/11/2026), the company bought 1,036 BTC for about US$81.9 million between 2 and 8 November 2026, at an average price of US$79,012 per BTC.",
+   "With that addition, Strategy now holds 850,364 BTC. According to the Bitcoin Ledger on Strategy's website, its total acquisition cost is about US$64.16 billion, or an average of US$75,456 per BTC including fees. Cointelegraph noted this equals about 4.05% of bitcoin's 21 million maximum supply.",
+   "According to Cointelegraph, Strategy raised net proceeds of about US$283.8 million last week by selling about 2.05 million shares of common stock (MSTR) through its at-the-market program. Of that, US$188.3 million was used to buy back about 1.89 million STRC preferred shares, US$81.9 million went to bitcoin, and US$13.6 million was added to its cash balance.",
+   "Cointelegraph also noted that since the start of October, Strategy has spent about US$1.06 billion on STRC buybacks, nearly five times the US$219.7 million it spent buying bitcoin over the same period. The previous week, Strategy bought 811 BTC for US$65.5 million."
+  ],
+  "analysis_en": "Strategy keeps buying bitcoin every week, but in much smaller amounts than a few months ago, and more funds are now going to preferred share buybacks. With BTC trading around the company's average cost, price moves will show up directly in its profit-and-loss position. This is interpretation, not investment advice.",
+  "image_alt_en": "Michael Saylor, Executive Chairman of Strategy, speaking at the Bitcoin 2025 conference in Las Vegas",
+  "image_credits_en": "Photo: Michael Saylor at Bitcoin 2025, Las Vegas, May 2025 (Gage Skidmore, CC BY-SA 2.0, Wikimedia Commons)."
+ },
+ {
+  "slug": "coinbase-dapat-piagam-trust-bank-penuh-occ",
+  "category": "regulasi",
+  "type": "news",
+  "title": "Coinbase resmi kantongi piagam trust bank nasional penuh dari regulator bank AS (OCC)",
+  "summary": "OCC menyetujui piagam penuh Coinbase National Trust Company pada 6 November 2026. Coinbase kini bisa menjalankan layanan kustodi aset digital untuk institusi di bawah pengawasan federal AS.",
+  "key_points": [
+   "Menurut catatan resmi OCC, piagam Coinbase National Trust Company berstatus \"Consummated/Effective\" pada 6 November 2026, setelah disetujui bersyarat pada 2 April 2026. Coinbase mengumumkannya pada 9 November.",
+   "Piagam trust nasional ini memungkinkan layanan kustodi dan pembayaran yang diawasi federal, tetapi bukan bank umum yang menerima simpanan dan menyalurkan kredit, menurut CoinDesk.",
+   "Menurut Coinbase, bisnis kustodi yang ada saat ini akan dipindahkan dari Coinbase Custody Trust Company (diawasi regulator New York, NYDFS) ke entitas baru ini secara bertahap.",
+   "CoinDesk mencatat bulan lalu OCC juga memberi piagam trust penuh ke Ripple.",
+   "Asosiasi bank komunitas AS (ICBA) menggugat OCC karena menilai pemberian piagam trust ke perusahaan crypto melampaui kewenangannya, menurut CoinDesk."
+  ],
+  "why_it_matters": "Status ini menempatkan kustodi crypto Coinbase, yang dipakai banyak institusi besar, di bawah pengawasan regulator perbankan federal AS. Ini salah satu tanda makin dalamnya integrasi aset digital ke sistem keuangan tradisional AS.",
+  "body": [
+   "Coinbase, exchange crypto terbesar di AS, kini resmi mengoperasikan trust bank nasional. Kantor Pengawas Mata Uang AS (Office of the Comptroller of the Currency/OCC) menyetujui piagam penuh Coinbase National Trust Company (CNTC). Menurut catatan Corporate Applications Search di situs OCC, permohonan diterima 3 Oktober 2025, disetujui bersyarat 2 April 2026, dan berstatus \"Consummated/Effective\" pada 6 November 2026.",
+   "Coinbase mengumumkan persetujuan itu lewat blog resminya pada Senin (9/11/2026). Perusahaan menyebut piagam ini memungkinkan bisnis kustodinya berkembang di bawah kerangka regulasi federal. Coinbase juga menyebut dirinya sebagai kustodian crypto terbesar di dunia.",
+   "Menurut CoinDesk, piagam trust nasional memungkinkan layanan kustodi dan pembayaran yang diawasi federal, tetapi tidak menjadikan Coinbase bank umum yang menerima simpanan dan memberi pinjaman.",
+   "Coinbase sebelumnya menjalankan kustodi lewat Coinbase Custody Trust Company, perusahaan trust terbatas yang diawasi Departemen Layanan Keuangan New York (NYDFS) sejak 2018. Menurut blog Coinbase, kegiatan trust tersebut kini dibawa ke kerangka federal dengan tetap berpijak pada fondasi yang dibangun bersama NYDFS.",
+   "Wakil Ketua Coinbase Ryan VanGrack, dalam pernyataan yang dikutip CoinDesk, menyebut persetujuan OCC sebagai langkah besar lain dalam mengintegrasikan aset digital ke infrastruktur inti sistem keuangan Amerika.",
+   "CoinDesk mencatat Coinbase bukan satu-satunya. Bulan lalu OCC memberi piagam trust penuh ke Ripple. Di sisi lain, Independent Community Bankers of America (ICBA) menggugat OCC karena menilai pemberian piagam trust ke perusahaan crypto melampaui kewenangan regulator itu."
+  ],
+  "sources": [
+   {
+    "name": "Coinbase: Coinbase launches National Trust Company with federally regulated, institutional-grade custody offering",
+    "url": "https://www.coinbase.com/blog/coinbase-launches-national-trust-company-with-federally-regulated-institutional-grade-custody-offering",
+    "deep_link": true
+   },
+   {
+    "name": "OCC: Corporate Applications Search, Coinbase National Trust Company",
+    "url": "https://apps.occ.gov/CAS/home/details?FilingID=3RAoRRek6o4j&FilingSubtypeID=1093&FilingTypeID=2",
+    "deep_link": true
+   },
+   {
+    "name": "CoinDesk: Coinbase gets full U.S. trust charter from federal banking regulator",
+    "url": "https://www.coindesk.com/policy/2026/11/09/coinbase-gets-full-u-s-trust-charter-from-federal-banking-regulator",
+    "deep_link": true
+   }
+  ],
+  "published_at": "2026-11-10T08:42:00+08:00",
+  "images": [
+   "assets/img/photos/coinbase.jpg"
+  ],
+  "image_alt": "Brian Armstrong, CEO Coinbase, di TechCrunch Disrupt 2018",
+  "image_credits": "Foto: Brian Armstrong, CEO Coinbase, di TechCrunch Disrupt 2018 (TechCrunch, CC BY 2.0, Wikimedia Commons). Foto ilustrasi.",
+  "title_en": "Coinbase officially secures a full national trust bank charter from US bank regulator OCC",
+  "summary_en": "The OCC approved the full charter of Coinbase National Trust Company on 6 November 2026. Coinbase can now run digital asset custody services for institutions under US federal supervision.",
+  "key_points_en": [
+   "According to official OCC records, the Coinbase National Trust Company charter became \"Consummated/Effective\" on 6 November 2026, after conditional approval on 2 April 2026. Coinbase announced it on 9 November.",
+   "This national trust charter allows federally supervised custody and payment services, but it is not a full-service bank that takes deposits and extends loans, according to CoinDesk.",
+   "According to Coinbase, its existing custody business will be moved gradually from Coinbase Custody Trust Company (supervised by New York regulator NYDFS) to the new entity.",
+   "CoinDesk noted that last month the OCC also granted Ripple a full trust charter.",
+   "The US community bankers' association (ICBA) has sued the OCC, arguing that granting trust charters to crypto firms exceeds its authority, according to CoinDesk."
+  ],
+  "why_en": "This status puts Coinbase's crypto custody, used by many large institutions, under the supervision of a US federal banking regulator. It is one sign of the deepening integration of digital assets into the traditional US financial system.",
+  "body_en": [
+   "Coinbase, the largest US crypto exchange, now officially operates a national trust bank. The Office of the Comptroller of the Currency (OCC) approved the full charter of Coinbase National Trust Company (CNTC). According to the Corporate Applications Search records on the OCC website, the application was received on 3 October 2025, conditionally approved on 2 April 2026, and became \"Consummated/Effective\" on 6 November 2026.",
+   "Coinbase announced the approval on its official blog on Monday (9/11/2026). The company said the charter allows its custody business to expand under a federal regulatory framework. Coinbase also described itself as the largest crypto custodian in the world.",
+   "According to CoinDesk, a national trust charter allows federally supervised custody and payment services, but does not make Coinbase a full-service bank that takes deposits and makes loans.",
+   "Coinbase previously ran custody through Coinbase Custody Trust Company, a limited-purpose trust company supervised by the New York Department of Financial Services (NYDFS) since 2018. According to Coinbase's blog, those trust activities are now being brought into a federal framework while building on the foundation developed with NYDFS.",
+   "Coinbase Vice Chairman Ryan VanGrack, in a statement cited by CoinDesk, called the OCC approval another major step in integrating digital assets into the core infrastructure of the American financial system.",
+   "CoinDesk noted Coinbase is not alone. Last month the OCC granted Ripple a full trust charter. Meanwhile, the Independent Community Bankers of America (ICBA) has sued the OCC, arguing that granting trust charters to crypto firms exceeds the regulator's authority."
+  ],
+  "image_alt_en": "Brian Armstrong, CEO of Coinbase, at TechCrunch Disrupt 2018",
+  "image_credits_en": "Photo: Brian Armstrong, CEO of Coinbase, at TechCrunch Disrupt 2018 (TechCrunch, CC BY 2.0, Wikimedia Commons). Illustrative photo."
+ },
+ {
+  "slug": "ojk-minta-bank-siaga-24-jam-serangan-siber",
+  "category": "keamanan",
+  "type": "news",
+  "title": "OJK minta bank siaga 24 jam hadapi lonjakan serangan siber, transaksi anomali boleh dihentikan sementara",
+  "summary": "OJK meminta seluruh bank meningkatkan kewaspadaan terhadap serangan siber, memantau transaksi signifikan, dan menghentikan sementara transaksi yang tidak wajar. OJK dan BI juga sudah mengaktifkan Tim Tanggap Insiden Siber.",
+  "key_points": [
+   "Kepala Eksekutif Pengawas Perbankan OJK Dian Ediana Rae mengatakan pengawas IT perbankan OJK sudah berkoordinasi dengan tim IT seluruh bank sejak Jumat (6/11/2026).",
+   "OJK beberapa kali mengirim surat ke direksi bank, terakhir pekan lalu, berisi langkah teknis: memantau transaksi signifikan dan menghentikan sementara transaksi anomali untuk diklarifikasi.",
+   "Pemantauan diminta berjalan 24 jam, termasuk pada jam-jam transaksi yang tidak biasa, menurut CNN Indonesia.",
+   "OJK dan Bank Indonesia sudah mengaktifkan Tim Tanggap Insiden Siber (TTIS).",
+   "Menurut data Threatmap Fortinet yang dikutip CNN Indonesia, sekitar 1,6 juta serangan ke Indonesia berhasil diblokir dalam 24 jam per Senin (9/11) pagi, dengan sektor perbankan paling banyak disasar (±761 ribu ancaman)."
+  ],
+  "why_it_matters": "Bank adalah pintu masuk dan keluar dana untuk banyak pengguna crypto di Indonesia, termasuk saat deposit dan penarikan rupiah di exchange. Kebijakan menghentikan sementara transaksi yang dianggap tidak wajar bisa berdampak pada transfer bernilai besar atau di jam tidak biasa.",
+  "body": [
+   "Otoritas Jasa Keuangan (OJK) meminta seluruh bank di Indonesia meningkatkan kewaspadaan terhadap ancaman serangan siber yang belakangan meningkat. Kepala Eksekutif Pengawas Perbankan OJK Dian Ediana Rae mengatakan pengawas IT perbankan OJK sudah berkoordinasi dengan personel IT seluruh bank sejak Jumat (6/11/2026).",
+   "\"Kita concern mengenai masalah ini. Sejak Jumat minggu lalu, pengawas IT perbankan OJK sudah melakukan koordinasi dengan personil IT seluruh bank-bank untuk meningkatkan kewaspadaan,\" kata Dian kepada CNBC Indonesia, Senin (9/11/2026).",
+   "Dian mengatakan ia sudah beberapa kali mengirim surat ke direksi bank soal keamanan siber, terakhir pekan lalu. Surat itu memuat langkah teknis, termasuk memantau transaksi-transaksi signifikan dan menghentikan sementara transaksi yang anomali untuk diklarifikasi. Menurut CNN Indonesia, Dian juga menegaskan pemantauan harus berjalan 24 jam, termasuk pada jam-jam transaksi yang tidak biasa.",
+   "Menurut Dian, aturan OJK soal ketahanan digital bank sudah mewajibkan penetration testing, simulasi serangan siber, dan audit IT. OJK dan Bank Indonesia juga sudah mengaktifkan Tim Tanggap Insiden Siber (TTIS) untuk mengantisipasi berbagai kemungkinan insiden.",
+   "CNN Indonesia, mengutip data Threatmap di situs Fortinet per Senin (9/11) pukul 08.41 WIB, mencatat sekitar 1,6 juta serangan ke Indonesia berhasil diblokir dalam 24 jam terakhir, rata-rata sekitar 19 serangan per detik. Sektor perbankan paling banyak disasar dengan sekitar 761 ribu ancaman. Angka ini naik dari 350.600 serangan yang terdeteksi dan diblokir dalam 24 jam pada Sabtu (7/11).",
+   "OJK mengimbau masyarakat tetap tenang dan bertransaksi seperti biasa dengan mengikuti protokol keamanan rekening dari bank masing-masing. \"Komunikasi dengan bank agar dilakukan dengan menggunakan saluran resmi bank, dan tidak menanggapi berita-berita yang spekulatif/tidak berdasarkan sumber informasi yang akurat,\" kata Dian."
+  ],
+  "tips_title": "Jaga rekening dan akun exchange",
+  "tips": [
+   "Jangan pernah membagikan OTP, PIN, atau kata sandi kepada siapa pun.",
+   "Hubungi bank dan exchange hanya lewat saluran resmi mereka.",
+   "Kalau transfer besar tertahan, konfirmasi langsung ke bank lewat kanal resmi, jangan lewat nomor atau link dari pesan yang tidak dikenal."
+  ],
+  "sources": [
+   {
+    "name": "CNBC Indonesia: OJK Minta Bank-Bank Siaga Penuh, Ancaman Hacker Makin Ganas",
+    "url": "https://www.cnbcindonesia.com/market/20261109135855-17-783574/ojk-minta-bank-bank-siaga-penuh-ancaman-hacker-makin-ganas",
+    "deep_link": true
+   },
+   {
+    "name": "CNN Indonesia: OJK Imbau Perbankan Siaga 24 Jam Hadapi Serangan Siber",
+    "url": "https://www.cnnindonesia.com/ekonomi/20261109154333-78-1425030/ojk-imbau-perbankan-siaga-24-jam-hadapi-serangan-siber",
+    "deep_link": true
+   },
+   {
+    "name": "Katadata: OJK Minta Seluruh Bank Siaga Hadapi Serangan Siber, Kirim Surat ke Para Direksi",
+    "url": "https://katadata.co.id/finansial/keuangan/6af15d9e2b77a/ojk-minta-seluruh-bank-siaga-hadapi-serangan-siber-kirim-surat-ke-para-direksi",
+    "deep_link": true
+   }
+  ],
+  "published_at": "2026-11-10T08:43:00+08:00",
+  "images": [
+   "assets/img/photos/ojk_gedung.jpg"
+  ],
+  "image_alt": "Gedung OJK Regional 7 Sumatera Bagian Selatan di Palembang",
+  "image_credits": "Foto: Gedung OJK Regional 7 Sumatera Bagian Selatan, Palembang (Firzafp, CC BY-SA 4.0, Wikimedia Commons). Foto ilustrasi.",
+  "title_en": "OJK asks banks to stay on 24-hour alert amid a surge in cyberattacks, anomalous transactions may be temporarily halted",
+  "summary_en": "OJK asked all banks to raise their guard against cyberattacks, monitor significant transactions and temporarily halt unusual ones. OJK and BI have also activated a Cyber Incident Response Team.",
+  "key_points_en": [
+   "OJK's Chief Executive of Banking Supervision Dian Ediana Rae said OJK's bank IT supervisors have been coordinating with the IT teams of all banks since Friday (6/11/2026).",
+   "OJK has sent letters to bank boards several times, most recently last week, setting out technical steps: monitoring significant transactions and temporarily halting anomalous transactions for clarification.",
+   "Monitoring is to run 24 hours a day, including during unusual transaction hours, according to CNN Indonesia.",
+   "OJK and Bank Indonesia have activated the Cyber Incident Response Team (TTIS).",
+   "According to Fortinet Threatmap data cited by CNN Indonesia, about 1.6 million attacks on Indonesia were blocked in the 24 hours to Monday (9/11) morning, with banking the most targeted sector (about 761,000 threats)."
+  ],
+  "why_en": "Banks are the on- and off-ramp for many crypto users in Indonesia, including for rupiah deposits and withdrawals at exchanges. A policy of temporarily halting transactions deemed unusual could affect large transfers or transfers at unusual hours.",
+  "body_en": [
+   "Indonesia's Financial Services Authority (OJK) has asked all banks in Indonesia to raise their guard against a recent rise in cyberattack threats. OJK's Chief Executive of Banking Supervision Dian Ediana Rae said OJK's bank IT supervisors have been coordinating with the IT staff of all banks since Friday (6/11/2026).",
+   "\"We are concerned about this issue. Since last Friday, OJK's bank IT supervisors have been coordinating with the IT staff of all banks to raise vigilance,\" Dian told CNBC Indonesia on Monday (9/11/2026).",
+   "Dian said he has sent letters to bank boards about cybersecurity several times, most recently last week. The letters set out technical steps, including monitoring significant transactions and temporarily halting anomalous transactions for clarification. According to CNN Indonesia, Dian also stressed that monitoring must run 24 hours a day, including during unusual transaction hours.",
+   "According to Dian, OJK's rules on bank digital resilience already require penetration testing, cyberattack simulations and IT audits. OJK and Bank Indonesia have also activated the Cyber Incident Response Team (TTIS) to anticipate possible incidents.",
+   "CNN Indonesia, citing Threatmap data on Fortinet's website as of Monday (9/11) at 08.41 WIB, reported that about 1.6 million attacks on Indonesia were blocked in the previous 24 hours, an average of about 19 attacks per second. Banking was the most targeted sector with about 761,000 threats. This was up from 350,600 attacks detected and blocked in the 24 hours on Saturday (7/11).",
+   "OJK urged the public to stay calm and transact as usual while following their bank's account security protocols. \"Communication with banks should be done through the banks' official channels, and do not respond to speculative news or news not based on accurate sources of information,\" Dian said."
+  ],
+  "tips_title_en": "Protect your bank and exchange accounts",
+  "tips_en": [
+   "Never share your OTP, PIN or password with anyone.",
+   "Contact banks and exchanges only through their official channels.",
+   "If a large transfer is held, confirm directly with your bank through official channels, not via numbers or links from unknown messages."
+  ],
+  "image_alt_en": "OJK Regional Office 7 South Sumatra building in Palembang",
+  "image_credits_en": "Photo: OJK Regional Office 7 South Sumatra building, Palembang (Firzafp, CC BY-SA 4.0, Wikimedia Commons). Illustrative photo."
  }
 ]
