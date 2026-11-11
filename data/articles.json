@@ -2491,5 +2491,433 @@
   "analysis_en": "Bitcoin payments at the checkout still depend on whether buyers and cashiers are willing to use them, so the impact will only show up in transaction data later. Meanwhile, big banks entering stablecoins means competition with issuers such as Tether and Circle will get tougher. This is interpretation, not a price prediction.",
   "image_alt_en": "Chalkboard in front of the De Waag café saying payment with bitcoin is possible",
   "image_credits_en": "Illustrative photos: \"betalen met bitcoins mogelijk\" sign at De Waag (Targaryen, CC BY-SA 3.0); card payment terminal (Basile Morin, CC BY-SA 4.0). Via Wikimedia Commons. Not a Square merchant."
+ },
+ {
+  "slug": "etf-bitcoin-outflow-4-hari-us1-14-miliar-bitmine-rugi-us6-3-miliar-msci-strategy",
+  "category": "bitcoin",
+  "type": "news",
+  "source_queue": [
+   "square-387048872317371",
+   "square-386997383808722",
+   "square-387079428375027"
+  ],
+  "published_at": "2026-11-11T19:35:00+08:00",
+  "title": "ETF Bitcoin spot AS outflow 4 hari beruntun (~US$1,14 miliar), BitMine rugi US$6,3 miliar karena ETH, nasib Strategy di indeks MSCI diumumkan besok pagi",
+  "summary": "ETF Bitcoin spot AS mencatat arus keluar bersih empat hari perdagangan berturut-turut, total sekitar US$1,14 miliar. BitMine Immersion (BMNR), perusahaan treasury ETH, melaporkan rugi bersih US$6,31 miliar untuk tahun fiskal 2026, mayoritas rugi belum terealisasi. MSCI mengumumkan hasil index review November sekitar pukul 06.00 WITA 12 November, termasuk apakah Strategy (MSTR) dikeluarkan.",
+  "key_points": [
+   "Data Farside: ETF Bitcoin spot AS net outflow US$430,2 juta (5/11), US$411,9 juta (6/11), US$201,0 juta (9/11), dan US$95,0 juta (10/11). Total sekitar US$1,14 miliar.",
+   "Pada 10/11, IBIT (BlackRock) -US$78,2 juta dan FBTC (Fidelity) -US$36,8 juta; MSBT (Morgan Stanley) satu-satunya yang inflow, +US$20,0 juta. Akumulasi net inflow sejak peluncuran tetap sekitar US$55,47 miliar.",
+   "Laporan 10-K BitMine (diajukan ke SEC): rugi bersih US$6.313,4 juta untuk tahun fiskal yang berakhir 31 Agustus 2026, termasuk rugi belum terealisasi aset digital US$6.229,1 juta. Tahun sebelumnya laba bersih US$348,6 juta.",
+   "Per 31 Agustus 2026 BitMine memegang 5.901.837 ETH senilai US$14.558,9 juta (sekitar 4,9% suplai ETH beredar). Pendapatan US$124,8 juta, US$121,4 juta (sekitar 97%) dari staking dan validasi.",
+   "MSCI mengumumkan hasil index review November 2026 sedikit setelah pukul 23.00 CET 11 November (sekitar 06.00 WITA 12 November). Aturan baru 15 Oktober membuat \"non-operating companies\" tidak layak masuk indeks global MSCI; perubahan berlaku per penutupan 30 November."
+  ],
+  "why_it_matters": "Arus dana ETF adalah salah satu indikator permintaan institusi terhadap Bitcoin. Laporan BitMine menunjukkan betapa besar efek harga ETH pada laporan keuangan perusahaan treasury crypto, sementara keputusan MSCI bisa memicu penjualan saham Strategy oleh dana pasif yang mengikuti indeks.",
+  "body": [
+   "ETF Bitcoin spot di AS masih ditinggalkan investor. Menurut data Farside Investors, produk-produk ini mencatat arus keluar bersih (net outflow) selama empat hari perdagangan berturut-turut: US$430,2 juta pada 5 November, US$411,9 juta pada 6 November, US$201,0 juta pada 9 November, dan US$95,0 juta pada 10 November (waktu AS). Totalnya sekitar US$1,14 miliar.",
+   "Pada 10 November, iShares Bitcoin Trust (IBIT) milik BlackRock mencatat outflow US$78,2 juta dan Fidelity Wise Origin Bitcoin Fund (FBTC) US$36,8 juta. Satu-satunya yang mencatat inflow adalah Morgan Stanley Bitcoin Trust (MSBT), sebesar US$20,0 juta. MSBT diluncurkan Morgan Stanley Investment Management pada April 2026 dengan biaya sponsor 0,14%. Meski terus outflow, akumulasi net inflow seluruh ETF Bitcoin spot AS sejak peluncuran masih sekitar US$55,47 miliar menurut Farside.",
+   "Di sisi lain, BitMine Immersion Technologies (NYSE: BMNR), perusahaan treasury ETH dengan Executive Chairman Thomas (Tom) Lee, mengajukan laporan tahunan 10-K ke SEC pada 10 November. Untuk tahun fiskal yang berakhir 31 Agustus 2026, BitMine membukukan rugi bersih US$6.313,4 juta, berbalik dari laba bersih US$348,6 juta setahun sebelumnya. Sebagian besar rugi itu, US$6.229,1 juta, adalah rugi belum terealisasi (non-tunai) dari aset digital, terutama karena turunnya nilai wajar ETH.",
+   "Per 31 Agustus 2026, BitMine memegang 5.901.837 ETH dengan nilai wajar US$14.558,9 juta, sekitar 4,9% dari suplai ETH yang beredar saat itu, ditambah 211 BTC. Pendapatan total perusahaan US$124,8 juta, dengan US$121,4 juta atau sekitar 97% berasal dari staking dan validasi ETH. Di luar efek nilai wajar dan item non-tunai lain, perusahaan melaporkan rugi bersih disesuaikan (non-GAAP) US$80,7 juta.",
+   "Sementara itu, pasar menunggu hasil index review November dari MSCI. Menurut pengumuman MSCI, daftar penambahan dan penghapusan konstituen akan dipublikasikan sedikit setelah pukul 23.00 CET 11 November, atau sekitar pukul 06.00 WITA 12 November, dan perubahan berlaku per penutupan pasar 30 November. Ini review pertama setelah MSCI pada 15 Oktober memutuskan bahwa \"non-operating companies\" tidak layak masuk MSCI Global Investable Market Indexes. Konstituen yang sudah ada hanya dicoret jika gagal penyaringan di dua periode laporan tahunan terakhir.",
+   "Dalam simulasi di dokumen konsultasinya dengan data Mei 2026, MSCI menyebut Strategy (MSTR), Metaplanet, dan Yellow Cake sebagai calon yang dihapus dari indeks MSCI ACWI IMI. Daftar final bisa berbeda dan baru pasti setelah pengumuman resmi."
+  ],
+  "analysis": "Outflow ETF dan rugi besar BitMine sama-sama mencerminkan harga crypto yang sedang turun, bukan masalah operasional langsung. Kalau MSCI benar mencoret Strategy, yang dijual dana pasif adalah saham MSTR, bukan Bitcoin milik Strategy. Ini interpretasi, bukan prediksi harga.",
+  "sources": [
+   {
+    "name": "Farside Investors: Bitcoin ETF Flow (US$m)",
+    "url": "https://farside.co.uk/btc/",
+    "deep_link": true
+   },
+   {
+    "name": "SEC EDGAR: BitMine Immersion Technologies 10-K tahun fiskal 2026",
+    "url": "https://www.sec.gov/Archives/edgar/data/1829311/000162828026072846/bmnr-20260831.htm",
+    "deep_link": true
+   },
+   {
+    "name": "SEC EDGAR: indeks filing 10-K BitMine",
+    "url": "https://www.sec.gov/Archives/edgar/data/1829311/000162828026072846/0001628280-26-072846-index.htm",
+    "deep_link": true
+   },
+   {
+    "name": "MSCI: November Index Review Announcement Scheduled for November 11, 2026",
+    "url": "https://ir.msci.com/news-releases/news-release-details/msci-november-index-review-announcement-scheduled-november-11",
+    "deep_link": true
+   },
+   {
+    "name": "MSCI: hasil konsultasi eligibility non-operating companies",
+    "url": "https://app2.msci.com/webapp/index_ann/DocGet?lang=en&pub_key=aq0wbkjxPgo%3D",
+    "deep_link": true
+   },
+   {
+    "name": "Morgan Stanley: peluncuran Morgan Stanley Bitcoin Trust (MSBT)",
+    "url": "https://www.morganstanley.com/press-releases/msim-enters-with-launch-of-morgan-stanley-bitcoin-trust",
+    "deep_link": true
+   },
+   {
+    "name": "Unchained: Strategy, Metaplanet Face Exit From MSCI Indexes",
+    "url": "https://unchainedcrypto.com/strategy-metaplanet-face-exit-from-msci-indexes-as-the-index-provider-adopts-new-test/",
+    "deep_link": true
+   }
+  ],
+  "images": [
+   "assets/img/photos/nasdaq.jpg",
+   "assets/img/photos/hold.jpg"
+  ],
+  "image_alt": "Nasdaq MarketSite di New York",
+  "image_credits": "Foto: Nasdaq MarketSite, New York (Ajay Suresh, CC BY 2.0); koin Bitcoin (Satheesh Sankaran, CC BY 2.0). Via Wikimedia Commons. Foto ilustrasi.",
+  "title_en": "US spot Bitcoin ETFs see outflows for 4 straight days (~US$1.14 billion), BitMine loses US$6.3 billion on ETH, Strategy's MSCI index fate announced tomorrow morning",
+  "summary_en": "US spot Bitcoin ETFs recorded net outflows for four consecutive trading days, totaling about US$1.14 billion. ETH treasury company BitMine Immersion (BMNR) reported a net loss of US$6.31 billion for fiscal 2026, mostly unrealized. MSCI announces its November index review results at around 06:00 WITA on 12 November, including whether Strategy (MSTR) is removed.",
+  "key_points_en": [
+   "Farside data: US spot Bitcoin ETF net outflows of US$430.2 million (5/11), US$411.9 million (6/11), US$201.0 million (9/11) and US$95.0 million (10/11). Total about US$1.14 billion.",
+   "On 10/11, IBIT (BlackRock) saw -US$78.2 million and FBTC (Fidelity) -US$36.8 million; MSBT (Morgan Stanley) was the only fund with an inflow, +US$20.0 million. Cumulative net inflows since launch remain about US$55.47 billion.",
+   "BitMine's 10-K (filed with the SEC): net loss of US$6,313.4 million for the fiscal year ended 31 August 2026, including an unrealized loss on digital assets of US$6,229.1 million. The prior year was a net profit of US$348.6 million.",
+   "As of 31 August 2026 BitMine held 5,901,837 ETH worth US$14,558.9 million (about 4.9% of circulating ETH supply). Revenue was US$124.8 million, US$121.4 million (about 97%) from staking and validation.",
+   "MSCI announces its November 2026 index review results shortly after 23:00 CET on 11 November (about 06:00 WITA on 12 November). New rules adopted on 15 October make \"non-operating companies\" ineligible for MSCI's global indexes; changes take effect as of the close of 30 November."
+  ],
+  "why_en": "ETF flows are one indicator of institutional demand for Bitcoin. BitMine's report shows how large the effect of the ETH price is on a crypto treasury company's financial statements, while MSCI's decision could trigger selling of Strategy shares by passive funds that track the index.",
+  "body_en": [
+   "Investors are still pulling money from US spot Bitcoin ETFs. According to Farside Investors data, these products recorded net outflows for four straight trading days: US$430.2 million on 5 November, US$411.9 million on 6 November, US$201.0 million on 9 November and US$95.0 million on 10 November (US time). The total is about US$1.14 billion.",
+   "On 10 November, BlackRock's iShares Bitcoin Trust (IBIT) recorded outflows of US$78.2 million and the Fidelity Wise Origin Bitcoin Fund (FBTC) US$36.8 million. The only fund with an inflow was the Morgan Stanley Bitcoin Trust (MSBT), at US$20.0 million. MSBT was launched by Morgan Stanley Investment Management in April 2026 with a 0.14% sponsor fee. Despite the continuing outflows, cumulative net inflows for all US spot Bitcoin ETFs since launch are still about US$55.47 billion, according to Farside.",
+   "Separately, BitMine Immersion Technologies (NYSE: BMNR), an ETH treasury company whose Executive Chairman is Thomas (Tom) Lee, filed its 10-K annual report with the SEC on 10 November. For the fiscal year ended 31 August 2026, BitMine booked a net loss of US$6,313.4 million, reversing a net profit of US$348.6 million a year earlier. Most of that loss, US$6,229.1 million, was an unrealized (non-cash) loss on digital assets, mainly due to the decline in ETH's fair value.",
+   "As of 31 August 2026, BitMine held 5,901,837 ETH with a fair value of US$14,558.9 million, about 4.9% of the ETH supply circulating at the time, plus 211 BTC. Total revenue was US$124.8 million, with US$121.4 million or about 97% coming from ETH staking and validation. Excluding fair-value effects and other non-cash items, the company reported an adjusted (non-GAAP) net loss of US$80.7 million.",
+   "Meanwhile, the market is waiting for MSCI's November index review. According to MSCI's announcement, the list of constituent additions and deletions will be posted shortly after 23:00 CET on 11 November, or about 06:00 WITA on 12 November, with changes taking effect as of the market close on 30 November. This is the first review since MSCI decided on 15 October that \"non-operating companies\" are ineligible for the MSCI Global Investable Market Indexes. Existing constituents are removed only if they fail the screen in each of their two most recent annual filing periods.",
+   "In a simulation in its consultation paper using May 2026 data, MSCI named Strategy (MSTR), Metaplanet and Yellow Cake as candidates for deletion from the MSCI ACWI IMI. The final list may differ and is only certain after the official announcement."
+  ],
+  "analysis_en": "ETF outflows and BitMine's huge loss both reflect falling crypto prices, not a direct operational problem. If MSCI does remove Strategy, what passive funds sell is MSTR stock, not Strategy's Bitcoin. This is interpretation, not a price prediction.",
+  "image_alt_en": "Nasdaq MarketSite in New York",
+  "image_credits_en": "Photos: Nasdaq MarketSite, New York (Ajay Suresh, CC BY 2.0); Bitcoin coin (Satheesh Sankaran, CC BY 2.0). Via Wikimedia Commons. Illustrative photos."
+ },
+ {
+  "slug": "google-deepmind-gemini-robotics-2-5-robot-96-persen-mercedes-benz-coreweave-q3",
+  "category": "teknologi",
+  "type": "news",
+  "source_queue": [
+   "jin10-243086",
+   "jin10-243098"
+  ],
+  "published_at": "2026-11-11T19:34:00+08:00",
+  "title": "Google DeepMind rilis Gemini Robotics 2.5, robot humanoid sukses 96% di pabrik Mercedes-Benz; pendapatan CoreWeave naik 168%",
+  "summary": "Google DeepMind memperkenalkan Gemini Robotics 2.5, model vision-language-action (VLA) paling canggih mereka, yang diuji di lini produksi Mercedes-Benz dengan robot Apollo 2 dari Apptronik. Di sisi infrastruktur AI, CoreWeave melaporkan pendapatan kuartal III US$3,66 miliar dan menaikkan panduan 2026.",
+  "key_points": [
+   "DeepMind (10/11): Gemini Robotics 2.5 mencapai tingkat sukses 30% sampai 100% lebih tinggi dibanding baseline sebelumnya, tergantung jenis tugas, dan menyelesaikan tugas 20% sampai 30% lebih cepat. Diuji pada lebih dari 200 tugas berbeda.",
+   "Uji coba di lini produksi Mercedes-Benz di Kecskemét (Hungaria) dan Sindelfingen (Jerman): robot humanoid Apollo 2 dari Apptronik mengambil dan menyusun komponen otomotif dengan tingkat sukses 96%.",
+   "DeepMind merilis ASIMOV-Jailbreak, benchmark open-source untuk menguji ketahanan robot terhadap perintah berbahaya yang disamarkan. Model ini sedang digulirkan ke mitra robotika DeepMind.",
+   "CoreWeave (10/11): pendapatan kuartal III US$3,66 miliar, naik 168% dari sekitar US$1,36 miliar setahun sebelumnya, di atas estimasi LSEG US$3,55 miliar. Rugi bersih US$709 juta.",
+   "CoreWeave menaikkan panduan pendapatan 2026 menjadi US$13 miliar sampai US$13,3 miliar. Menurut CNBC, sahamnya sudah turun sekitar 40% dalam sebulan terakhir dan naik di perdagangan setelah jam bursa."
+  ],
+  "why_it_matters": "Robot yang bisa bekerja andal di pabrik sungguhan adalah salah satu tahap berikutnya dari AI. Sementara itu, hasil CoreWeave menjadi indikator apakah permintaan infrastruktur AI masih kuat di tengah suku bunga tinggi, yang sering ikut menggerakkan sentimen saham teknologi dan token crypto bertema AI.",
+  "body": [
+   "Google DeepMind pada Selasa (10/11/2026) memperkenalkan Gemini Robotics 2.5, yang mereka sebut sebagai model vision-language-action (VLA) paling mampu sejauh ini. Model VLA adalah model AI yang menggabungkan penglihatan, pemahaman bahasa, dan perintah gerakan untuk mengendalikan robot. DeepMind menguji model ini pada lebih dari 200 tugas berbeda, seperti menyajikan makanan dengan penjepit, mengikat pita pada kotak hadiah, dan memindahkan cairan dengan pipet.",
+   "Menurut DeepMind, dibanding baseline sebelumnya, Gemini Robotics 2.5 mencapai tingkat sukses 30% sampai 100% lebih tinggi tergantung jenis tugas, dan menyelesaikan tugas 20% sampai 30% lebih cepat. Model ini bekerja dengan berbagai jenis robot, termasuk robot humanoid Apollo 2 dari Apptronik dan platform Franka Duo.",
+   "Uji di dunia nyata dilakukan bersama Apptronik dan Mercedes-Benz di lini produksi otomotif aktif di Kecskemét, Hungaria, dan Sindelfingen, Jerman. Robot Apollo 2 mengerjakan \"kitting\" otomotif, yaitu memilah komponen dari wadah besar ke nampan sesuai urutan yang dibutuhkan tiap kendaraan, dengan tingkat sukses 96%. CEO Apptronik Jeff Cardenas menulis, \"This is what we built Apollo for: useful work alongside people in real industrial settings\" (Untuk inilah kami membangun Apollo: pekerjaan yang berguna di samping manusia di lingkungan industri nyata).",
+   "Dari sisi keamanan, DeepMind merilis ASIMOV-Jailbreak, benchmark open-source berisi ratusan perintah yang menyamarkan permintaan berbahaya. Menurut DeepMind, model Gemini 4 Argon mencapai ketahanan jailbreak 99,5%, dibanding 82% pada baseline sebelumnya. Gemini Robotics 2.5 sedang digulirkan ke mitra robotika DeepMind.",
+   "Di sektor infrastruktur AI, penyedia cloud GPU CoreWeave melaporkan pendapatan kuartal III 2026 sebesar US$3,66 miliar, naik 168% dari sekitar US$1,36 miliar setahun sebelumnya dan di atas konsensus LSEG US$3,55 miliar, menurut CNBC. Rugi bersihnya US$709 juta, dibanding rugi US$110 juta setahun sebelumnya. Perusahaan menaikkan panduan pendapatan 2026 menjadi US$13 miliar sampai US$13,3 miliar, dan backlog pendapatannya kini US$132,5 miliar.",
+   "Menurut CNBC, saham CoreWeave sudah kehilangan lebih dari 40% nilainya dalam sebulan terakhir karena investor keluar dari saham infrastruktur AI dan suku bunga yang naik mempersulit pendanaan. Saham ini naik di perdagangan setelah jam bursa usai laporan dirilis. CoreWeave mencatat utang hampir US$47 miliar di akhir kuartal III."
+  ],
+  "analysis": "Angka 96% dari DeepMind berasal dari uji coba (proof-of-concept) dan diumumkan oleh DeepMind sendiri, belum audit independen. Hasil CoreWeave menunjukkan permintaan AI masih kuat, tetapi biaya utang tetap jadi risiko utama sektor ini. Ini interpretasi, bukan rekomendasi saham atau token.",
+  "sources": [
+   {
+    "name": "Google DeepMind: Gemini Robotics 2.5 accelerates real-world general dexterity (10 Nov 2026)",
+    "url": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/",
+    "deep_link": true
+   },
+   {
+    "name": "Ars Technica: DeepMind reveals Gemini Robotics 2.5 and ASIMOV-Jailbreak",
+    "url": "https://arstechnica.com/google/2026/11/deepmind-reveals-gemini-robotics-2-5-and-open-safety-benchmark-asimov-jailbreak/",
+    "deep_link": true
+   },
+   {
+    "name": "CNBC: CoreWeave beats on revenue and lifts guidance (10 Nov 2026)",
+    "url": "https://www.cnbc.com/2026/11/10/coreweave-crwv-q3-earnings-report-2026.html",
+    "deep_link": true
+   },
+   {
+    "name": "US News/Reuters: CoreWeave beats quarterly revenue estimates",
+    "url": "https://money.usnews.com/investing/news/articles/2026-11-10/coreweave-beats-quarterly-revenue-estimates-as-ai-demand-defies-growing-doubts",
+    "deep_link": true
+   }
+  ],
+  "images": [
+   "assets/img/photos/humanoid_tsukuba.jpg"
+  ],
+  "image_alt": "Robot humanoid dipamerkan di Science Square Tsukuba, Jepang",
+  "image_credits": "Foto: robot humanoid di Science Square Tsukuba, Februari 2024 (Syced, CC0, Wikimedia Commons). Foto ilustrasi, bukan robot Apollo 2.",
+  "title_en": "Google DeepMind releases Gemini Robotics 2.5, humanoid robot hits 96% success at Mercedes-Benz plants; CoreWeave revenue up 168%",
+  "summary_en": "Google DeepMind introduced Gemini Robotics 2.5, its most capable vision-language-action (VLA) model, tested on Mercedes-Benz production lines with Apptronik's Apollo 2 robot. On the AI infrastructure side, CoreWeave reported Q3 revenue of US$3.66 billion and raised its 2026 guidance.",
+  "key_points_en": [
+   "DeepMind (10/11): Gemini Robotics 2.5 achieves a 30% to 100% higher success rate than previous baselines, depending on task type, and completes tasks 20% to 30% faster. It was tested on more than 200 distinct tasks.",
+   "Trial on Mercedes-Benz production lines in Kecskemét (Hungary) and Sindelfingen (Germany): Apptronik's Apollo 2 humanoid picked and packed automotive parts with a 96% success rate.",
+   "DeepMind released ASIMOV-Jailbreak, an open-source benchmark to test robots' resistance to disguised unsafe instructions. The model is rolling out to DeepMind's robotics partners.",
+   "CoreWeave (10/11): Q3 revenue of US$3.66 billion, up 168% from about US$1.36 billion a year earlier, above the LSEG estimate of US$3.55 billion. Net loss of US$709 million.",
+   "CoreWeave raised its 2026 revenue guidance to US$13 billion to US$13.3 billion. According to CNBC, the stock had fallen about 40% over the past month and rose in after-hours trading."
+  ],
+  "why_en": "Robots that can work reliably in real factories are one of the next stages of AI. Meanwhile, CoreWeave's results are an indicator of whether demand for AI infrastructure is still strong amid high interest rates, which often moves sentiment in tech stocks and AI-themed crypto tokens.",
+  "body_en": [
+   "On Tuesday (10/11/2026), Google DeepMind introduced Gemini Robotics 2.5, which it calls its most capable vision-language-action (VLA) model to date. A VLA model is an AI model that combines vision, language understanding and motion commands to control robots. DeepMind tested the model on more than 200 distinct tasks, such as serving food with tongs, tying a bow on a gift box and pipetting a liquid.",
+   "According to DeepMind, compared with previous baselines, Gemini Robotics 2.5 achieves a 30% to 100% higher success rate depending on task type, and completes tasks 20% to 30% faster. The model works with many robot types, including Apptronik's Apollo 2 humanoid and the Franka Duo platform.",
+   "Real-world testing was done with Apptronik and Mercedes-Benz on active automotive production lines in Kecskemét, Hungary, and Sindelfingen, Germany. The Apollo 2 robot performed automotive \"kitting\", sorting parts from bulk bins into trays in the order needed for each vehicle, with a 96% success rate. Apptronik CEO Jeff Cardenas wrote, \"This is what we built Apollo for: useful work alongside people in real industrial settings.\"",
+   "On safety, DeepMind released ASIMOV-Jailbreak, an open-source benchmark containing hundreds of prompts that disguise unsafe requests. According to DeepMind, its Gemini 4 Argon model achieves 99.5% jailbreak resistance, compared with 82% for the previous baseline. Gemini Robotics 2.5 is rolling out to DeepMind's robotics partners.",
+   "In AI infrastructure, GPU cloud provider CoreWeave reported Q3 2026 revenue of US$3.66 billion, up 168% from about US$1.36 billion a year earlier and above the LSEG consensus of US$3.55 billion, according to CNBC. Its net loss was US$709 million, compared with a loss of US$110 million a year earlier. The company raised its 2026 revenue guidance to US$13 billion to US$13.3 billion, and its revenue backlog now stands at US$132.5 billion.",
+   "According to CNBC, CoreWeave shares had lost more than 40% of their value over the past month as investors exited AI infrastructure stocks and rising interest rates made financing harder. The stock rose in after-hours trading after the report. CoreWeave had almost US$47 billion in debt at the end of Q3."
+  ],
+  "analysis_en": "DeepMind's 96% figure comes from a proof-of-concept and was announced by DeepMind itself, not independently audited. CoreWeave's results show AI demand is still strong, but the cost of debt remains the sector's main risk. This is interpretation, not a stock or token recommendation.",
+  "image_alt_en": "Humanoid robot on display at Science Square Tsukuba, Japan",
+  "image_credits_en": "Photo: humanoid robot at Science Square Tsukuba, February 2024 (Syced, CC0, Wikimedia Commons). Illustrative photo, not the Apollo 2 robot."
+ },
+ {
+  "slug": "deutsche-bank-kustodian-bitcoin-ether-ecb-digital-euro-bisa-mundur-fsb-turki-stablecoin",
+  "category": "regulasi",
+  "type": "news",
+  "source_queue": [
+   "square-387085538840871",
+   "square-387079424309954"
+  ],
+  "published_at": "2026-11-11T19:33:00+08:00",
+  "title": "Deutsche Bank resmi buka layanan kustodian Bitcoin dan Ether, ECB peringatkan digital euro bisa mundur, FSB minta Turki bikin aturan stablecoin",
+  "summary": "Deutsche Bank, bank terbesar Jerman, menyatakan layanan kustodian aset digitalnya sudah berjalan untuk klien institusi dan korporasi di Eropa. ECB memperingatkan peluncuran digital euro bisa tertunda jika undang-undangnya telat disahkan. Financial Stability Board (FSB) merekomendasikan Turki membuat rezim khusus stablecoin.",
+  "key_points": [
+   "Reuters (11/11): Deutsche Bank menyatakan layanan kustodian aset digitalnya sudah live untuk klien berbayar. Situs Deutsche Bank mencantumkan Bitcoin, Ether, USDC, EURC, dan EURAU sebagai aset yang didukung; layanan ini bukan untuk nasabah ritel.",
+   "Piero Cipollone (Dewan Eksekutif ECB) di Parlemen Eropa, 10/11: penundaan adopsi Single Currency Package bisa menunda peluncuran digital euro. Tanggal penerbitan pertama baru bisa ditetapkan setelah regulasinya disahkan.",
+   "Pilot digital euro tetap dijadwalkan mulai semester II 2027, memakai versi beta tanpa status alat pembayaran sah, melibatkan staf Eurosystem, 36 penyedia jasa pembayaran terpilih, dan merchant tertentu.",
+   "FSB (11/11) merilis peer review kedua untuk Turki: ada kemajuan berarti, sebagian besar pasar crypto sudah masuk pengawasan dan penyedia jasa aset crypto wajib terdaftar dan berlisensi.",
+   "FSB merekomendasikan Turki menjalankan kerangka pemantauan stabilitas keuangan, membuat rezim khusus stablecoin, memperkuat pengawasan dan penegakan hukum, serta meningkatkan kerja sama lintas negara."
+  ],
+  "why_it_matters": "Masuknya bank besar seperti Deutsche Bank ke kustodian crypto menunjukkan integrasi crypto dengan sistem keuangan tradisional terus berjalan. Sementara itu, ECB dan FSB menunjukkan regulator global makin serius soal uang digital bank sentral dan stablecoin, dua hal yang bisa mengubah peta pembayaran digital.",
+  "body": [
+   "Deutsche Bank, bank terbesar di Jerman, menyatakan pada Rabu (11/11/2026) bahwa layanan kustodian (penyimpanan) aset digitalnya sudah berjalan untuk klien berbayar, menurut Reuters. Bank ini pertama kali mengumumkan rencana layanan tersebut pada September, dengan syarat persetujuan regulator, untuk klien institusi dan korporasi di Eropa. \"In the medium term we aim to deliver a fully integrated, regulated ecosystem that supports the custody, tokenisation, and settlement of digital assets,\" kata Paul Maley, global head of trust and securities services Deutsche Bank (Dalam jangka menengah kami menargetkan ekosistem teregulasi yang terintegrasi penuh, yang mendukung kustodian, tokenisasi, dan penyelesaian transaksi aset digital).",
+   "Situs resmi layanan ini mencantumkan Bitcoin, Ether, USDC, EURC, dan EURAU sebagai aset yang didukung, dengan penyimpanan kunci privat di Hardware Security Module, opsi warm dan cold storage, serta akses lewat platform Autobahn milik bank. Layanan ditujukan untuk klien Corporate Bank seperti investor institusi, korporasi multinasional, pemerintah, dan pengelola kekayaan, bukan untuk nasabah ritel. Menurut Reuters, Deutsche Bank juga menandatangani nota kesepahaman dengan Deutsche Asset Management untuk menjajaki kerja sama di bidang aset digital.",
+   "Di Brussels, anggota Dewan Eksekutif Bank Sentral Eropa (ECB) Piero Cipollone berbicara di Komisi Urusan Ekonomi dan Moneter (ECON) Parlemen Eropa pada 10 November. Ia mendorong negosiasi trilogue antara Komisi, Dewan, dan Parlemen Uni Eropa segera selesai agar Single Currency Package bisa disahkan akhir tahun ini. \"A delay in adoption could instead postpone the introduction of the digital euro,\" ujarnya (Penundaan pengesahan justru bisa menunda pengenalan digital euro). Menurutnya, tanggal penerbitan pertama baru bisa ditetapkan setelah regulasi disahkan.",
+   "Cipollone menyebut pilot digital euro akan dimulai pada semester II 2027 dengan versi beta tanpa status alat pembayaran sah (legal tender). Pilot melibatkan staf Eurosystem, 36 penyedia jasa pembayaran (PSP) yang dipilih dari lebih dari 50 pelamar, serta merchant tertentu. Seleksi final merchant online dan mobile untuk uji pembayaran jarak jauh akan diumumkan awal tahun depan.",
+   "Sementara itu, Financial Stability Board (FSB) pada 11 November menerbitkan peer review kedua untuk Turki yang berfokus pada aset crypto dan stablecoin. FSB menilai otoritas Turki sudah membuat kemajuan berarti: sebagian besar pasar crypto masuk perimeter regulasi, penyedia jasa aset crypto (CASP) wajib registrasi dan berlisensi, kustodian dipisah ketat, dan crypto dilarang dipakai untuk pembayaran domestik.",
+   "Namun FSB menilai langkah lanjutan masih diperlukan. Empat rekomendasinya: menjalankan kerangka pemantauan stabilitas keuangan, membentuk rezim khusus stablecoin, memperkuat pengawasan dan penegakan hukum, serta mendorong kerja sama lintas negara dan pertukaran informasi."
+  ],
+  "analysis": "Ketiga kabar ini menunjukkan arah yang sama: crypto dan uang digital makin diatur dan makin masuk ke sistem keuangan resmi. Bagi pengguna di Indonesia, dampaknya tidak langsung, tetapi standar FSB sering menjadi acuan regulator di banyak negara. Ini interpretasi, bukan saran investasi.",
+  "sources": [
+   {
+    "name": "Reuters via The Star: Deutsche Bank launches digital asset custody service (11 Nov 2026)",
+    "url": "https://www.thestar.com.my/tech/tech-news/2026/11/11/deutsche-bank-launches-digital-asset-custody-service-",
+    "deep_link": true
+   },
+   {
+    "name": "Deutsche Bank: Digital Asset Custody",
+    "url": "https://digitalassets.db.com/",
+    "deep_link": true
+   },
+   {
+    "name": "ECB: Cash and the digital euro, Piero Cipollone (10 Nov 2026)",
+    "url": "https://www.ecb.europa.eu/press/key/date/2026/html/ecb.sp261110~9422461bad.en.html",
+    "deep_link": true
+   },
+   {
+    "name": "Bloomberg Law: ECB's Cipollone warns of delay in digital euro",
+    "url": "https://news.bloomberglaw.com/crypto/ecbs-cipollone-warns-of-delay-in-digital-euro-if-talks-drag-on",
+    "deep_link": true
+   },
+   {
+    "name": "FSB: FSB recommends Türkiye further strengthens its regulatory framework for crypto-assets and stablecoins (11 Nov 2026)",
+    "url": "https://www.fsb.org/2026/11/fsb-recommends-turkiye-further-strengthens-its-regulatory-framework-for-crypto-assets-and-stablecoins/",
+    "deep_link": true
+   },
+   {
+    "name": "FSB: Peer Review of Türkiye (PDF)",
+    "url": "https://www.fsb.org/uploads/Peer-Review-of-Turkiye.pdf",
+    "deep_link": true
+   }
+  ],
+  "images": [
+   "assets/img/photos/deutsche_bank_towers.jpg",
+   "assets/img/photos/ecb_frankfurt.jpg"
+  ],
+  "image_alt": "Menara kembar kantor pusat Deutsche Bank di Frankfurt",
+  "image_credits": "Foto: air mancur Lucae dan menara Deutsche Bank, Frankfurt, Oktober 2026 (Norbert Nagel, CC BY-SA 4.0); gedung ECB dan skyline Frankfurt (DXR, CC BY-SA 4.0). Via Wikimedia Commons.",
+  "title_en": "Deutsche Bank launches Bitcoin and Ether custody, ECB warns digital euro could be delayed, FSB urges Türkiye to create stablecoin rules",
+  "summary_en": "Deutsche Bank, Germany's largest bank, said its digital asset custody service is live for institutional and corporate clients in Europe. The ECB warned the digital euro launch could be delayed if its legislation is adopted late. The Financial Stability Board (FSB) recommended that Türkiye create a dedicated stablecoin regime.",
+  "key_points_en": [
+   "Reuters (11/11): Deutsche Bank said its digital asset custody service is live for paying clients. Deutsche Bank's website lists Bitcoin, Ether, USDC, EURC and EURAU as supported assets; the service is not for retail customers.",
+   "Piero Cipollone (ECB Executive Board) at the European Parliament, 10/11: a delay in adopting the Single Currency Package could postpone the digital euro's launch. The first issuance date can only be set after the regulation is adopted.",
+   "The digital euro pilot is still scheduled to start in the second half of 2027, using a beta version without legal tender status and involving Eurosystem staff, 36 selected payment service providers and selected merchants.",
+   "FSB (11/11) published its second peer review of Türkiye: meaningful progress, with a large part of the crypto market brought into the regulatory perimeter and crypto-asset service providers required to register and be licensed.",
+   "The FSB recommends Türkiye operationalise a financial stability monitoring framework, establish a dedicated stablecoin regime, strengthen supervision and enforcement, and improve cross-border cooperation."
+  ],
+  "why_en": "Big banks such as Deutsche Bank entering crypto custody shows that crypto's integration with the traditional financial system continues. Meanwhile, the ECB and FSB show global regulators are getting more serious about central bank digital money and stablecoins, two things that could reshape digital payments.",
+  "body_en": [
+   "Deutsche Bank, Germany's largest bank, said on Wednesday (11/11/2026) that its digital asset custody service had gone live for paying clients, according to Reuters. The bank first announced plans for the service in September, subject to regulatory approval, for institutional and corporate clients in Europe. \"In the medium term we aim to deliver a fully integrated, regulated ecosystem that supports the custody, tokenisation, and settlement of digital assets,\" said Paul Maley, Deutsche Bank's global head of trust and securities services.",
+   "The service's official website lists Bitcoin, Ether, USDC, EURC and EURAU as supported assets, with private key storage in Hardware Security Modules, warm and cold storage options, and access via the bank's Autobahn platform. It is aimed at Corporate Bank clients such as institutional investors, multinational corporations, governments and wealth managers, not retail customers. According to Reuters, Deutsche Bank also signed a memorandum of understanding with Deutsche Asset Management to explore collaboration in digital assets.",
+   "In Brussels, European Central Bank (ECB) Executive Board member Piero Cipollone spoke at the European Parliament's Committee on Economic and Monetary Affairs (ECON) on 10 November. He urged a swift conclusion of the trilogue negotiations between the EU Commission, Council and Parliament so the Single Currency Package can be adopted by the end of this year. \"A delay in adoption could instead postpone the introduction of the digital euro,\" he said. According to him, the first issuance date can only be set after the regulation is adopted.",
+   "Cipollone said the digital euro pilot will start in the second half of 2027 with a beta version without legal tender status. The pilot involves Eurosystem staff, 36 payment service providers (PSPs) selected from more than 50 applicants, and selected merchants. The final selection of online and mobile merchants for testing remote payments will be announced early next year.",
+   "Meanwhile, the Financial Stability Board (FSB) on 11 November published its second peer review of Türkiye, focused on crypto-assets and stablecoins. The FSB found Turkish authorities have made meaningful progress: a large part of the crypto market is within the regulatory perimeter, crypto-asset service providers (CASPs) must register and be licensed, custody is strictly separated, and crypto is banned for domestic payments.",
+   "However, the FSB said further steps are needed. Its four recommendations: operationalise a financial stability monitoring framework, establish a dedicated stablecoin regime, strengthen supervision and enforcement, and promote cross-border cooperation and information sharing."
+  ],
+  "analysis_en": "All three stories point the same way: crypto and digital money are becoming more regulated and more embedded in the official financial system. For users in Indonesia the impact is indirect, but FSB standards often serve as a reference for regulators in many countries. This is interpretation, not investment advice.",
+  "image_alt_en": "Deutsche Bank's twin headquarters towers in Frankfurt",
+  "image_credits_en": "Photos: Lucae fountain and Deutsche Bank towers, Frankfurt, October 2026 (Norbert Nagel, CC BY-SA 4.0); ECB building and Frankfurt skyline (DXR, CC BY-SA 4.0). Via Wikimedia Commons."
+ },
+ {
+  "slug": "eia-proyeksi-brent-2026-us97-44-india-larang-ekspor-black-mass-baterai",
+  "category": "etf-makro",
+  "type": "news",
+  "source_queue": [
+   "jin10-243093",
+   "jin10-243094"
+  ],
+  "published_at": "2026-11-11T19:32:00+08:00",
+  "title": "EIA perkirakan Brent bertahan dekat US$100 sampai akhir 2026, India larang ekspor \"black mass\" baterai lithium-ion",
+  "summary": "Badan Informasi Energi AS (EIA) dalam Short-Term Energy Outlook November memproyeksikan rata-rata harga minyak Brent US$97,44 per barel pada 2026 dan US$85,78 pada 2027. India melarang ekspor black mass, bubuk hasil cacahan baterai bekas yang mengandung lithium, kobalt, dan nikel, untuk memperkuat daur ulang dalam negeri.",
+  "key_points": [
+   "EIA STEO (rilis 10/11): proyeksi rata-rata Brent US$97,44/barel untuk 2026 dan US$85,78 untuk 2027; WTI US$88,29 (2026) dan US$80,54 (2027).",
+   "EIA memperkirakan Brent bertahan di sekitar US$100/barel sampai akhir 2026, lalu turun bertahap ke rata-rata US$77 pada kuartal IV 2027 seiring pulihnya stok minyak global.",
+   "Pemicu menurut EIA: stok global turun, serangan terhadap kapal tanker di Teluk Persia, kapasitas pengiriman terbatas, dan biaya transportasi naik. EIA juga menaikkan proyeksi harga solar AS 2027 menjadi US$5,03 per galon (12% lebih tinggi dari prakiraan bulan lalu).",
+   "India (DGFT, Kementerian Perdagangan) mengubah kebijakan ekspor black mass baterai lithium-ion dari \"Free\" menjadi \"Prohibited\", berlaku langsung sampai ada perintah lebih lanjut.",
+   "Tujuannya memperkuat kapasitas daur ulang baterai domestik dan mengamankan pasokan mineral kritis. Pemerintah India menilai kapasitas pengolahan black mass di dalam negeri masih terbatas."
+  ],
+  "why_it_matters": "Harga minyak tinggi menekan inflasi global, yang ikut membuat bank sentral menahan atau menaikkan suku bunga, dan ini berpengaruh ke aset berisiko termasuk crypto. Kebijakan India soal black mass relevan bagi Indonesia sebagai produsen nikel besar, karena persaingan mengamankan bahan baku baterai kendaraan listrik makin ketat.",
+  "body": [
+   "Badan Informasi Energi AS (Energy Information Administration/EIA) merilis Short-Term Energy Outlook (STEO) edisi November pada 10 November 2026. Dalam tabel prakiraannya, EIA memproyeksikan rata-rata harga spot minyak Brent US$97,44 per barel untuk 2026 dan US$85,78 untuk 2027. Untuk minyak West Texas Intermediate (WTI), proyeksinya US$88,29 per barel pada 2026 dan US$80,54 pada 2027.",
+   "Menurut EIA, harga minyak mentah naik tiga bulan berturut-turut hingga Oktober karena stok global yang menurun, serangan terhadap kapal tanker di Teluk Persia, kapasitas pengiriman yang terbatas, dan biaya transportasi yang lebih tinggi. EIA memperkirakan Brent bertahan di sekitar US$100 per barel sepanjang sisa tahun ini, lalu turun bertahap ke rata-rata US$77 per barel pada kuartal IV 2027 seiring stok minyak global yang terkuras mulai terisi kembali.",
+   "EIA juga menaikkan proyeksi harga BBM di AS untuk tahun depan: harga eceran solar rata-rata US$5,03 per galon pada 2027, 12% lebih tinggi dari prakiraan bulan lalu, dan bensin US$3,73 per galon, sekitar 5% lebih tinggi. EIA mencatat input model ditetapkan pada 5 November, sehingga peristiwa setelah tanggal itu belum diperhitungkan.",
+   "Di India, Direktorat Jenderal Perdagangan Luar Negeri (DGFT) di bawah Kementerian Perdagangan pada Selasa (10/11) melarang ekspor limbah dan skrap baterai, termasuk black mass baterai lithium-ion, berlaku segera \"sampai ada perintah lebih lanjut\", menurut Business Standard. Kebijakan ekspor untuk produk dengan kode ITC (HS) 85491400 itu diubah dari \"Free\" menjadi \"Prohibited\".",
+   "Black mass adalah bubuk hasil cacahan baterai lithium-ion bekas yang mengandung material berharga seperti lithium, kobalt, dan nikel, yang bisa diambil kembali untuk membuat baterai baru. Menurut Business Standard, pemerintah India pada Oktober menyebut kapasitas pengolahan black mass di dalam negeri masih terbatas, sehingga sebagian diekspor tanpa mineral berharganya diambil. India juga punya skema insentif ₹1.500 crore untuk daur ulang mineral kritis yang diluncurkan September."
+  ],
+  "analysis": "Proyeksi EIA bisa berubah cepat mengikuti situasi di Timur Tengah; EIA sendiri menyebut prakiraan ini belum memperhitungkan peristiwa setelah 5 November. Langkah India menunjukkan makin banyak negara menahan bahan baku baterai di dalam negeri, mirip kebijakan hilirisasi nikel Indonesia. Ini interpretasi, bukan prediksi harga.",
+  "sources": [
+   {
+    "name": "EIA: Short-Term Energy Outlook, November 2026 (rilis 10 Nov 2026)",
+    "url": "https://www.eia.gov/outlooks/steo/",
+    "deep_link": true
+   },
+   {
+    "name": "EIA: STEO Table 2, harga energi (PDF)",
+    "url": "https://www.eia.gov/outlooks/steo/tables/pdf/2tab.pdf",
+    "deep_link": true
+   },
+   {
+    "name": "Business Standard: Centre bans export of battery waste, including lithium-ion black mass (11 Nov 2026)",
+    "url": "https://www.business-standard.com/economy/news/centre-bans-export-of-battery-waste-including-lithium-ion-black-mass-126111100415_1.html",
+    "deep_link": true
+   },
+   {
+    "name": "The Hindu: Govt prohibits export of unsorted lithium-ion battery waste, scrap",
+    "url": "https://www.thehindu.com/business/govt-prohibits-export-of-unsorted-lithium-ion-batterywaste-scrap/article71688575.ece",
+    "deep_link": true
+   }
+  ],
+  "images": [
+   "assets/img/photos/pumpjack_brunei.jpg"
+  ],
+  "image_alt": "Pompa angguk (pumpjack) sumur minyak di Brunei",
+  "image_credits": "Foto: pumpjack sumur minyak di Brunei, Oktober 2020 (DeltaSquad833, CC BY-SA 4.0, Wikimedia Commons). Foto ilustrasi.",
+  "title_en": "EIA sees Brent staying near US$100 through end-2026, India bans exports of lithium-ion battery \"black mass\"",
+  "summary_en": "The US Energy Information Administration (EIA), in its November Short-Term Energy Outlook, projects Brent crude to average US$97.44 per barrel in 2026 and US$85.78 in 2027. India banned exports of black mass, the powder from shredded used batteries containing lithium, cobalt and nickel, to strengthen domestic recycling.",
+  "key_points_en": [
+   "EIA STEO (released 10/11): Brent projected to average US$97.44/barrel in 2026 and US$85.78 in 2027; WTI US$88.29 (2026) and US$80.54 (2027).",
+   "The EIA expects Brent to stay around US$100/barrel through the end of 2026, then gradually fall to an average of US$77 in Q4 2027 as global oil inventories recover.",
+   "Drivers according to the EIA: falling global inventories, attacks on oil tankers in the Persian Gulf, constrained shipping capacity and higher transport costs. The EIA also raised its 2027 US diesel price forecast to US$5.03 per gallon (12% higher than last month's forecast).",
+   "India (DGFT, Commerce Ministry) changed the export policy for lithium-ion battery black mass from \"Free\" to \"Prohibited\", effective immediately until further orders.",
+   "The aim is to strengthen domestic battery recycling capacity and secure critical mineral supplies. The Indian government says domestic black mass processing capacity is still limited."
+  ],
+  "why_en": "High oil prices push up global inflation, which leads central banks to hold or raise interest rates, and that affects risk assets including crypto. India's black mass policy is relevant for Indonesia as a major nickel producer, as competition to secure raw materials for electric vehicle batteries intensifies.",
+  "body_en": [
+   "The US Energy Information Administration (EIA) released the November edition of its Short-Term Energy Outlook (STEO) on 10 November 2026. In its forecast tables, the EIA projects the Brent crude spot price to average US$97.44 per barrel in 2026 and US$85.78 in 2027. For West Texas Intermediate (WTI), the projections are US$88.29 per barrel in 2026 and US$80.54 in 2027.",
+   "According to the EIA, crude oil prices rose for a third consecutive month in October due to falling global inventories, attacks on oil tankers in the Persian Gulf, constrained shipping capacity and higher transportation costs. The EIA expects Brent to stay near US$100 per barrel for the rest of this year, then gradually fall to an average of US$77 per barrel in Q4 2027 as depleted global oil inventories build again.",
+   "The EIA also raised its US fuel price forecasts for next year: retail diesel averaging US$5.03 per gallon in 2027, 12% higher than last month's forecast, and gasoline US$3.73 per gallon, about 5% higher. The EIA notes model inputs were finalized on 5 November, so events after that date are not accounted for.",
+   "In India, the Directorate General of Foreign Trade (DGFT) under the Commerce Ministry on Tuesday (10/11) prohibited exports of battery waste and scrap, including lithium-ion battery black mass, with immediate effect \"until further orders\", according to Business Standard. The export policy for products under ITC (HS) code 85491400 was changed from \"Free\" to \"Prohibited\".",
+   "Black mass is the powder produced by shredding used lithium-ion batteries; it contains valuable materials such as lithium, cobalt and nickel that can be recovered to make new batteries. According to Business Standard, the Indian government said in October that domestic black mass processing capacity remains limited, so some material is exported without its valuable minerals being recovered. India also has a ₹1,500-crore incentive scheme for critical mineral recycling launched in September."
+  ],
+  "analysis_en": "EIA projections can change quickly with the situation in the Middle East; the EIA itself says this forecast does not account for events after 5 November. India's move shows more countries are keeping battery raw materials at home, similar to Indonesia's nickel downstreaming policy. This is interpretation, not a price prediction.",
+  "image_alt_en": "Oil well pumpjack in Brunei",
+  "image_credits_en": "Photo: oil well pumpjack in Brunei, October 2020 (DeltaSquad833, CC BY-SA 4.0, Wikimedia Commons). Illustrative photo."
+ },
+ {
+  "slug": "rupiah-melemah-ke-rp18149-ihsg-turun-ke-5115-jelang-pengumuman-msci",
+  "category": "etf-makro",
+  "type": "news",
+  "published_at": "2026-11-11T19:31:00+08:00",
+  "title": "Rupiah melemah ke Rp18.149 per dolar AS, IHSG turun 0,21% ke 5.115 jelang pengumuman MSCI",
+  "summary": "Rupiah ditutup melemah 0,48% ke Rp18.149 per dolar AS pada Rabu (11/11/2026), tertekan dolar AS yang menguat setelah data inflasi AS lebih panas dari perkiraan. IHSG ditutup turun 0,21% ke 5.115,04 menjelang pengumuman hasil review indeks MSCI pada Kamis dini hari.",
+  "key_points": [
+   "Rupiah ditutup melemah 87 poin (0,48%) ke Rp18.149 per dolar AS dari Rp18.062 (data Bloomberg via Antara, CNN Indonesia, Kompas). Kurs JISDOR Bank Indonesia melemah ke Rp18.154 dari Rp18.059.",
+   "Analis menyebut pemicunya dolar AS yang menguat setelah CPI AS Oktober naik 0,4% secara bulanan (perkiraan 0,3%) dan pernyataan hawkish pejabat The Fed, ditambah kehati-hatian jelang review MSCI dan ketidakpastian politik dalam negeri.",
+   "IHSG ditutup di 5.115,04, turun 10,69 poin (0,21%), dengan nilai transaksi sekitar Rp8,8 triliun; 180 saham naik, 383 turun, 152 stagnan. Sejak awal tahun IHSG sudah melemah sekitar 40,85% (data RTI via detikFinance).",
+   "Hasil review indeks MSCI November dijadwalkan keluar sekitar pukul 05.00 WIB (06.00 WITA) Kamis 12/11, sebelum bursa dibuka. Perubahan berlaku pada penutupan 30 November.",
+   "Mirae Asset Sekuritas (via Katadata) memperkirakan BRMS berpotensi turun ke MSCI Small Cap dengan estimasi outflow dana pasif Rp300 miliar, dan peluang BRPT dikeluarkan sekitar 40% dengan potensi outflow Rp900 miliar. Ini proyeksi analis, bukan keputusan MSCI."
+  ],
+  "why_it_matters": "Bagi investor crypto di Indonesia, rupiah yang melemah berarti harga aset crypto dalam rupiah bisa naik walau harga dalam dolar turun, dan sebaliknya. Pengumuman MSCI juga memengaruhi aliran dana asing ke pasar saham Indonesia, yang sering ikut menggerakkan rupiah.",
+  "body": [
+   "Nilai tukar rupiah kembali tertekan pada perdagangan Rabu (11/11/2026). Menurut data Bloomberg yang dikutip Antara, CNN Indonesia, dan Kompas, rupiah ditutup melemah 87 poin atau 0,48% ke Rp18.149 per dolar AS, dari Rp18.062 pada penutupan sebelumnya. Kurs referensi Jakarta Interbank Spot Dollar Rate (JISDOR) Bank Indonesia juga melemah ke Rp18.154 per dolar AS dari Rp18.059.",
+   "Peneliti ICDX Muhammad Amru Syifa kepada Antara menyebut pelemahan rupiah dipengaruhi penguatan dolar AS di tengah ekspektasi bahwa The Fed akan mempertahankan suku bunga tinggi lebih lama. Data inflasi konsumen (CPI) AS Oktober naik 0,4% secara bulanan, di atas perkiraan 0,3%. Analis DOO Financial Futures Lukman Leong kepada CNN Indonesia menambahkan bahwa investor juga cenderung berhati-hati menjelang hasil review MSCI. Sejumlah analis lain juga menyebut ketidakpastian politik dalam negeri sebagai faktor tambahan.",
+   "Pelemahan rupiah sejalan dengan mayoritas mata uang Asia. Menurut CNN Indonesia, peso Filipina turun 0,49% dan ringgit Malaysia melemah 0,48%, sementara won Korea Selatan justru menguat 0,66%.",
+   "Di pasar saham, Indeks Harga Saham Gabungan (IHSG) dibuka menguat di 5.139,09 tetapi tertekan di sesi kedua dan ditutup di 5.115,04, turun 10,69 poin atau 0,21%, menurut CNBC Indonesia. Sebanyak 180 saham naik, 383 turun, dan 152 stagnan. Sektor barang baku menjadi penekan terbesar. Menurut data RTI yang dikutip detikFinance, IHSG sudah melemah sekitar 40,85% sejak awal tahun.",
+   "Pasar kini menunggu hasil review indeks MSCI November yang dijadwalkan terbit sekitar pukul 05.00 WIB atau 06.00 WITA pada Kamis (12/11), sebelum bursa dibuka, sehingga saham yang terdampak bisa langsung bereaksi. Perubahan komposisi berlaku pada penutupan perdagangan 30 November. Kompas mencatat pengumuman ini berbeda dengan konsultasi MSCI soal klasifikasi pasar Indonesia, yang keputusan akhirnya dijadwalkan paling lambat 30 Juni 2027.",
+   "Analis Mirae Asset Sekuritas Wilbert Arifin, dikutip Katadata, memperkirakan saham BRMS berpotensi turun kelas ke MSCI Small Cap Index dengan estimasi outflow dana pasif sekitar Rp300 miliar, dan peluang BRPT dikeluarkan dari indeks sekitar 40% dengan potensi outflow Rp900 miliar. Pada perdagangan Rabu, BRMS turun 2,61% ke Rp298 dan BRPT turun 6,71% ke Rp765. Di sisi lain, BEI juga akan mengeluarkan 300 saham tambahan berkategori High Shareholding Concentration (HSC) dari perhitungan IHSG mulai Jumat (13/11), sehingga totalnya menjadi 383 saham."
+  ],
+  "analysis": "Untuk pengguna exchange crypto lokal, kurs rupiah adalah faktor kedua setelah harga crypto global. Saat dolar menguat, harga Bitcoin dalam rupiah bisa turun lebih sedikit dibanding harga dalam dolar. Proyeksi saham yang terdampak MSCI di atas adalah perkiraan analis, dan hasil resmi baru diketahui Kamis pagi. Ini interpretasi, bukan saran investasi.",
+  "sources": [
+   {
+    "name": "Antara: Rupiah melemah seiring meningkatnya ekspektasi suku bunga tinggi Fed (11 Nov 2026)",
+    "url": "https://www.antaranews.com/berita/5846835/rupiah-melemah-seiring-meningkatnya-ekspektasi-suku-bunga-tinggi-fed",
+    "deep_link": true
+   },
+   {
+    "name": "CNN Indonesia: Rupiah Melemah ke Rp18.149 per Dolar AS Rabu Sore",
+    "url": "https://www.cnnindonesia.com/ekonomi/20261111160836-78-1425965/rupiah-melemah-ke-rp18149-per-dolar-as-rabu-sore",
+    "deep_link": true
+   },
+   {
+    "name": "CNBC Indonesia: IHSG Ditutup Melemah 0,21% ke 5.115,04 jelang Pengumuman MSCI",
+    "url": "https://www.cnbcindonesia.com/market/20261111153604-17-784340/ihsg-ditutup-melemah-021-ke-511504-jelang-pengumuman-msci",
+    "deep_link": true
+   },
+   {
+    "name": "detikFinance: IHSG Ditutup di Level 5.115, Turun 0,21%",
+    "url": "https://finance.detik.com/bursa-dan-valas/d-8748557/ihsg-ditutup-di-level-5-115-turun-0-21",
+    "deep_link": true
+   },
+   {
+    "name": "Kompas.com: Pengumuman MSCI 12 November Intai Bursa RI",
+    "url": "https://money.kompas.com/read/2026/11/11/101000126/pengumuman-msci-12-november-intai-bursa-ri-investor-perlu-antisipasi-dua",
+    "deep_link": true
+   },
+   {
+    "name": "Katadata: IHSG Turun ke 5.115, Harga Saham BRMS-BRPT Jatuh Menjelang Pengumuman MSCI",
+    "url": "https://katadata.co.id/finansial/bursa/6af4393de9104/ihsg-turun-ke-5115-harga-saham-brms-brpt-jatuh-menjelang-pengumuman-msci",
+    "deep_link": true
+   },
+   {
+    "name": "X @kompascom: rupiah ditutup melemah 87 poin",
+    "url": "https://x.com/kompascom/status/2120469065785549271",
+    "deep_link": true
+   },
+   {
+    "name": "X @KontanNews: BEI keluarkan 300 saham HSC tambahan dari IHSG",
+    "url": "https://x.com/KontanNews/status/2120443987689636051",
+    "deep_link": true
+   }
+  ],
+  "images": [
+   "assets/img/photos/rupiah.jpg",
+   "assets/img/photos/idx_gedung.jpg"
+  ],
+  "image_alt": "Lembaran uang Rp50.000",
+  "image_credits": "Foto: lembaran uang Rp50.000 (Jonny-mt, CC BY 3.0); Gedung Bursa Efek Indonesia, Jakarta (Bursa Efek Indonesia, CC BY-SA 4.0). Via Wikimedia Commons. Foto ilustrasi.",
+  "title_en": "Rupiah weakens to Rp18,149 per US dollar, IHSG falls 0.21% to 5,115 ahead of MSCI announcement",
+  "summary_en": "The rupiah closed 0.48% weaker at Rp18,149 per US dollar on Wednesday (11/11/2026), pressured by a stronger US dollar after hotter-than-expected US inflation data. The IHSG (Jakarta Composite Index) closed 0.21% lower at 5,115.04 ahead of MSCI's index review results early Thursday.",
+  "key_points_en": [
+   "The rupiah closed 87 points (0.48%) weaker at Rp18,149 per US dollar from Rp18,062 (Bloomberg data via Antara, CNN Indonesia, Kompas). Bank Indonesia's JISDOR rate weakened to Rp18,154 from Rp18,059.",
+   "Analysts cited a stronger US dollar after US October CPI rose 0.4% month on month (forecast 0.3%) and hawkish Fed officials' remarks, plus caution ahead of the MSCI review and domestic political uncertainty.",
+   "The IHSG closed at 5,115.04, down 10.69 points (0.21%), with turnover of about Rp8.8 trillion; 180 stocks rose, 383 fell, 152 were unchanged. Year to date the IHSG is down about 40.85% (RTI data via detikFinance).",
+   "MSCI's November index review results are due around 05:00 WIB (06:00 WITA) on Thursday 12/11, before the market opens. Changes take effect at the close of 30 November.",
+   "Mirae Asset Sekuritas (via Katadata) estimates BRMS could be moved down to the MSCI Small Cap with estimated passive fund outflows of Rp300 billion, and puts the chance of BRPT being removed at about 40% with potential outflows of Rp900 billion. These are analyst projections, not MSCI decisions."
+  ],
+  "why_en": "For crypto investors in Indonesia, a weaker rupiah means crypto prices in rupiah can rise even when dollar prices fall, and vice versa. The MSCI announcement also affects foreign fund flows into Indonesian stocks, which often move the rupiah too.",
+  "body_en": [
+   "The rupiah came under pressure again on Wednesday (11/11/2026). According to Bloomberg data cited by Antara, CNN Indonesia and Kompas, the rupiah closed 87 points or 0.48% weaker at Rp18,149 per US dollar, from Rp18,062 at the previous close. Bank Indonesia's Jakarta Interbank Spot Dollar Rate (JISDOR) reference rate also weakened to Rp18,154 per US dollar from Rp18,059.",
+   "ICDX researcher Muhammad Amru Syifa told Antara the rupiah's decline was driven by a stronger US dollar amid expectations that the Fed will keep interest rates high for longer. US consumer inflation (CPI) for October rose 0.4% month on month, above the 0.3% forecast. DOO Financial Futures analyst Lukman Leong told CNN Indonesia that investors were also cautious ahead of the MSCI review results. Several other analysts also cited domestic political uncertainty as an additional factor.",
+   "The rupiah's decline was in line with most Asian currencies. According to CNN Indonesia, the Philippine peso fell 0.49% and the Malaysian ringgit weakened 0.48%, while the South Korean won strengthened 0.66%.",
+   "In the stock market, the Jakarta Composite Index (IHSG) opened higher at 5,139.09 but came under pressure in the second session and closed at 5,115.04, down 10.69 points or 0.21%, according to CNBC Indonesia. 180 stocks rose, 383 fell and 152 were unchanged. Basic materials were the biggest drag. According to RTI data cited by detikFinance, the IHSG is down about 40.85% since the start of the year.",
+   "The market is now waiting for MSCI's November index review results, scheduled for around 05:00 WIB or 06:00 WITA on Thursday (12/11), before the market opens, so affected stocks can react immediately. Composition changes take effect at the close of trading on 30 November. Kompas noted this announcement is separate from MSCI's consultation on Indonesia's market classification, whose final decision is scheduled no later than 30 June 2027.",
+   "Mirae Asset Sekuritas analyst Wilbert Arifin, quoted by Katadata, estimates BRMS shares could be moved down to the MSCI Small Cap Index with estimated passive fund outflows of about Rp300 billion, and puts the chance of BRPT being removed from the index at about 40%, with potential outflows of Rp900 billion. On Wednesday, BRMS fell 2.61% to Rp298 and BRPT fell 6.71% to Rp765. Separately, the IDX will also remove 300 additional High Shareholding Concentration (HSC) stocks from the IHSG calculation starting Friday (13/11), bringing the total to 383 stocks."
+  ],
+  "analysis_en": "For users of local crypto exchanges, the rupiah exchange rate is the second factor after global crypto prices. When the dollar strengthens, the Bitcoin price in rupiah can fall less than the dollar price. The projections above for stocks affected by MSCI are analyst estimates, and the official results will only be known Thursday morning. This is interpretation, not investment advice.",
+  "image_alt_en": "Rp50,000 banknotes",
+  "image_credits_en": "Photos: Rp50,000 banknotes (Jonny-mt, CC BY 3.0); Indonesia Stock Exchange building, Jakarta (Indonesia Stock Exchange, CC BY-SA 4.0). Via Wikimedia Commons. Illustrative photos."
  }
 ]
