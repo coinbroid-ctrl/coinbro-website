@@ -401,5 +401,106 @@
   "analysis_en": "The factual parts of this article are based on public records, on-chain research and a court ruling. The theory part about Satoshi's identity is only speculation that has never been proven, and everyone named has denied it. The 1.1 million BTC estimate is also not an exact figure.",
   "image_alt_en": "Bronze statue of Satoshi Nakamoto in Budapest with a reflective face",
   "image_credits_en": "Illustrative photo: Satoshi Nakamoto statue in Budapest (Fekist, CC BY-SA 4.0), a statue, not a photo of Satoshi; Bitcoin coin (Satheesh Sankaran, CC BY 2.0). Via Wikimedia Commons."
+ },
+ {
+  "slug": "edukasi-kenapa-suku-bunga-the-fed-dan-yield-obligasi-naik-menekan-crypto-dan-rupiah",
+  "type": "edu",
+  "category": "edukasi",
+  "title": "Edukasi: Kenapa suku bunga The Fed dan yield obligasi AS yang naik bisa menekan crypto, saham, dan rupiah?",
+  "summary": "Belakangan ini berita crypto sering dibuka dengan kata \"The Fed\", \"CPI\", dan \"yield 10 tahun\". Apa hubungannya dengan harga Bitcoin dan kurs rupiah? Ini penjelasan sederhana soal suku bunga, yield obligasi, dan cara keduanya memengaruhi aset berisiko, lengkap dengan batasannya.",
+  "published_at": "2026-11-11T13:30:00+08:00",
+  "images": [
+   "assets/img/photos/treasury.jpg",
+   "assets/img/photos/rupiah.jpg"
+  ],
+  "key_points": [
+   "Suku bunga acuan The Fed (fed funds rate) adalah \"harga uang\" di AS. Menurut Presiden Dallas Fed Lorie Logan, levelnya saat ini 3,88%.",
+   "Yield obligasi adalah imbal hasil yang didapat pemegang surat utang. Harga obligasi lama dan suku bunga bergerak berlawanan: saat bunga naik, obligasi baru lebih menarik dan obligasi lama harus dijual dengan diskon (Investor.gov).",
+   "Saat aset \"aman\" seperti obligasi pemerintah AS memberi imbal hasil sekitar 5%, aset tanpa imbal hasil seperti Bitcoin dan emas jadi relatif kurang menarik bagi sebagian investor.",
+   "Bunga dan yield AS yang naik biasanya memperkuat dolar, sehingga mata uang negara berkembang seperti rupiah ikut tertekan.",
+   "IMF (2022): korelasi return harian Bitcoin dengan indeks saham S&P 500 naik dari 0,01 (2017-2019) menjadi 0,36 (2020-2021). Artinya crypto makin sering bergerak searah saham, tapi hubungan ini tidak selalu tetap."
+  ],
+  "body": [
+   "Apa itu suku bunga The Fed? Federal Reserve (The Fed), bank sentral AS, menetapkan kisaran target suku bunga federal funds lewat rapat Federal Open Market Committee (FOMC). Suku bunga ini memengaruhi bunga pinjaman bank, kartu kredit, KPR, sampai imbal hasil obligasi. Dalam pidatonya 10 November 2026, Presiden Dallas Fed Lorie Logan menyebut fed funds rate saat ini 3,88%, dan menilai perlu setidaknya dua kali lagi kenaikan 25 basis poin. Rapat FOMC berikutnya dijadwalkan 8-9 Desember.",
+   "Apa itu yield obligasi? Obligasi adalah surat utang. Pemerintah AS menerbitkan Treasury: T-bills (jatuh tempo hingga 52 minggu), notes (hingga 10 tahun), dan bonds (umumnya 30 tahun). Yield adalah imbal hasil yang didapat pemegangnya. Menurut Investor.gov milik SEC, kenaikan suku bunga membuat obligasi baru lebih menarik karena bunganya lebih tinggi, sehingga obligasi lama dengan bunga rendah mungkin harus dijual dengan diskon. Karena itu harga obligasi dan yield bergerak berlawanan arah. Yield Treasury 10 tahun sering dipakai sebagai patokan biaya uang global. Pada 10 November 2026, menurut CNBC, yield ini sempat di atas 5% setelah data inflasi AS keluar lebih panas dari perkiraan.",
+   "Kenapa ini bisa menekan crypto? Ada beberapa jalur yang sering dibahas analis. Pertama, biaya peluang: jika obligasi pemerintah AS, yang dianggap paling aman, sudah memberi sekitar 5% per tahun, sebagian investor jadi kurang tertarik memegang aset yang tidak memberi imbal hasil seperti Bitcoin atau emas. Kedua, likuiditas: bunga tinggi membuat pinjaman lebih mahal, termasuk untuk trading dengan leverage, sehingga uang spekulatif cenderung berkurang. Ketiga, korelasi dengan saham: menurut analisis IMF yang terbit Januari 2022, korelasi return harian Bitcoin dengan S&P 500 hanya 0,01 pada 2017-2019, tetapi naik menjadi 0,36 pada 2020-2021. Saat saham teknologi tertekan oleh bunga tinggi, crypto lebih sering ikut turun.",
+   "Lalu apa hubungannya dengan rupiah? Bunga dan yield AS yang lebih tinggi menarik modal ke aset dolar, sehingga dolar cenderung menguat terhadap mata uang negara berkembang. CNBC Indonesia pada 11 November menulis bahwa pandangan The Fed yang hawkish dan inflasi AS yang lebih tinggi dari ekspektasi menjadi ancaman bagi IHSG dan rupiah, karena keduanya sudah membuat indeks dolar dan yield Treasury naik. Pada awal perdagangan 11 November, menurut Liputan6, dolar AS menyentuh Rp18.113.",
+   "Penting diingat: ini bukan hukum pasti. Harga crypto juga dipengaruhi faktor lain seperti arus dana ETF, regulasi, kejadian peretasan, dan sentimen. Korelasi dengan saham bisa naik atau turun dari waktu ke waktu, dan pasar sering sudah \"memperhitungkan\" kenaikan bunga sebelum benar-benar terjadi. Jadi data makro sebaiknya dipakai sebagai salah satu konteks, bukan satu-satunya alasan membeli atau menjual."
+  ],
+  "why_it_matters": "Investor crypto di Indonesia terkena dua kali dampak kebijakan The Fed: lewat harga crypto dalam dolar dan lewat kurs rupiah. Memahami mekanismenya membantu membaca kenapa pasar bisa bergerak tajam di hari rilis data seperti CPI atau keputusan FOMC.",
+  "tips_title": "Tips praktis",
+  "tips": [
+   "Tandai kalender: rilis CPI dan PCE AS, serta rapat FOMC (berikutnya 8-9 Desember). Volatilitas sering naik di sekitar jadwal ini.",
+   "Hindari leverage berlebihan menjelang rilis data makro besar; pergerakan tajam bisa memicu likuidasi.",
+   "Pantau yield Treasury 10 tahun dan indeks dolar sebagai konteks, bukan sinyal beli atau jual.",
+   "Ingat dampak kurs: nilai aset crypto dalam rupiah dipengaruhi harga dalam dolar dan kurs USD/IDR."
+  ],
+  "analysis": "Penjelasan di atas adalah mekanisme umum yang banyak dipakai ekonom dan analis pasar, bukan prediksi. Angka korelasi dari IMF berlaku untuk periode yang diteliti (2017-2021) dan bisa berbeda di periode lain.",
+  "sources": [
+   {
+    "name": "Federal Reserve: Federal Open Market Committee",
+    "url": "https://www.federalreserve.gov/monetarypolicy/openmarket.htm",
+    "deep_link": true
+   },
+   {
+    "name": "Dallas Fed: Economic and monetary policy outlook, Lorie Logan (10 Nov 2026)",
+    "url": "https://www.dallasfed.org/news/speeches/logan/2026/lkl261110",
+    "deep_link": true
+   },
+   {
+    "name": "Investor.gov (SEC): Bonds",
+    "url": "https://www.investor.gov/introduction-investing/investing-basics/investment-products/bonds-or-fixed-income-products/bonds",
+    "deep_link": true
+   },
+   {
+    "name": "CNBC: 10-year Treasury yield races back to 5% (10 Nov 2026)",
+    "url": "https://www.cnbc.com/2026/11/10/us-bonds-treasurys-yields.html",
+    "deep_link": true
+   },
+   {
+    "name": "IMF Blog: Crypto Prices Move More in Sync With Stocks, Posing New Risks (Jan 2022)",
+    "url": "https://www.imf.org/en/blogs/articles/2022/01/11/crypto-prices-move-more-in-sync-with-stocks-posing-new-risks",
+    "deep_link": true
+   },
+   {
+    "name": "CNBC Indonesia: IHSG Dibuka Menguat 0,26% ke 5.139 (11 Nov 2026)",
+    "url": "https://www.cnbcindonesia.com/market/20261111085941-17-784122/ihsg-dibuka-menguat-026-ke-5139",
+    "deep_link": true
+   },
+   {
+    "name": "Liputan6: Sempat Menghijau, IHSG Hari Ini Berbalik Arah Melemah ke 5.124 (11 Nov 2026)",
+    "url": "https://www.liputan6.com/saham/read/8332795/sempat-menghijau-ihsg-hari-ini-berbalik-arah-melemah-ke-5124",
+    "deep_link": true
+   }
+  ],
+  "image_alt": "Gedung Departemen Keuangan (Treasury) AS di Washington",
+  "image_credits": "Foto ilustrasi: gedung Treasury AS (Wisneyykarin, CC BY-SA 4.0); lembaran uang Rp50.000 (Jonny-mt, CC BY 3.0). Via Wikimedia Commons.",
+  "title_en": "Learn: Why rising Fed rates and US bond yields can weigh on crypto, stocks and the rupiah",
+  "summary_en": "Lately, crypto news often opens with the words \"the Fed\", \"CPI\" and \"10-year yield\". What do they have to do with the Bitcoin price and the rupiah exchange rate? Here is a simple explanation of interest rates, bond yields and how both affect risk assets, including their limits.",
+  "key_points_en": [
+   "The Fed's policy rate (fed funds rate) is the \"price of money\" in the US. According to Dallas Fed President Lorie Logan, it currently stands at 3.88%.",
+   "A bond yield is the return a debt holder receives. Prices of existing bonds and interest rates move in opposite directions: when rates rise, new bonds are more appealing and older bonds have to be sold at a discount (Investor.gov).",
+   "When \"safe\" assets such as US government bonds yield around 5%, non-yielding assets such as Bitcoin and gold become relatively less attractive to some investors.",
+   "Rising US rates and yields usually strengthen the dollar, so emerging market currencies such as the rupiah come under pressure too.",
+   "IMF (2022): the correlation of Bitcoin's daily returns with the S&P 500 stock index rose from 0.01 (2017-2019) to 0.36 (2020-2021). That means crypto moves in the same direction as stocks more often, but this relationship is not fixed."
+  ],
+  "body_en": [
+   "What is the Fed's interest rate? The Federal Reserve (the Fed), the US central bank, sets the target range for the federal funds rate at meetings of the Federal Open Market Committee (FOMC). This rate affects bank lending rates, credit cards, mortgages and even bond yields. In a speech on 10 November 2026, Dallas Fed President Lorie Logan said the fed funds rate currently stands at 3.88% and that at least two more 25 basis point hikes are needed. The next FOMC meeting is scheduled for 8-9 December.",
+   "What is a bond yield? A bond is a debt security. The US government issues Treasuries: T-bills (maturing in up to 52 weeks), notes (up to 10 years) and bonds (typically 30 years). The yield is the return its holder receives. According to the SEC's Investor.gov, rising interest rates make newly issued bonds more appealing because they pay higher interest, so older bonds with lower rates may have to be sold at a discount. That is why bond prices and yields move in opposite directions. The 10-year Treasury yield is often used as a benchmark for the global cost of money. On 10 November 2026, according to CNBC, this yield briefly topped 5% after US inflation data came in hotter than expected.",
+   "Why can this weigh on crypto? There are several channels analysts often discuss. First, opportunity cost: if US government bonds, considered the safest, already pay about 5% a year, some investors become less interested in holding assets that pay no yield, such as Bitcoin or gold. Second, liquidity: high rates make borrowing more expensive, including for leveraged trading, so speculative money tends to shrink. Third, correlation with stocks: according to an IMF analysis published in January 2022, the correlation of Bitcoin's daily returns with the S&P 500 was only 0.01 in 2017-2019 but rose to 0.36 in 2020-2021. When tech stocks are pressured by high rates, crypto falls with them more often.",
+   "What does this have to do with the rupiah? Higher US rates and yields attract capital into dollar assets, so the dollar tends to strengthen against emerging market currencies. CNBC Indonesia wrote on 11 November that the Fed's hawkish views and higher-than-expected US inflation pose a threat to the JCI (IHSG) and the rupiah, because both have already pushed up the dollar index and Treasury yields. In early trading on 11 November, according to Liputan6, the US dollar touched Rp18,113.",
+   "Important to remember: this is not a fixed law. Crypto prices are also affected by other factors such as ETF flows, regulation, hacks and sentiment. The correlation with stocks can rise or fall over time, and markets often \"price in\" rate hikes before they actually happen. So macro data is best used as one piece of context, not the only reason to buy or sell."
+  ],
+  "why_en": "Crypto investors in Indonesia are hit twice by Fed policy: through crypto prices in dollars and through the rupiah exchange rate. Understanding the mechanism helps explain why markets can move sharply on data release days such as CPI or FOMC decisions.",
+  "tips_title_en": "Practical tips",
+  "tips_en": [
+   "Mark your calendar: US CPI and PCE releases, and FOMC meetings (next on 8-9 December). Volatility often rises around these dates.",
+   "Avoid excessive leverage ahead of major macro data releases; sharp moves can trigger liquidations.",
+   "Watch the 10-year Treasury yield and the dollar index as context, not as buy or sell signals.",
+   "Remember the currency effect: the rupiah value of crypto assets depends on both the dollar price and the USD/IDR exchange rate."
+  ],
+  "analysis_en": "The explanation above is a general mechanism widely used by economists and market analysts, not a prediction. The IMF correlation figures apply to the period studied (2017-2021) and may differ in other periods.",
+  "image_alt_en": "US Department of the Treasury building in Washington",
+  "image_credits_en": "Illustrative photos: US Treasury building (Wisneyykarin, CC BY-SA 4.0); Rp50,000 banknote (Jonny-mt, CC BY 3.0). Via Wikimedia Commons."
  }
 ]
