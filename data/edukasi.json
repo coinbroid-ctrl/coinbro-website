@@ -305,5 +305,101 @@
   "analysis_en": "History does not always repeat in the same way. Conditions in 2026 differ from 2021; for example, spot Bitcoin ETFs now exist and more companies hold BTC. This comparison is made for context, not to predict prices.",
   "image_alt_en": "Gold-colored physical Bitcoin coin",
   "image_credits_en": "Illustrative photo: Bitcoin coin (Satheesh Sankaran, CC BY 2.0); US 100-dollar bill (Revisorweb, public domain). Via Wikimedia Commons."
+ },
+ {
+  "slug": "misteri-1-1-juta-bitcoin-satoshi-dan-ancaman-komputer-kuantum",
+  "type": "edu",
+  "category": "edukasi",
+  "title": "Misteri: 1,1 juta Bitcoin milik Satoshi yang tak pernah bergerak, dan kenapa komputer kuantum ikut dibahas",
+  "summary": "Pencipta Bitcoin, Satoshi Nakamoto, diperkirakan memegang sekitar 1,1 juta BTC yang tidak pernah dipindahkan sejak awal Bitcoin. Siapa Satoshi masih misteri. Kini koin-koin itu ikut dibahas dalam diskusi soal risiko komputer kuantum. Ini faktanya, dan mana yang masih teori.",
+  "published_at": "2026-11-11T08:30:00+08:00",
+  "images": [
+   "assets/img/photos/bust1.jpg",
+   "assets/img/photos/hold.jpg"
+  ],
+  "key_points": [
+   "FAKTA: Satoshi Nakamoto menerbitkan whitepaper Bitcoin pada 31 Oktober 2008 dan meluncurkan jaringan Bitcoin pada Januari 2009. Pesan terakhir yang diketahui adalah email tahun 2011 yang menyebut ia sudah \"moved on to other things\".",
+   "FAKTA: Riset peneliti Sergio Lerner (pola \"Patoshi\") memperkirakan Satoshi menambang sekitar 1,1 juta BTC di awal Bitcoin. Koin itu tidak pernah dipindahkan. Angka pastinya tetap perkiraan.",
+   "FAKTA: Pada Maret 2024, Pengadilan Tinggi London memutuskan Craig Wright bukan Satoshi Nakamoto.",
+   "FAKTA: Glassnode (10 Nov 2026) mencatat 7,12 juta BTC atau 35,4% suplai punya public key yang terlihat di blockchain, bagian yang secara teori bisa diincar komputer kuantum di masa depan. Koin era Satoshi termasuk di dalamnya.",
+   "TEORI: Banyak nama pernah diduga sebagai Satoshi, seperti Hal Finney, Nick Szabo, dan Adam Back. Semuanya membantah, dan tidak ada yang terbukti."
+  ],
+  "body": [
+   "Pada 31 Oktober 2008, seseorang (atau sekelompok orang) dengan nama Satoshi Nakamoto menerbitkan whitepaper \"Bitcoin: A Peer-to-Peer Electronic Cash System\" di milis kriptografi. Pada 3 Januari 2009, blok pertama Bitcoin (genesis block) dibuat, dan di dalamnya tertulis judul berita surat kabar Inggris The Times: \"Chancellor on brink of second bailout for banks\". Software Bitcoin versi 0.1 dirilis pada 9 Januari 2009.",
+   "Pada pertengahan 2010, Satoshi menyerahkan kendali repositori kode kepada pengembang Gavin Andresen, dan tetap aktif dalam pengembangan Bitcoin sampai Desember 2010. Pada 2011, dalam email kepada pengembang Mike Hearn, Satoshi menulis bahwa ia sudah \"moved on to other things\" (beralih ke hal lain). Setelah itu, tidak ada lagi kabar yang bisa dipastikan berasal darinya.",
+   "Bagaimana kita tahu Satoshi punya banyak Bitcoin? Pada 2013, peneliti keamanan Sergio Lerner menganalisis blok-blok awal Bitcoin dan menemukan pola unik pada cara satu penambang dominan bekerja, yang kemudian dikenal sebagai pola \"Patoshi\". Dari situ ia memperkirakan Satoshi menambang sekitar 1,1 juta BTC. Perkiraan lain menyebut kisaran 750.000 sampai 1,1 juta BTC. Koin-koin ini tidak pernah dipindahkan. Dengan harga Bitcoin sekitar US$73.000-74.000 pada 10 November 2026, menurut hitungan COIN BRO, 1,1 juta BTC bernilai sekitar US$80 miliar.",
+   "Siapa Satoshi? Ini bagian yang masih TEORI. Banyak nama pernah dikaitkan, antara lain kriptografer Hal Finney (meninggal 2014), Nick Szabo (pencetus konsep \"bit gold\"), dan Adam Back (penemu Hashcash, yang disebut dalam whitepaper Bitcoin). Ketiganya membantah. Pada 2014, majalah Newsweek menyebut Dorian Nakamoto, seorang insinyur di California, sebagai Satoshi; ia membantah dan klaim itu banyak dikritik. Sementara itu, Craig Wright dari Australia lama mengklaim dirinya Satoshi, tetapi pada Maret 2024 Pengadilan Tinggi London memutuskan ia bukan Satoshi dan bukan penulis whitepaper Bitcoin.",
+   "Kenapa koin Satoshi kini ikut dibahas soal komputer kuantum? Menurut Glassnode, koin bisa \"terekspos\" jika public key-nya sudah terlihat di blockchain. Komputer kuantum yang cukup kuat, yang belum ada saat ini, secara teori bisa memakai algoritma Shor untuk menurunkan private key dari public key. Koin-koin awal era Satoshi memakai format lama (P2PK) yang memperlihatkan public key sejak awal. Glassnode mencatat pada 10 November 2026 ada 7,12 juta BTC atau 35,4% suplai dengan public key terlihat, naik dari 6,04 juta BTC (30,2%) pada Mei 2026. Sebagian besar karena pemakaian ulang alamat (address reuse).",
+   "Para pengembang Bitcoin sudah membahas solusinya, misalnya draf BIP-360 yang mengusulkan format output baru. Namun ini masih draf dan belum ada keputusan. Untuk koin yang pemiliknya tidak aktif atau kuncinya hilang, termasuk kemungkinan koin Satoshi, koin itu tidak bisa dipindahkan ke format yang lebih aman kecuali ada perubahan protokol yang kemungkinan besar akan diperdebatkan."
+  ],
+  "why_it_matters": "Koin Satoshi mewakili sekitar 5% dari total suplai maksimal 21 juta BTC. Jika suatu hari koin itu bergerak, baik karena pemiliknya aktif lagi atau karena serangan teknologi baru, pasar kemungkinan akan bereaksi besar. Karena itu misteri ini tetap relevan sampai sekarang.",
+  "tips_title": "Pelajaran praktis",
+  "tips": [
+   "Hindari memakai ulang alamat Bitcoin yang sama. Menurut Glassnode, memindahkan koin ke alamat baru mengakhiri eksposur public key akibat address reuse.",
+   "Waspadai siapa pun yang mengaku Satoshi atau menjual \"koin Satoshi\". Klaim seperti ini sudah berkali-kali terbukti tidak benar.",
+   "Ancaman kuantum masih teori untuk saat ini. Jangan panik, tapi ikuti perkembangan dari sumber resmi pengembang Bitcoin."
+  ],
+  "analysis": "Bagian fakta di artikel ini bersumber dari catatan publik, riset on-chain, dan putusan pengadilan. Bagian teori soal identitas Satoshi hanya dugaan yang belum pernah terbukti, dan semua yang disebut sudah membantah. Perkiraan 1,1 juta BTC juga bukan angka pasti.",
+  "sources": [
+   {
+    "name": "Bitcoin whitepaper (bitcoin.org)",
+    "url": "https://bitcoin.org/bitcoin.pdf",
+    "deep_link": true
+   },
+   {
+    "name": "Wikipedia: Satoshi Nakamoto",
+    "url": "https://en.wikipedia.org/wiki/Satoshi_Nakamoto",
+    "deep_link": true
+   },
+   {
+    "name": "Sergio Lerner (Bitslog): The Well Deserved Fortune of Satoshi Nakamoto (2013)",
+    "url": "https://bitslog.com/2013/04/17/the-well-deserved-fortune-of-satoshi-nakamoto/",
+    "deep_link": true
+   },
+   {
+    "name": "Reuters: Self-proclaimed bitcoin inventor is not 'Satoshi Nakamoto', UK judge rules (14 Mar 2024)",
+    "url": "https://www.reuters.com/world/uk/self-proclaimed-bitcoin-inventor-did-not-invent-bitcoin-uk-judge-rules-2024-03-14/",
+    "deep_link": true
+   },
+   {
+    "name": "Glassnode Research: Measuring Bitcoin's Quantum-Exposed Supply (Mei 2026)",
+    "url": "https://research.glassnode.com/measuring-bitcoins-quantum-exposed-supply/",
+    "deep_link": true
+   },
+   {
+    "name": "crypto.news: Bitcoin public-key exposure reaches 35.4% (10 Nov 2026)",
+    "url": "https://crypto.news/bitcoin-public-key-exposure-quantum-risk/",
+    "deep_link": true
+   }
+  ],
+  "image_alt": "Patung perunggu Satoshi Nakamoto di Budapest dengan wajah reflektif",
+  "image_credits": "Foto ilustrasi: patung Satoshi Nakamoto di Budapest (Fekist, CC BY-SA 4.0), patung, bukan foto Satoshi; koin Bitcoin (Satheesh Sankaran, CC BY 2.0). Via Wikimedia Commons.",
+  "title_en": "Mystery: Satoshi's 1.1 million Bitcoin that have never moved, and why quantum computers come up",
+  "summary_en": "Bitcoin's creator, Satoshi Nakamoto, is estimated to hold about 1.1 million BTC that have never been moved since Bitcoin's early days. Who Satoshi is remains a mystery. Now those coins are also part of the discussion about quantum computing risk. Here are the facts, and what is still theory.",
+  "key_points_en": [
+   "FACT: Satoshi Nakamoto published the Bitcoin whitepaper on 31 October 2008 and launched the Bitcoin network in January 2009. The last known message is a 2011 email saying he had \"moved on to other things\".",
+   "FACT: Research by Sergio Lerner (the \"Patoshi\" pattern) estimates Satoshi mined about 1.1 million BTC in Bitcoin's early days. Those coins have never been moved. The exact figure remains an estimate.",
+   "FACT: In March 2024, London's High Court ruled that Craig Wright is not Satoshi Nakamoto.",
+   "FACT: Glassnode (10 Nov 2026) counted 7.12 million BTC, or 35.4% of supply, with public keys visible on the blockchain, the part a future quantum computer could theoretically target. Satoshi-era coins are among them.",
+   "THEORY: Many names have been suggested as Satoshi, such as Hal Finney, Nick Szabo and Adam Back. All have denied it, and none has been proven."
+  ],
+  "body_en": [
+   "On 31 October 2008, a person (or group of people) using the name Satoshi Nakamoto published the whitepaper \"Bitcoin: A Peer-to-Peer Electronic Cash System\" on a cryptography mailing list. On 3 January 2009, Bitcoin's first block (the genesis block) was created, containing a headline from the British newspaper The Times: \"Chancellor on brink of second bailout for banks\". Version 0.1 of the Bitcoin software was released on 9 January 2009.",
+   "In mid-2010, Satoshi handed control of the code repository to developer Gavin Andresen, and stayed active in Bitcoin's development until December 2010. In 2011, in an email to developer Mike Hearn, Satoshi wrote that he had \"moved on to other things\". After that, there was no further word that can be confirmed as coming from him.",
+   "How do we know Satoshi has a lot of Bitcoin? In 2013, security researcher Sergio Lerner analyzed Bitcoin's early blocks and found a unique pattern in how one dominant miner operated, later known as the \"Patoshi\" pattern. From this he estimated that Satoshi mined about 1.1 million BTC. Other estimates put it in a range of 750,000 to 1.1 million BTC. These coins have never been moved. With Bitcoin at around US$73,000-74,000 on 10 November 2026, by COIN BRO's calculation, 1.1 million BTC would be worth about US$80 billion.",
+   "Who is Satoshi? This part is still THEORY. Many names have been linked, including cryptographer Hal Finney (who died in 2014), Nick Szabo (who came up with the \"bit gold\" concept) and Adam Back (inventor of Hashcash, who is cited in the Bitcoin whitepaper). All three have denied it. In 2014, Newsweek magazine named Dorian Nakamoto, an engineer in California, as Satoshi; he denied it and the claim was widely criticized. Meanwhile, Australian Craig Wright long claimed to be Satoshi, but in March 2024 London's High Court ruled that he is not Satoshi and not the author of the Bitcoin whitepaper.",
+   "Why are Satoshi's coins now part of the quantum computing discussion? According to Glassnode, coins can be \"exposed\" if their public key is already visible on the blockchain. A sufficiently powerful quantum computer, which does not exist today, could in theory use Shor's algorithm to derive a private key from a public key. Early Satoshi-era coins use an old format (P2PK) that reveals the public key from the start. Glassnode counted 7.12 million BTC, or 35.4% of supply, with visible public keys on 10 November 2026, up from 6.04 million BTC (30.2%) in May 2026. Most of it is due to address reuse.",
+   "Bitcoin developers are already discussing solutions, such as the BIP-360 draft that proposes a new output format. But it is still a draft and nothing has been decided. For coins whose owners are inactive or whose keys are lost, possibly including Satoshi's coins, they cannot be moved to a safer format unless there is a protocol change that would likely be contentious."
+  ],
+  "why_en": "Satoshi's coins represent about 5% of the maximum supply of 21 million BTC. If those coins ever move, whether because their owner becomes active again or because of an attack using new technology, the market would likely react strongly. That is why this mystery is still relevant today.",
+  "tips_title_en": "Practical lessons",
+  "tips_en": [
+   "Avoid reusing the same Bitcoin address. According to Glassnode, moving coins to a fresh address ends the public-key exposure caused by address reuse.",
+   "Be wary of anyone claiming to be Satoshi or selling \"Satoshi coins\". Claims like these have repeatedly proven false.",
+   "The quantum threat is still theoretical for now. Don't panic, but follow developments from official Bitcoin developer sources."
+  ],
+  "analysis_en": "The factual parts of this article are based on public records, on-chain research and a court ruling. The theory part about Satoshi's identity is only speculation that has never been proven, and everyone named has denied it. The 1.1 million BTC estimate is also not an exact figure.",
+  "image_alt_en": "Bronze statue of Satoshi Nakamoto in Budapest with a reflective face",
+  "image_credits_en": "Illustrative photo: Satoshi Nakamoto statue in Budapest (Fekist, CC BY-SA 4.0), a statue, not a photo of Satoshi; Bitcoin coin (Satheesh Sankaran, CC BY 2.0). Via Wikimedia Commons."
  }
 ]

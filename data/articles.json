@@ -1687,5 +1687,377 @@
   "analysis_en": "Because IBC does not require a specific token, this move is more about institutional technology adoption than a direct impact on the price of Cosmos ecosystem tokens such as ATOM. The thing to watch is whether banks or tokenization projects actually start using IBC now that its governance is neutral. This is interpretation, not a price prediction.",
   "image_alt_en": "Network rack with Ethernet switches and patch panels and many cables",
   "image_credits_en": "Photo: Ethernet switches and patch panels in a 19-inch rack (Dsimic, CC BY-SA 4.0, Wikimedia Commons). Illustrative photo."
+ },
+ {
+  "slug": "cpi-as-oktober-panas-yield-10-tahun-5-persen-emas-bitcoin-turun",
+  "category": "etf-makro",
+  "type": "news",
+  "source_queue": [
+   "square-386775820972509",
+   "jin10-242995",
+   "square-386909347551189"
+  ],
+  "title": "Inflasi AS Oktober lebih panas dari perkiraan: yield obligasi 10 tahun sempat tembus 5%, emas turun 2%, Bitcoin ke terendah sejak Agustus",
+  "summary": "Indeks harga konsumen (CPI) AS naik 0,4% di bulan Oktober, di atas perkiraan 0,3%. Inflasi inti naik 0,3%, juga di atas perkiraan. Pasar kini memperhitungkan penuh kenaikan suku bunga The Fed pada Desember. Yield Treasury 10 tahun sempat di atas 5%, emas turun sekitar 2%, dan Bitcoin sempat di bawah US$73.000.",
+  "key_points": [
+   "Menurut Biro Statistik Tenaga Kerja AS (BLS), CPI Oktober naik 0,4% secara bulanan (perkiraan ekonom Dow Jones 0,3%). CPI inti naik 0,3% (perkiraan 0,2%). Data dirilis Selasa (10/11) pukul 08.30 waktu New York, atau 21.30 WITA (13.30 UTC).",
+   "BLS tidak merilis angka inflasi tahunan karena data Oktober 2025 tidak dikumpulkan akibat shutdown pemerintah AS tahun lalu.",
+   "Menurut CME FedWatch yang dikutip CNBC, pasar kini memperhitungkan penuh kenaikan 25 basis poin pada rapat 8-9 Desember, dengan peluang kenaikan 50 basis poin sekitar 13,6%.",
+   "Yield Treasury 10 tahun sempat di atas 5% sebelum turun ke sekitar 4,992%. Lelang surat utang 10 tahun senilai US$42 miliar dinilai lemah: dealer menyerap 10%, terbanyak sejak Mei.",
+   "Emas spot turun sekitar 2% ke kisaran US$4.053-4.055 per ons, perak turun 2,8% ke US$51,90. Menurut CoinDesk, Bitcoin sempat jatuh di bawah US$73.000, level terendah sejak Agustus."
+  ],
+  "why_it_matters": "Suku bunga dan yield obligasi yang lebih tinggi membuat biaya uang naik dan aset tanpa imbal hasil seperti emas dan crypto jadi kurang menarik. Data ini memperkuat ekspektasi The Fed akan terus mengetatkan kebijakan, yang biasanya menekan aset berisiko.",
+  "body": [
+   "Biro Statistik Tenaga Kerja AS (BLS) melaporkan indeks harga konsumen (CPI) naik 0,4% (disesuaikan musiman) pada Oktober 2026, lebih tinggi dari perkiraan ekonom yang disurvei Dow Jones sebesar 0,3%. Pada September, CPI naik 0,6%. CPI inti, yang tidak menghitung harga makanan dan energi yang fluktuatif, naik 0,3%, di atas perkiraan 0,2% dan sama dengan September. Data dirilis Selasa (10/11) pukul 08.30 waktu New York, atau 21.30 WITA (13.30 UTC).",
+   "BLS tidak menghitung laju inflasi tahunan kali ini. Shutdown pemerintah AS pada Oktober 2025 membuat BLS tidak mengumpulkan data survei bulan itu, sehingga tidak ada angka pembanding. Dari rinciannya, indeks energi naik 0,7%, bensin naik 1%, makanan naik 0,5%, dan biaya tempat tinggal (shelter) naik 0,3%. Menurut BLS, shelter menyumbang lebih dari 30% kenaikan bulanan CPI.",
+   "Data ini keluar beberapa jam setelah Gubernur The Fed Christopher Waller mengatakan kenaikan suku bunga 50 basis poin perlu dipertimbangkan di bulan Desember jika inflasi inti sekitar 0,3%. Menurut CME FedWatch yang dikutip CNBC, pasar kini memperhitungkan penuh kenaikan 25 basis poin pada rapat 8-9 Desember, dan peluang kenaikan 50 basis poin naik ke 13,6% dari sekitar nol sebelum data keluar. Presiden Fed Dallas Lorie Logan, setelah rilis CPI, mengatakan ia melihat perlunya dua kali lagi kenaikan seperempat poin.",
+   "Pasar obligasi langsung tertekan. Menurut CNBC, yield Treasury 10 tahun sempat diperdagangkan di atas 5% sebelum turun ke sekitar 4,992%, naik 13 basis poin. Yield 2 tahun, yang paling sensitif terhadap ekspektasi suku bunga The Fed, melonjak lebih dari 18 basis poin ke 4,736%. Lelang surat utang 10 tahun senilai US$42 miliar juga dinilai lemah; menurut Peter Boockvar dari One Point BFG Wealth Partners, dealer menyerap 10% dari lelang, porsi terbanyak sejak Mei.",
+   "Emas ikut terpukul. Kitco melaporkan emas spot terakhir di US$4.054,90 per ons, turun 2% hari itu. Anadolu Agency mencatat emas turun 2,1% ke US$4.052,90 per ons pada pukul 13.30 GMT, sementara perak turun 2,8% ke US$51,90 per ons.",
+   "Crypto juga melemah. Menurut CoinDesk, Bitcoin turun ke sekitar US$73.600 tak lama setelah rilis CPI, lalu sempat jatuh di bawah US$73.000 untuk pertama kalinya sejak Agustus, seiring Nasdaq turun sekitar 1,1%. Ether, XRP, dan Solana turun mendekati 6%."
+  ],
+  "analysis": "Kombinasi inflasi yang masih tinggi, yield 10 tahun di sekitar 5%, dan ekspektasi kenaikan suku bunga lanjutan adalah kondisi yang biasanya berat untuk crypto. Data berikutnya yang perlu dipantau adalah inflasi produsen (PPI) AS pada Jumat dan indeks PCE akhir November. Ini interpretasi, bukan prediksi harga.",
+  "sources": [
+   {
+    "name": "CNBC: Consumer prices rose 0.4% in October, more than expected",
+    "url": "https://www.cnbc.com/2026/11/10/cpi-inflation-report-october-2026.html",
+    "deep_link": true
+   },
+   {
+    "name": "CNBC: 10-year Treasury yield races back to 5%",
+    "url": "https://www.cnbc.com/2026/11/10/us-bonds-treasurys-yields.html",
+    "deep_link": true
+   },
+   {
+    "name": "Kitco News: Gold prices down 2% on the day as US CPI rises more than expected",
+    "url": "https://www.kitco.com/news/article/2026-11-10/gold-prices-down-2-day-us-cpi-rises-more-expected",
+    "deep_link": true
+   },
+   {
+    "name": "Anadolu Agency: Gold plunges over 2% as US inflation exceeds expectations",
+    "url": "https://www.aa.com.tr/en/economy/gold-plunges-over-2-as-us-inflation-exceeds-expectations/4119007",
+    "deep_link": true
+   },
+   {
+    "name": "CoinDesk: Bitcoin falls to nearly three-month low after disappointing inflation data (live)",
+    "url": "https://www.coindesk.com/markets/2026/11/10/live-news-traders-price-in-fed-rate-hike-for-december-as-bitcoin-and-gold-retreat",
+    "deep_link": true
+   }
+  ],
+  "published_at": "2026-11-11T08:35:00+08:00",
+  "images": [
+   "assets/img/photos/treasury.jpg",
+   "assets/img/photos/goldbars.jpg"
+  ],
+  "image_alt": "Gedung Departemen Keuangan (Treasury) AS di Washington",
+  "image_credits": "Foto ilustrasi: gedung Treasury AS (Wisneyykarin, CC BY-SA 4.0); batangan emas (Stevebidmead, CC0). Via Wikimedia Commons.",
+  "title_en": "US October inflation runs hotter than expected: 10-year yield briefly tops 5%, gold falls 2%, Bitcoin hits lowest since August",
+  "summary_en": "The US consumer price index (CPI) rose 0.4% in October, above the 0.3% forecast. Core inflation rose 0.3%, also above forecasts. Markets now fully price in a Fed rate hike in December. The 10-year Treasury yield briefly topped 5%, gold fell about 2%, and Bitcoin briefly dropped below US$73,000.",
+  "key_points_en": [
+   "According to the US Bureau of Labor Statistics (BLS), October CPI rose 0.4% month on month (Dow Jones economists' forecast: 0.3%). Core CPI rose 0.3% (forecast: 0.2%). The data was released on Tuesday (10/11) at 08:30 New York time, or 21:30 WITA (13:30 UTC).",
+   "The BLS did not publish an annual inflation figure because October 2025 data was not collected due to last year's US government shutdown.",
+   "According to CME FedWatch as cited by CNBC, markets now fully price in a 25 basis point hike at the 8-9 December meeting, with about a 13.6% chance of a 50 basis point hike.",
+   "The 10-year Treasury yield briefly traded above 5% before easing to about 4.992%. A US$42 billion 10-year note auction was seen as weak: dealers took 10%, the most since May.",
+   "Spot gold fell about 2% to around US$4,053-4,055 an ounce, and silver fell 2.8% to US$51.90. According to CoinDesk, Bitcoin briefly fell below US$73,000, its lowest level since August."
+  ],
+  "why_en": "Higher interest rates and bond yields raise the cost of money and make non-yielding assets such as gold and crypto less attractive. This data strengthens expectations that the Fed will keep tightening policy, which usually weighs on risk assets.",
+  "body_en": [
+   "The US Bureau of Labor Statistics (BLS) reported that the consumer price index (CPI) rose a seasonally adjusted 0.4% in October 2026, higher than the 0.3% expected by economists surveyed by Dow Jones. In September, CPI rose 0.6%. Core CPI, which excludes volatile food and energy prices, rose 0.3%, above the 0.2% forecast and the same as in September. The data was released on Tuesday (10/11) at 08:30 New York time, or 21:30 WITA (13:30 UTC).",
+   "The BLS did not calculate an annual inflation rate this time. The US government shutdown in October 2025 meant the BLS did not collect survey data that month, so there is no comparable figure. In the details, the energy index rose 0.7%, gasoline rose 1%, food rose 0.5% and shelter costs rose 0.3%. According to the BLS, shelter accounted for more than 30% of the monthly CPI increase.",
+   "The data came a few hours after Fed Governor Christopher Waller said a 50 basis point rate hike should be considered in December if core inflation was around 0.3%. According to CME FedWatch as cited by CNBC, markets now fully price in a 25 basis point hike at the 8-9 December meeting, and the odds of a 50 basis point hike rose to 13.6% from around zero before the data. Dallas Fed President Lorie Logan, after the CPI release, said she sees a need for two more quarter-point increases.",
+   "The bond market came under immediate pressure. According to CNBC, the 10-year Treasury yield briefly traded above 5% before easing to about 4.992%, up 13 basis points. The 2-year yield, which is most sensitive to Fed rate expectations, jumped more than 18 basis points to 4.736%. A US$42 billion 10-year note auction was also seen as weak; according to Peter Boockvar of One Point BFG Wealth Partners, dealers took 10% of the auction, the most since May.",
+   "Gold was hit too. Kitco reported spot gold last at US$4,054.90 an ounce, down 2% on the day. Anadolu Agency noted gold fell 2.1% to US$4,052.90 an ounce as of 13:30 GMT, while silver fell 2.8% to US$51.90 an ounce.",
+   "Crypto also weakened. According to CoinDesk, Bitcoin fell to around US$73,600 shortly after the CPI release, then briefly dropped below US$73,000 for the first time since August, as the Nasdaq fell about 1.1%. Ether, XRP and Solana fell closer to 6%."
+  ],
+  "analysis_en": "The combination of still-high inflation, a 10-year yield around 5% and expectations of further rate hikes is a backdrop that is usually tough for crypto. The next data to watch are US producer price inflation (PPI) on Friday and the PCE index at the end of November. This is interpretation, not a price prediction.",
+  "image_alt_en": "US Department of the Treasury building in Washington",
+  "image_credits_en": "Illustrative photo: US Treasury building (Wisneyykarin, CC BY-SA 4.0); gold bars (Stevebidmead, CC0). Via Wikimedia Commons."
+ },
+ {
+  "slug": "ipo-anthropic-target-us64-miliar-valuasi-1-4-triliun",
+  "category": "teknologi",
+  "type": "news",
+  "source_queue": [
+   "jin10-242976"
+  ],
+  "title": "IPO Anthropic, pembuat Claude, bidik dana hingga US$64,4 miliar dengan valuasi sampai US$1,4 triliun",
+  "summary": "Anthropic dan sebagian pemegang sahamnya berencana menjual 825 juta saham di rentang harga US$70-78 per saham, menurut prospektus terbaru yang diajukan ke SEC. Saham dijadwalkan mulai diperdagangkan di Nasdaq pada 19 November dengan kode ANT, menurut Reuters.",
+  "key_points": [
+   "Menurut Reuters, prospektus terbaru yang diajukan ke SEC pada Selasa (10/11) menunjukkan IPO bisa mengumpulkan hingga US$64,4 miliar dari penjualan 825 juta saham di harga US$70-78.",
+   "Di batas atas harga, valuasi Anthropic sekitar US$1,4 triliun secara fully diluted, atau sekitar US$1 triliun tanpa menghitung opsi saham dan saham terbatas.",
+   "Anthropic juga akan mengumpulkan US$26 miliar lewat penempatan privat dengan investor cornerstone, termasuk Google, Nvidia, dan AMD. Total dana bisa mencapai US$90,4 miliar.",
+   "Saham dijadwalkan mulai diperdagangkan di Nasdaq pada 19 November dengan kode \"ANT\". Goldman Sachs dan Morgan Stanley memimpin penjaminan emisi.",
+   "Sehari sebelumnya, detail awal yang menunjukkan dana hingga US$69,3 miliar sempat beredar ke bank lalu ditarik; Anthropic menyebut informasi itu tidak akurat."
+  ],
+  "why_it_matters": "Ini salah satu IPO terbesar tahun ini dan akan menjadi tolok ukur pertama di pasar publik untuk valuasi perusahaan AI frontier. Hasilnya bisa memengaruhi sentimen sektor AI secara luas, termasuk saham teknologi dan token crypto bertema AI.",
+  "body": [
+   "Anthropic, pengembang chatbot Claude, mengajukan prospektus terbaru ke Komisi Sekuritas dan Bursa AS (SEC) pada Selasa (10/11/2026). Menurut Reuters, perusahaan dan sebagian pemegang saham lamanya menargetkan dana hingga US$64,4 miliar dengan menjual 825 juta saham di rentang harga indikatif US$70-78 per saham. Anthropic juga memulai roadshow, yaitu rangkaian presentasi ke calon investor.",
+   "Di batas atas rentang harga, Anthropic akan bernilai sekitar US$1,4 triliun secara fully diluted, yang memasukkan efek seperti opsi saham dan saham terbatas. Tanpa efek tersebut, nilai pasarnya sekitar US$1 triliun. Reuters mencatat angka ini sedikit di bawah ekspektasi sebagian investor. Pada putaran pendanaan privat terakhir, Anthropic dinilai US$965 miliar.",
+   "Selain IPO, Anthropic akan mengumpulkan US$26 miliar lewat penempatan privat terpisah dengan investor cornerstone, antara lain Google (Alphabet), Nvidia, AMD, Broadcom, Micron, Microsoft, dan TSMC. Totalnya, penawaran saham ini bisa mengumpulkan hingga US$90,4 miliar. Menurut Bloomberg yang dikutip CoinDesk, angkanya bisa naik ke sekitar US$100 miliar jika opsi kelebihan penjatahan (over-allotment) digunakan.",
+   "Saham dijadwalkan mulai diperdagangkan di Nasdaq pada 19 November dengan kode \"ANT\". Goldman Sachs dan Morgan Stanley menjadi penjamin emisi utama. Reuters juga melaporkan, pada Senin malam detail IPO sempat diedarkan ke bank investasi lalu ditarik. Detail awal itu menunjukkan dana hingga US$69,3 miliar, dan Anthropic menyebut informasi tersebut tidak akurat.",
+   "Menurut dokumen IPO yang dikutip Reuters, pendapatan run-rate Anthropic sekitar US$81 miliar per 31 Oktober, naik US$10 miliar dari 30 September. Perusahaan juga memiliki komitmen komputasi hampir US$900 miliar dengan mitra seperti Amazon dan Google. Prospektus itu memuat sejumlah risiko, termasuk pesaing yang bisa mengembangkan model lebih cepat dan kemajuan AI yang bisa melampaui kemampuan perusahaan menerapkan pengamanan yang memadai."
+  ],
+  "analysis": "IPO ini datang saat saham teknologi sedang tertekan oleh suku bunga tinggi dan keraguan soal imbal hasil belanja AI. Jika permintaan kuat, itu bisa jadi sinyal positif untuk sentimen sektor AI; jika lemah, tekanan ke saham dan token bertema AI bisa bertambah. Ini interpretasi, bukan prediksi harga.",
+  "sources": [
+   {
+    "name": "Reuters via The Star: Anthropic eyes $1.4 trillion IPO valuation in test of Wall Street's AI fervor",
+    "url": "https://www.thestar.com.my/tech/tech-news/2026/11/10/exclusive-anthropic-ipo-to-raise-as-much-as-644-billion-latest-draft-prospectus-shows",
+    "deep_link": true
+   },
+   {
+    "name": "Reuters via BusinessLine: Anthropic IPO targets $64.4 billion",
+    "url": "https://www.thehindubusinessline.com/markets/anthropic-ipo-could-raise-up-to-644-billion-at-share-price-of-70-78/article71685870.ece",
+    "deep_link": true
+   },
+   {
+    "name": "CoinDesk (live): Anthropic targeting fully diluted valuation of about $1.4 trillion",
+    "url": "https://www.coindesk.com/markets/2026/11/10/live-news-traders-price-in-fed-rate-hike-for-december-as-bitcoin-and-gold-retreat",
+    "deep_link": true
+   }
+  ],
+  "published_at": "2026-11-11T08:34:00+08:00",
+  "images": [
+   "assets/img/photos/amodei.jpg"
+  ],
+  "image_alt": "CEO Anthropic Dario Amodei berbicara di panggung TechCrunch Disrupt 2023",
+  "image_credits": "Foto: Dario Amodei di TechCrunch Disrupt 2023 (TechCrunch, CC BY 2.0, Wikimedia Commons).",
+  "title_en": "Anthropic, maker of Claude, targets up to US$64.4 billion in IPO at a valuation of up to US$1.4 trillion",
+  "summary_en": "Anthropic and some of its shareholders plan to sell 825 million shares in a price range of US$70-78 per share, according to an updated prospectus filed with the SEC. The shares are scheduled to start trading on the Nasdaq on 19 November under the symbol ANT, according to Reuters.",
+  "key_points_en": [
+   "According to Reuters, an updated prospectus filed with the SEC on Tuesday (10/11) shows the IPO could raise up to US$64.4 billion from the sale of 825 million shares at US$70-78.",
+   "At the top of the range, Anthropic's valuation is about US$1.4 trillion on a fully diluted basis, or about US$1 trillion excluding stock options and restricted stock.",
+   "Anthropic will also raise US$26 billion through a private placement with cornerstone investors, including Google, Nvidia and AMD. Total proceeds could reach US$90.4 billion.",
+   "The shares are scheduled to start trading on the Nasdaq on 19 November under the symbol \"ANT\". Goldman Sachs and Morgan Stanley are leading the underwriting.",
+   "A day earlier, preliminary details pointing to proceeds of up to US$69.3 billion briefly circulated to banks and were then retracted; Anthropic said that information was inaccurate."
+  ],
+  "why_en": "This is one of the year's biggest IPOs and will be the first public-market benchmark for the valuation of frontier AI companies. The outcome could affect sentiment across the AI sector, including tech stocks and AI-themed crypto tokens.",
+  "body_en": [
+   "Anthropic, developer of the Claude chatbot, filed an updated prospectus with the US Securities and Exchange Commission (SEC) on Tuesday (10/11/2026). According to Reuters, the company and some of its existing shareholders are aiming to raise up to US$64.4 billion by selling 825 million shares in an indicative price range of US$70-78 per share. Anthropic is also kicking off its roadshow, a series of presentations to prospective investors.",
+   "At the top of the price range, Anthropic would be valued at about US$1.4 trillion on a fully diluted basis, which includes securities such as stock options and restricted stock. Excluding those securities, its market value would be about US$1 trillion. Reuters noted this is slightly short of some investors' expectations. In its last private funding round, Anthropic was valued at US$965 billion.",
+   "In addition to the IPO, Anthropic will raise US$26 billion through a separate private placement with cornerstone investors including Google (Alphabet), Nvidia, AMD, Broadcom, Micron, Microsoft and TSMC. In total, the share offering could raise up to US$90.4 billion. According to Bloomberg as cited by CoinDesk, that could rise to about US$100 billion if an over-allotment option is exercised.",
+   "The shares are scheduled to start trading on the Nasdaq on 19 November under the symbol \"ANT\". Goldman Sachs and Morgan Stanley are the lead underwriters. Reuters also reported that late on Monday, IPO details were briefly circulated to investment banks and then retracted. Those preliminary details pointed to proceeds of up to US$69.3 billion, and Anthropic said the information was inaccurate.",
+   "According to the IPO filing as cited by Reuters, Anthropic's run-rate revenue was about US$81 billion as of 31 October, up US$10 billion from 30 September. The company also has nearly US$900 billion in computing commitments with partners such as Amazon and Google. The prospectus lists a range of risks, including competitors developing models faster and advances in AI outpacing the company's ability to put adequate safeguards in place."
+  ],
+  "analysis_en": "This IPO comes as tech stocks are under pressure from high interest rates and doubts about the returns on AI spending. If demand is strong, it could be a positive signal for AI sector sentiment; if it is weak, pressure on AI-themed stocks and tokens could increase. This is interpretation, not a price prediction.",
+  "image_alt_en": "Anthropic CEO Dario Amodei speaking on stage at TechCrunch Disrupt 2023",
+  "image_credits_en": "Photo: Dario Amodei at TechCrunch Disrupt 2023 (TechCrunch, CC BY 2.0, Wikimedia Commons)."
+ },
+ {
+  "slug": "bei-ubah-metodologi-hsc-383-saham-keluar-dari-ihsg",
+  "category": "etf-makro",
+  "type": "news",
+  "source_queue": [
+   "jin10-242978"
+  ],
+  "title": "BEI ubah metodologi saham HSC: daftar bertambah 300 jadi 383 saham, akan dikeluarkan dari perhitungan IHSG",
+  "summary": "Bursa Efek Indonesia (BEI) mengubah cara menyaring saham dengan kepemilikan sangat terkonsentrasi (Hidden Shareholder Concentration/HSC). Kini seluruh saham tercatat disaring, dan saham yang 92,5% atau lebih dikuasai 10 pemegang saham atau kurang masuk daftar HSC. Total saham HSC menjadi 383.",
+  "key_points": [
+   "Keputusan Komite HSC diumumkan Direktur Utama BEI Jeffrey Hendrik di Jakarta, Selasa (10/11/2026).",
+   "Ambang batas kapitalisasi pasar di atas Rp5 triliun tidak lagi dipakai; penyaringan kini mencakup seluruh saham tercatat. Price impact ratio juga tidak lagi diperhitungkan.",
+   "Kriteria baru: 10 pemegang saham atau kurang yang bersama-sama menguasai 92,5% saham atau lebih.",
+   "Ada tambahan 300 saham, sehingga total menjadi 383 saham HSC (sebelumnya 83), atau tambahan sekitar 6,16% dari kapitalisasi pasar IHSG. Saham HSC dikeluarkan dari perhitungan IHSG.",
+   "Untuk keluar dari daftar, emiten harus menunjukkan distribusi saham yang lebih baik ke publik lewat transaksi pasar reguler. Daftar lengkap akan diumumkan dalam waktu dekat."
+  ],
+  "why_it_matters": "Saham dengan porsi publik (free float) sangat kecil harganya lebih mudah digerakkan segelintir pihak. Dengan dikeluarkannya saham-saham ini dari IHSG, pergerakan indeks diharapkan lebih mencerminkan saham yang benar-benar likuid.",
+  "body": [
+   "Bursa Efek Indonesia (BEI) mengumumkan sejumlah keputusan Komite Hidden Shareholder Concentration (HSC) pada Selasa (10/11/2026). Menurut CNBC Indonesia, keputusan itu mencakup pembukaan metodologi kepada publik, perubahan kriteria penyaringan saham, dan penambahan daftar saham HSC secara signifikan.",
+   "Direktur Utama BEI Jeffrey Hendrik mengatakan ada penambahan 300 saham yang masuk kriteria HSC, sehingga totalnya menjadi 383 saham, atau tambahan sekitar 6,16% dari kapitalisasi pasar IHSG. \"Kami akan segera umumkan daftar saham HSC yang terbaru yang akan terdiri dari 383 saham atau ada penambahan 300 saham baru yang akan masuk dalam saham HSC,\" ujarnya di gedung BEI, Jakarta, seperti dikutip CNBC Indonesia.",
+   "Penambahan ini terjadi karena metodologi baru. Ambang batas kapitalisasi saham di atas Rp5 triliun tidak lagi digunakan, sehingga penyaringan dilakukan terhadap seluruh saham tercatat. Metodologi baru juga tidak lagi memperhitungkan price impact ratio, jadi penetapan tidak perlu menunggu pergerakan harga saham. Komite memutuskan saham dengan 10 pemegang saham atau kurang yang bersama-sama menguasai 92,5% saham atau lebih masuk daftar HSC.",
+   "Saham-saham HSC akan dikeluarkan dari perhitungan Indeks Harga Saham Gabungan (IHSG), menurut CNN Indonesia dan ANTARA. Untuk keluar dari daftar, perusahaan tercatat harus menyampaikan ke bursa bahwa sudah ada distribusi saham yang lebih baik ke publik, dan distribusi itu harus dilakukan lewat transaksi pasar reguler. Komite akan meninjau daftar secara berkala.",
+   "Jeffrey menambahkan, pengumuman daftar akan dilakukan dalam waktu dekat agar tim operasional dan penyedia data bisa menyesuaikan daftar saham yang dikeluarkan dari perhitungan IHSG. Ia juga menyatakan bursa akan memakai seluruh ketentuan yang berlaku untuk memberi sanksi jika menemukan laporan yang tidak akurat."
+  ],
+  "analysis": "Bagi investor ritel, daftar HSC bisa jadi alat bantu untuk mengenali saham yang porsi publiknya tipis dan rawan pergerakan harga ekstrem. Cek struktur kepemilikan sebelum membeli saham yang sedang ramai dibicarakan. Ini interpretasi, bukan rekomendasi saham.",
+  "sources": [
+   {
+    "name": "CNBC Indonesia: Bakal Ada 300 Saham HSC Baru, 383 Emiten Keluar dari Perhitungan IHSG",
+    "url": "https://www.cnbcindonesia.com/market/20261110175335-17-784004/bakal-ada-300-saham-hsc-baru-383-emiten-keluar-dari-perhitungan-ihsg",
+    "deep_link": true
+   },
+   {
+    "name": "ANTARA: BEI ubah metodologi HSC, daftar saham bertambah jadi 383",
+    "url": "https://www.antaranews.com/berita/5844923/bei-ubah-metodologi-hsc-daftar-saham-bertambah-jadi-383",
+    "deep_link": true
+   },
+   {
+    "name": "CNN Indonesia: BEI Perketat Penyaringan Saham HSC, 383 Emiten Bakal Dicoret dari IHSG",
+    "url": "https://www.cnnindonesia.com/ekonomi/20261110193054-92-1425597/bei-perketat-penyaringan-saham-hsc-383-emiten-bakal-dicoret-dari-ihsg",
+    "deep_link": true
+   }
+  ],
+  "published_at": "2026-11-11T08:33:00+08:00",
+  "images": [
+   "assets/img/photos/idx_gedung.jpg"
+  ],
+  "image_alt": "Gedung Bursa Efek Indonesia di Jakarta",
+  "image_credits": "Foto: Gedung Bursa Efek Indonesia, Jakarta (Bursa Efek Indonesia, CC BY-SA 4.0, Wikimedia Commons).",
+  "title_en": "IDX changes its HSC stock methodology: list grows by 300 to 383 stocks, to be removed from the JCI calculation",
+  "summary_en": "The Indonesia Stock Exchange (IDX/BEI) has changed how it screens stocks with highly concentrated ownership (Hidden Shareholder Concentration, HSC). All listed stocks are now screened, and stocks of which 92.5% or more is held by 10 or fewer shareholders go on the HSC list. The total number of HSC stocks is now 383.",
+  "key_points_en": [
+   "The HSC Committee's decisions were announced by IDX President Director Jeffrey Hendrik in Jakarta on Tuesday (10/11/2026).",
+   "The threshold of market capitalization above Rp5 trillion is no longer used; screening now covers all listed stocks. The price impact ratio is also no longer taken into account.",
+   "New criterion: 10 or fewer shareholders who together control 92.5% or more of the shares.",
+   "300 stocks were added, bringing the total to 383 HSC stocks (previously 83), an addition of about 6.16% of JCI market capitalization. HSC stocks are removed from the JCI (IHSG) calculation.",
+   "To leave the list, issuers must show better distribution of shares to the public through regular market transactions. The full list will be announced soon."
+  ],
+  "why_en": "Stocks with a very small public portion (free float) are easier for a handful of parties to move. By removing these stocks from the JCI, index movements are expected to better reflect genuinely liquid stocks.",
+  "body_en": [
+   "The Indonesia Stock Exchange (IDX/BEI) announced a number of decisions by its Hidden Shareholder Concentration (HSC) Committee on Tuesday (10/11/2026). According to CNBC Indonesia, the decisions include opening the methodology to the public, changing the stock screening criteria and significantly expanding the HSC list.",
+   "IDX President Director Jeffrey Hendrik said 300 additional stocks meet the HSC criteria, bringing the total to 383 stocks, an addition of about 6.16% of JCI market capitalization. \"We will soon announce the latest HSC list, which will consist of 383 stocks, or an addition of 300 new stocks that will enter the HSC list,\" he said at the IDX building in Jakarta, as quoted by CNBC Indonesia.",
+   "The increase is due to the new methodology. The threshold of market capitalization above Rp5 trillion is no longer used, so screening covers all listed stocks. The new methodology also no longer takes the price impact ratio into account, so designation does not have to wait for share price movements. The committee decided that stocks where 10 or fewer shareholders together control 92.5% or more of the shares go on the HSC list.",
+   "HSC stocks will be removed from the calculation of the Jakarta Composite Index (JCI/IHSG), according to CNN Indonesia and ANTARA. To leave the list, a listed company must notify the exchange that there has been better distribution of shares to the public, and that distribution must be carried out through regular market transactions. The committee will review the list regularly.",
+   "Jeffrey added that the list will be announced soon so that operations teams and data vendors can adjust the list of stocks removed from the JCI calculation. He also said the exchange will use all applicable regulations to impose sanctions if it finds inaccurate reports."
+  ],
+  "analysis_en": "For retail investors, the HSC list can be a tool for spotting stocks with a thin public float that are prone to extreme price moves. Check the ownership structure before buying a stock that everyone is talking about. This is interpretation, not a stock recommendation.",
+  "image_alt_en": "Indonesia Stock Exchange building in Jakarta",
+  "image_credits_en": "Photo: Indonesia Stock Exchange building, Jakarta (Indonesia Stock Exchange, CC BY-SA 4.0, Wikimedia Commons)."
+ },
+ {
+  "slug": "kazakhstan-investasikan-us190-juta-cadangan-crypto-ke-fund-dan-etf",
+  "category": "regulasi",
+  "type": "news",
+  "source_queue": [
+   "square-386814292728910"
+  ],
+  "title": "Kazakhstan sudah tanam US$190 juta dari cadangan crypto negara senilai US$700 juta ke hedge fund dan ETF",
+  "summary": "Wakil Gubernur Bank Nasional Kazakhstan Binur Zhalenov mengatakan sekitar US$190 juta dari cadangan crypto nasional senilai US$700 juta sudah diinvestasikan ke hedge fund dan ETF aset digital per akhir Oktober 2026. Ia juga menyebut Kazakhstan berinvestasi di Anthropic sejak 2025.",
+  "key_points": [
+   "Angka US$190 juta disampaikan Zhalenov dalam wawancara dengan kantor berita Kazinform, yang kemudian diunggah Bank Nasional Kazakhstan.",
+   "Cadangan crypto dibentuk Desember 2025 dengan dua kontribusi masing-masing US$350 juta: dari aset emas dan devisa bank sentral, dan dari National Fund Kazakhstan.",
+   "Menurut Bloomberg (dirangkum Galaxy Research dan crypto.news), sekitar US$100 juta masuk ke fund berfokus crypto, termasuk Ege DeFi dan Brevan Howard Digital, dan sekitar US$90 juta ke aset crypto dan ETF berbasis bitcoin.",
+   "Portofolio dikelola National Investment Corporation, anak usaha Bank Nasional.",
+   "Zhalenov juga menyebut Kazakhstan berinvestasi di Anthropic pada 2025. Menurut Qazinform (Mei 2026), nilainya US$25 juta di putaran Series F."
+  ],
+  "why_it_matters": "Kazakhstan termasuk sedikit negara yang memakai dana cadangan untuk masuk ke crypto, dan memilih jalur produk yang teregulasi seperti fund dan ETF, bukan membeli koin secara langsung. Ini contoh bagaimana lembaga negara mulai mengelola eksposur crypto.",
+  "body": [
+   "Bank Nasional Kazakhstan mulai memutar cadangan crypto negaranya. Dalam wawancara dengan Kazinform yang dipublikasikan 9 November 2026, Wakil Gubernur Binur Zhalenov mengatakan sekitar US$190 juta dari cadangan crypto nasional senilai US$700 juta sudah diinvestasikan ke hedge fund dan exchange-traded fund (ETF) aset digital per akhir Oktober.",
+   "Menurut crypto.news yang mengutip wawancara itu, cadangan tersebut dibentuk pada Desember 2025 dengan kontribusi yang sama besar dari aset emas dan devisa bank sentral serta National Fund Kazakhstan, masing-masing US$350 juta. Portofolio dikelola National Investment Corporation, anak usaha Bank Nasional. Berdasarkan angka yang diungkap, sekitar 27% dana sudah diinvestasikan dan sekitar US$510 juta belum.",
+   "Rinciannya diungkap lebih dulu dalam sebuah konferensi di Almaty. Galaxy Research, merangkum laporan Bloomberg, menyebut sekitar US$100 juta masuk ke fund yang berfokus pada crypto, termasuk Ege DeFi dan Brevan Howard Digital. crypto.news mencatat sekitar US$90 juta lainnya masuk ke aset crypto dan ETF berbasis bitcoin; Bloomberg mengelompokkan keduanya tanpa merinci berapa porsi masing-masing.",
+   "Zhalenov juga menyebut Kazakhstan berinvestasi di Anthropic, pengembang AI Claude, pada 2025, dan valuasi perusahaan itu sudah naik berkali-kali lipat sejak itu. Menurut Qazinform pada Mei 2026, National Investment Corporation ikut putaran pendanaan Series F Anthropic di akhir 2025 dengan nilai US$25 juta, saat Anthropic dinilai sekitar US$183 miliar.",
+   "Menurut laporan yang sama, cadangan ini nantinya juga akan ditambah dengan aset digital yang disita berdasarkan putusan pengadilan dan dari penambangan strategis, namun perubahan hukum untuk keduanya masih disiapkan."
+  ],
+  "analysis": "Langkah ini menunjukkan pola yang juga dicatat Galaxy Research: lembaga negara dan pengelola dana jangka panjang masuk ke crypto lewat jalur teregulasi. Nilainya masih kecil dibanding pasar crypto, jadi dampak langsung ke harga kemungkinan terbatas. Ini interpretasi, bukan prediksi harga.",
+  "sources": [
+   {
+    "name": "VRK News: National Bank: 190 million dollars of crypto reserve put into hedge funds and ETFs",
+    "url": "https://vrknews.kz/en/36094-20261110-051145",
+    "deep_link": true
+   },
+   {
+    "name": "crypto.news: Kazakhstan invests $190M from its $700M crypto reserve",
+    "url": "https://crypto.news/kazakhstan-crypto-reserve-190-million-funds-etfs/",
+    "deep_link": true
+   },
+   {
+    "name": "Galaxy Research: Kazakhstan Allocates $100m to Crypto Funds",
+    "url": "https://www.galaxy.com/insights/research/kazakhstan-crypto-funds-bitcoin-etfs",
+    "deep_link": true
+   },
+   {
+    "name": "Qazinform: Kazakhstan becomes shareholder in AI giant Anthropic (Mei 2026)",
+    "url": "https://qazinform.com/news/kazakhstan-becomes-shareholder-in-ai-giant-anthropic-2d57b1",
+    "deep_link": true
+   }
+  ],
+  "published_at": "2026-11-11T08:32:00+08:00",
+  "images": [
+   "assets/img/photos/nbk_almaty.jpg"
+  ],
+  "image_alt": "Gedung Bank Nasional Republik Kazakhstan di Almaty",
+  "image_credits": "Foto: gedung Bank Nasional Republik Kazakhstan di Almaty (МаратД, CC BY-SA 4.0, Wikimedia Commons).",
+  "title_en": "Kazakhstan has put US$190 million of its US$700 million state crypto reserve into hedge funds and ETFs",
+  "summary_en": "National Bank of Kazakhstan Deputy Governor Binur Zhalenov said about US$190 million of the US$700 million national crypto reserve had been invested in digital-asset hedge funds and ETFs by the end of October 2026. He also said Kazakhstan has been invested in Anthropic since 2025.",
+  "key_points_en": [
+   "The US$190 million figure was given by Zhalenov in an interview with the Kazinform news agency, which was then posted by the National Bank of Kazakhstan.",
+   "The crypto reserve was set up in December 2025 with two contributions of US$350 million each: from the central bank's gold and foreign exchange assets, and from Kazakhstan's National Fund.",
+   "According to Bloomberg (summarized by Galaxy Research and crypto.news), about US$100 million went into crypto-focused funds, including Ege DeFi and Brevan Howard Digital, and about US$90 million into crypto assets and bitcoin-focused ETFs.",
+   "The portfolio is managed by the National Investment Corporation, a subsidiary of the National Bank.",
+   "Zhalenov also said Kazakhstan invested in Anthropic in 2025. According to Qazinform (May 2026), the amount was US$25 million in the Series F round."
+  ],
+  "why_en": "Kazakhstan is one of only a few countries using reserve funds to enter crypto, and it has chosen regulated products such as funds and ETFs rather than buying coins directly. It is an example of how state institutions are starting to manage crypto exposure.",
+  "body_en": [
+   "The National Bank of Kazakhstan has started putting its state crypto reserve to work. In an interview with Kazinform published on 9 November 2026, Deputy Governor Binur Zhalenov said about US$190 million of the US$700 million national crypto reserve had been invested in digital-asset hedge funds and exchange-traded funds (ETFs) by the end of October.",
+   "According to crypto.news, citing the interview, the reserve was set up in December 2025 with equal contributions from the central bank's gold and foreign exchange assets and Kazakhstan's National Fund, US$350 million each. The portfolio is managed by the National Investment Corporation, a subsidiary of the National Bank. Based on the disclosed figures, about 27% of the funds have been invested and about US$510 million have not.",
+   "Details were disclosed earlier at a conference in Almaty. Galaxy Research, summarizing a Bloomberg report, said about US$100 million went into crypto-focused funds, including Ege DeFi and Brevan Howard Digital. crypto.news noted that another roughly US$90 million went into crypto assets and bitcoin-focused ETFs; Bloomberg grouped the two without specifying how much went to each.",
+   "Zhalenov also said Kazakhstan invested in Anthropic, the developer of the Claude AI, in 2025, and that the company's valuation has since risen several times over. According to Qazinform in May 2026, the National Investment Corporation joined Anthropic's Series F funding round in late 2025 with US$25 million, when Anthropic was valued at about US$183 billion.",
+   "According to the same reports, the reserve will later also be topped up with digital assets confiscated by court order and from strategic mining, but the legal changes for both are still being prepared."
+  ],
+  "analysis_en": "This move reflects a pattern also noted by Galaxy Research: state institutions and long-term fund managers entering crypto through regulated channels. The amount is still small relative to the crypto market, so the direct impact on prices is likely limited. This is interpretation, not a price prediction.",
+  "image_alt_en": "National Bank of the Republic of Kazakhstan building in Almaty",
+  "image_credits_en": "Photo: National Bank of the Republic of Kazakhstan building in Almaty (МаратД, CC BY-SA 4.0, Wikimedia Commons)."
+ },
+ {
+  "slug": "securitize-q3-2026-akuisisi-river-one-buyback-us50-juta",
+  "category": "teknologi",
+  "type": "news",
+  "title": "Securitize, platform tokenisasi aset, akuisisi River One dan umumkan buyback US$50 juta; saham melonjak 41%",
+  "summary": "Securitize (NYSE: SECZ) melaporkan pendapatan kuartal III 2026 sebesar US$18,6 juta, naik 13%, dengan rugi bersih US$66,3 juta yang sebagian besar berasal dari biaya non-tunai terkait pencatatan saham. Perusahaan juga akan mengakuisisi River One dan mengumumkan program pembelian kembali saham US$50 juta.",
+  "key_points": [
+   "Pendapatan kuartal III naik 13% secara tahunan menjadi US$18,6 juta, tertinggi kedua dalam sejarah perusahaan, menurut siaran pers resmi 9 November 2026.",
+   "Rugi bersih US$66,3 juta; sekitar US$60 juta di antaranya biaya yang sebagian besar non-tunai terkait merger dan pencatatan saham. EBITDA yang disesuaikan rugi US$2,0 juta.",
+   "Aset tertokenisasi di platform rata-rata US$5,0 miliar di kuartal III (naik 39%), dan US$4,8 miliar per 30 September.",
+   "Securitize akan mengakuisisi River One, platform pembiayaan berbasis aset (asset-backed financing) yang menghubungkan modal stablecoin dengan pasar pinjaman tradisional. Nilai transaksi tidak diungkap.",
+   "Menurut CoinDesk, saham SECZ naik 41% ke US$9,86 pada Selasa setelah Citigroup menaikkan rekomendasi menjadi buy."
+  ],
+  "why_it_matters": "Tokenisasi, yaitu menaruh aset seperti dana investasi dan saham di blockchain, jadi salah satu tema besar crypto institusional. Kinerja Securitize, salah satu perusahaan tokenisasi yang sudah melantai di bursa, sering dipakai sebagai gambaran perkembangan sektor ini.",
+  "body": [
+   "Securitize Corp. (NYSE: SECZ), platform tokenisasi aset yang berbasis di Miami, merilis laporan keuangan kuartal III 2026 pada Senin (9/11/2026). Menurut siaran pers resmi, pendapatan total naik 13% dibanding periode yang sama tahun lalu menjadi US$18,6 juta, angka kuartalan tertinggi kedua dalam sejarah perusahaan.",
+   "Perusahaan membukukan rugi bersih US$66,3 juta, atau US$0,41 per saham. Sekitar US$60 juta dari rugi itu, sekitar 90%, adalah biaya yang sebagian besar non-tunai dan beban akuntansi, terutama terkait merger dan pencatatan saham di bursa. EBITDA yang disesuaikan rugi US$2,0 juta, dibanding positif US$3,6 juta setahun sebelumnya. Securitize menyebut punya kas sekitar US$300 juta tanpa utang di akhir kuartal.",
+   "Dari sisi bisnis, rata-rata aset tertokenisasi di platform mencapai rekor US$5,0 miliar pada kuartal III, naik 39%, dengan total US$4,8 miliar per 30 September. Volume transaksi naik 20% menjadi US$4,3 miliar. Namun aset yang diadministrasikan oleh unit Securitize Fund Services turun 29% menjadi US$25,2 miliar.",
+   "Securitize juga mengumumkan perjanjian definitif untuk mengakuisisi River One (River Credit Labs Inc.), platform pembiayaan berbasis aset untuk institusi yang mengembangkan teknologi untuk menghubungkan modal stablecoin dengan pasar pinjaman tradisional. River One diinkubasi Framework Ventures dan didukung Maple Finance. Nilai transaksi tidak diungkap, dan penyelesaian diperkirakan pada kuartal IV 2026. Dewan direksi juga menyetujui program pembelian kembali saham hingga US$50 juta yang berlaku sampai 31 Desember 2027.",
+   "Menurut CNBC, saham Securitize naik sekitar 10% di perdagangan setelah jam bursa pada Senin. Pada Selasa, menurut CoinDesk, saham SECZ melonjak 41% ke US$9,86 setelah Citigroup menaikkan rekomendasinya dari neutral menjadi buy dengan target harga US$14, meski masih turun 17% dalam sebulan terakhir."
+  ],
+  "analysis": "Lonjakan saham ini terjadi setelah penurunan besar sejak akhir September, jadi volatilitasnya tinggi. Langkah ke pembiayaan berbasis aset dengan modal stablecoin menunjukkan perusahaan tokenisasi mencari sumber pendapatan baru di luar biaya penerbitan token. Ini interpretasi, bukan rekomendasi saham.",
+  "sources": [
+   {
+    "name": "Securitize: Securitize Reports Third Quarter 2026 Results (siaran pers resmi)",
+    "url": "https://investors.securitize.io/news/news-details/2026/Securitize-Reports-Third-Quarter-2026-Results/default.aspx",
+    "deep_link": true
+   },
+   {
+    "name": "Securitize: Securitize to Acquire River One (siaran pers resmi)",
+    "url": "https://investors.securitize.io/news/news-details/2026/Securitize-to-Acquire-River-One-Connecting-Stablecoin-Capital-to-the-6-Trillion-Asset-Backed-Finance-Market/default.aspx",
+    "deep_link": true
+   },
+   {
+    "name": "CNBC: Tokenization platform Securitize gains 10% postmarket on Q3 results",
+    "url": "https://www.cnbc.com/2026/11/09/tokenization-platform-securitize-reports-gains-expands-into-asset-backed-finance.html",
+    "deep_link": true
+   },
+   {
+    "name": "CoinDesk: Securitize pushes into $6 trillion asset-backed finance market",
+    "url": "https://www.coindesk.com/business/2026/11/09/securitize-pushes-into-usd6-trillion-asset-backed-finance-market-with-river-one-acquisition",
+    "deep_link": true
+   },
+   {
+    "name": "CoinDesk (live): Securitize soars 41% following Q3 results, Citi upgrade",
+    "url": "https://www.coindesk.com/markets/2026/11/10/live-news-traders-price-in-fed-rate-hike-for-december-as-bitcoin-and-gold-retreat",
+    "deep_link": true
+   }
+  ],
+  "published_at": "2026-11-11T08:31:00+08:00",
+  "images": [
+   "assets/img/photos/nyse.jpg"
+  ],
+  "image_alt": "Fasad gedung New York Stock Exchange di Wall Street",
+  "image_credits": "Foto: New York Stock Exchange (Arild Vågen, CC BY-SA 4.0, Wikimedia Commons). Foto ilustrasi.",
+  "title_en": "Tokenization platform Securitize to acquire River One, announces US$50 million buyback; shares jump 41%",
+  "summary_en": "Securitize (NYSE: SECZ) reported Q3 2026 revenue of US$18.6 million, up 13%, with a net loss of US$66.3 million that came mostly from non-cash costs related to its listing. The company will also acquire River One and announced a US$50 million share buyback program.",
+  "key_points_en": [
+   "Q3 revenue rose 13% year on year to US$18.6 million, the second highest in the company's history, according to the official press release of 9 November 2026.",
+   "Net loss was US$66.3 million; about US$60 million of it was largely non-cash costs related to its business combination and listing. Adjusted EBITDA was a loss of US$2.0 million.",
+   "Tokenized assets on the platform averaged US$5.0 billion in Q3 (up 39%), and stood at US$4.8 billion as of 30 September.",
+   "Securitize will acquire River One, an asset-backed financing platform that connects stablecoin capital with traditional lending markets. Terms were not disclosed.",
+   "According to CoinDesk, SECZ shares rose 41% to US$9.86 on Tuesday after Citigroup upgraded them to buy."
+  ],
+  "why_en": "Tokenization, putting assets such as investment funds and stocks on a blockchain, has become one of the big themes of institutional crypto. The performance of Securitize, one of the listed tokenization companies, is often used as a gauge of how the sector is developing.",
+  "body_en": [
+   "Securitize Corp. (NYSE: SECZ), a Miami-based asset tokenization platform, released its Q3 2026 results on Monday (9/11/2026). According to the official press release, total revenue rose 13% from the same period a year earlier to US$18.6 million, the second-highest quarterly figure in the company's history.",
+   "The company booked a net loss of US$66.3 million, or US$0.41 per share. About US$60 million of that loss, around 90%, consisted of largely non-cash expenses and accounting charges, mainly related to its business combination and public listing. Adjusted EBITDA was a loss of US$2.0 million, compared with a positive US$3.6 million a year earlier. Securitize said it had about US$300 million in cash and no debt at the end of the quarter.",
+   "On the business side, average tokenized assets on the platform reached a record US$5.0 billion in Q3, up 39%, with a total of US$4.8 billion as of 30 September. Transaction volume rose 20% to US$4.3 billion. However, assets under administration at its Securitize Fund Services unit fell 29% to US$25.2 billion.",
+   "Securitize also announced a definitive agreement to acquire River One (River Credit Labs Inc.), an institutional asset-backed financing platform developing technology to connect stablecoin capital with traditional lending markets. River One was incubated by Framework Ventures and backed by Maple Finance. Terms were not disclosed, and the deal is expected to close in Q4 2026. The board also authorized a share repurchase program of up to US$50 million running until 31 December 2027.",
+   "According to CNBC, Securitize shares rose about 10% in after-hours trading on Monday. On Tuesday, according to CoinDesk, SECZ shares jumped 41% to US$9.86 after Citigroup upgraded the stock from neutral to buy with a US$14 price target, although it was still down 17% over the past month."
+  ],
+  "analysis_en": "This jump came after a steep decline since late September, so volatility is high. The move into asset-backed financing with stablecoin capital shows tokenization companies looking for new revenue sources beyond token issuance fees. This is interpretation, not a stock recommendation.",
+  "image_alt_en": "Facade of the New York Stock Exchange building on Wall Street",
+  "image_credits_en": "Photo: New York Stock Exchange (Arild Vågen, CC BY-SA 4.0, Wikimedia Commons). Illustrative photo."
  }
 ]
