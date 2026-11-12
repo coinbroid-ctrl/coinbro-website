@@ -2919,5 +2919,485 @@
   "analysis_en": "For users of local crypto exchanges, the rupiah exchange rate is the second factor after global crypto prices. When the dollar strengthens, the Bitcoin price in rupiah can fall less than the dollar price. The projections above for stocks affected by MSCI are analyst estimates, and the official results will only be known Thursday morning. This is interpretation, not investment advice.",
   "image_alt_en": "Rp50,000 banknotes",
   "image_credits_en": "Photos: Rp50,000 banknotes (Jonny-mt, CC BY 3.0); Indonesia Stock Exchange building, Jakarta (Indonesia Stock Exchange, CC BY-SA 4.0). Via Wikimedia Commons. Illustrative photos."
+ },
+ {
+  "slug": "msci-resmi-coret-strategy-mstr-dari-msci-usa-barclays-citigroup-tambah-etf-bitcoin-13f",
+  "category": "bitcoin",
+  "type": "news",
+  "source_queue": [
+   "square-387254387460035",
+   "square-387116092840047"
+  ],
+  "published_at": "2026-11-12T08:45:00+08:00",
+  "title": "MSCI resmi coret Strategy (MSTR) dari MSCI USA Index mulai 30 November; laporan 13F: Barclays dan Citigroup tambah ETF Bitcoin",
+  "summary": "Hasil index review November 2026 dari MSCI resmi mengeluarkan Strategy, pemegang Bitcoin korporat terbesar, dari MSCI USA Index, berlaku per penutupan 30 November. Di sisi lain, laporan 13F kuartal III menunjukkan Barclays menambah kepemilikan ETF Bitcoin BlackRock (IBIT) 48% dan Citigroup membuka posisi baru di ETF Bitcoin Fidelity (FBTC).",
+  "key_points": [
+   "MSCI mengumumkan hasil index review November 2026 pada 11 November (waktu Eropa/AS, Kamis pagi 12 November WITA). \"STRATEGY A\" (MSTR) masuk daftar deletion MSCI USA Index, salah satu dari 24 saham AS yang dicoret dari indeks standar global MSCI.",
+   "Semua perubahan berlaku per penutupan 30 November 2026 (sekitar 05.00 WITA 1 Desember). Ini review pertama sejak MSCI mengadopsi aturan baru soal \"non-operating companies\" bulan lalu, yang menilai aset operasional dan lima ukuran keuangan perusahaan (The Block).",
+   "Metaplanet (Jepang) dan Yellow Cake (Inggris, pembeli uranium) juga ada di daftar yang dicoret (Reuters, The Block). Menurut Reuters, saham Strategy turun 2,5% di perdagangan setelah jam bursa.",
+   "Dicoret dari indeks bukan berarti saham Strategy di-delist dari bursa, dan tidak mewajibkan Strategy menjual bitcoin. Strategy sebelumnya menyebut dana yang melacak indeks MSCI GIMI hanya memegang 3,1% saham dasarnya yang beredar. Per 8 November, Strategy memegang 850.364 BTC (Form 8-K).",
+   "Laporan 13F (posisi per 30 September 2026): Barclays memegang sekitar 3,94 juta saham IBIT senilai sekitar US$187 juta, naik 48% dari 2,66 juta saham (US$88,5 juta) per 30 Juni. Citigroup membuka posisi baru di FBTC senilai sekitar US$119 juta dan menaikkan kepemilikan IBIT sekitar 50% menjadi sekitar 521 ribu saham."
+  ],
+  "why_it_matters": "Dana pasif yang mengikuti indeks MSCI harus menyesuaikan kepemilikan saham Strategy, sehingga bisa ada tekanan jual pada saham MSTR menjelang 30 November. Sementara itu, data 13F menunjukkan bank-bank besar tetap menambah eksposur Bitcoin lewat ETF, walau data ini adalah posisi akhir September, sebelum harga turun dan ETF mengalami outflow.",
+  "body": [
+   "MSCI, penyedia indeks saham global, merilis hasil index review November 2026 pada Rabu, 11 November waktu setempat, atau Kamis pagi 12 November WITA. Dalam daftar resmi MSCI Global Standard Indexes, \"STRATEGY A\" tercantum di kolom deletion MSCI USA Index, bersama 23 saham AS lain. MSCI juga mencoret Strategy dari MSCI US Prime Market 750 Index dalam daftar indeks AS-nya. Semua perubahan berlaku per penutupan perdagangan 30 November 2026, sekitar pukul 05.00 WITA 1 Desember.",
+   "Ini adalah review pertama setelah MSCI mengadopsi aturan baru untuk perusahaan yang dianggap \"non-operating\" bulan lalu. Menurut The Block, aturan ini melihat aset operasional perusahaan dan lima ukuran keuangan, menggantikan pembatasan sementara untuk perusahaan yang setidaknya separuh asetnya berupa crypto. Reuters melaporkan MSCI menilai perusahaan-perusahaan tersebut lebih mirip dana investasi, yang memang dikecualikan dari indeksnya. Dokumen MSCI sendiri tidak memberikan alasan per perusahaan.",
+   "Strategy tidak sendirian. Metaplanet, perusahaan treasury Bitcoin asal Jepang, dicoret dari MSCI Japan Small Cap Index, dan Yellow Cake, perusahaan pembeli uranium asal Inggris, juga masuk daftar yang dikeluarkan. Reuters mencatat saham Strategy turun 2,5% di perdagangan setelah jam bursa pada Rabu.",
+   "Penting dipahami: dikeluarkan dari indeks tidak sama dengan delisting dari bursa, dan tidak ada aturan yang mewajibkan Strategy menjual bitcoin. Yang terdampak adalah dana pasif yang mengikuti indeks MSCI, karena mereka perlu menyesuaikan kepemilikan saham MSTR. Dalam tanggapannya atas konsultasi MSCI, Strategy menyebut pendekatan MSCI \"misguided\" (keliru) dan mengatakan proposal itu \"would not meaningfully affect Strategy\" (tidak akan berdampak berarti bagi Strategy), karena dana yang melacak indeks MSCI GIMI hanya memegang 3,1% saham dasarnya yang beredar. Menurut Form 8-K ke SEC tanggal 9 November, Strategy memegang 850.364 BTC per 8 November 2026.",
+   "Kabar lain dari Wall Street datang lewat laporan 13F, yaitu laporan kepemilikan saham manajer investasi institusi ke SEC. Menurut laporan Barclays (diajukan 6 November) yang dikutip Cointelegraph, Barclays memegang sekitar 3,94 juta saham iShares Bitcoin Trust (IBIT) senilai sekitar US$187 juta per 30 September, naik 48% dari 2,66 juta saham senilai US$88,5 juta per 30 Juni. Citigroup (laporan diajukan 4 November) membuka posisi baru di Fidelity Wise Origin Bitcoin Fund (FBTC) senilai sekitar US$119 juta, dan kepemilikan IBIT-nya naik 50% menjadi sekitar 521 ribu saham dari 347 ribu saham.",
+   "Analis PrimeXBT Jonatan Randin, kepada Cointelegraph, mengingatkan bahwa kenaikan nilai dolar tidak selalu berarti pembelian baru, karena harga IBIT sendiri naik sekitar 41% di kuartal III. Data 13F juga hanya memotret posisi per 30 September, sebelum Bitcoin turun dan ETF Bitcoin spot AS mencatat outflow di kuartal IV."
+  ],
+  "analysis": "Keputusan MSCI sudah lama diantisipasi pasar, jadi dampaknya lebih ke arus dana pasif di saham MSTR menjelang 30 November, bukan ke Bitcoin secara langsung. Data 13F memberi gambaran minat bank terhadap ETF Bitcoin, tetapi sebagian posisi bank bisa terkait kebutuhan klien atau trading, bukan taruhan arah harga. Ini interpretasi, bukan saran investasi.",
+  "sources": [
+   {
+    "name": "MSCI: Global Standard Indexes, hasil review November 2026 (PDF)",
+    "url": "https://www.msci.com/eqb/gimi/stdindex/MSCI_Nov26_STPublicList.pdf",
+    "deep_link": true
+   },
+   {
+    "name": "MSCI: US Equity Indexes, hasil review November 2026 (PDF)",
+    "url": "https://app2.msci.com/eqb/us/MSCI_Nov26_USPublicList.pdf",
+    "deep_link": true
+   },
+   {
+    "name": "MSCI: Press release November 2026 Index Review (PDF)",
+    "url": "https://www.msci.com/eqb/pressreleases/archive/MSCI_Nov26_QIRPR.pdf",
+    "deep_link": true
+   },
+   {
+    "name": "Reuters via Investing.com: MSCI to drop Strategy from global indexes",
+    "url": "https://www.investing.com/news/stock-market-news/msci-to-drop-strategy-from-global-indexes-putting-billions-in-passive-fund-inflows-at-risk-5020015",
+    "deep_link": true
+   },
+   {
+    "name": "The Block: Strategy, Metaplanet lose MSCI index membership",
+    "url": "https://www.theblock.co/news/markets/2026-11-11-strategy-metaplanet-lose-msci-index-membership-november-reshuffle-438437",
+    "deep_link": true
+   },
+   {
+    "name": "Strategy: Response to MSCI's Consultation",
+    "url": "https://www.strategy.com/msci",
+    "deep_link": true
+   },
+   {
+    "name": "SEC: Form 8-K Strategy (9 Nov 2026)",
+    "url": "https://www.sec.gov/Archives/edgar/data/1050446/000119312526452693/mstr-20261109.htm",
+    "deep_link": true
+   },
+   {
+    "name": "Cointelegraph: Barclays boosts BlackRock Bitcoin ETF stake 48%",
+    "url": "https://cointelegraph.com/news/barclays-blackrock-ibit-boost-key-q3-filings",
+    "deep_link": true
+   },
+   {
+    "name": "SEC EDGAR: 13F Barclays PLC (Q3 2026)",
+    "url": "https://www.sec.gov/Archives/edgar/data/312069/000031206926000241/0000312069-26-000241-index.htm",
+    "deep_link": true
+   },
+   {
+    "name": "SEC EDGAR: 13F Citigroup Inc. (Q3 2026)",
+    "url": "https://www.sec.gov/Archives/edgar/data/831001/000083100126000052/0000831001-26-000052-index.htm",
+    "deep_link": true
+   }
+  ],
+  "images": [
+   "assets/img/photos/saylor.jpg",
+   "assets/img/photos/hold.jpg"
+  ],
+  "image_alt": "Michael Saylor berbicara di konferensi Bitcoin 2025",
+  "image_credits": "Foto: Michael Saylor di Bitcoin 2025, Las Vegas, Mei 2025 (Gage Skidmore, CC BY-SA 2.0); koin Bitcoin (Satheesh Sankaran, CC BY 2.0). Via Wikimedia Commons. Foto ilustrasi.",
+  "title_en": "MSCI officially removes Strategy (MSTR) from the MSCI USA Index from 30 November; 13F filings: Barclays and Citigroup add Bitcoin ETFs",
+  "summary_en": "MSCI's November 2026 index review officially removes Strategy, the largest corporate Bitcoin holder, from the MSCI USA Index, effective at the close of 30 November. Separately, Q3 13F filings show Barclays increased its holding of BlackRock's Bitcoin ETF (IBIT) by 48% and Citigroup opened a new position in Fidelity's Bitcoin ETF (FBTC).",
+  "key_points_en": [
+   "MSCI announced its November 2026 index review results on 11 November (European/US time; Thursday morning 12 November WITA). \"STRATEGY A\" (MSTR) is on the MSCI USA Index deletion list, one of 24 US stocks removed from MSCI's global standard indexes.",
+   "All changes take effect at the close of 30 November 2026 (around 05:00 WITA on 1 December). This is the first review since MSCI adopted new rules on \"non-operating companies\" last month, which assess a company's operating assets and five financial measures (The Block).",
+   "Metaplanet (Japan) and Yellow Cake (UK uranium buyer) are also on the removal list (Reuters, The Block). According to Reuters, Strategy shares fell 2.5% in after-hours trading.",
+   "Removal from an index does not mean Strategy's stock is delisted from the exchange, and it does not require Strategy to sell bitcoin. Strategy has previously said funds tracking the MSCI GIMI indexes hold only 3.1% of its basic shares outstanding. As of 8 November, Strategy held 850,364 BTC (Form 8-K).",
+   "13F filings (positions as of 30 September 2026): Barclays held about 3.94 million IBIT shares worth about US$187 million, up 48% from 2.66 million shares (US$88.5 million) as of 30 June. Citigroup opened a new FBTC position worth about US$119 million and raised its IBIT holding by about 50% to about 521,000 shares."
+  ],
+  "why_en": "Passive funds that track MSCI indexes must adjust their Strategy holdings, so there could be selling pressure on MSTR shares ahead of 30 November. Meanwhile, the 13F data show big banks kept adding Bitcoin exposure through ETFs, although these are end-September positions, before prices fell and ETFs saw outflows.",
+  "body_en": [
+   "MSCI, the global stock index provider, released its November 2026 index review results on Wednesday, 11 November local time, or Thursday morning 12 November WITA. In MSCI's official Global Standard Indexes list, \"STRATEGY A\" appears in the MSCI USA Index deletion column, alongside 23 other US stocks. MSCI also removed Strategy from the MSCI US Prime Market 750 Index in its US index list. All changes take effect at the close of trading on 30 November 2026, around 05:00 WITA on 1 December.",
+   "This is the first review since MSCI adopted new rules for companies deemed \"non-operating\" last month. According to The Block, the rules look at a company's operating assets and five financial measures, replacing temporary restrictions on firms with at least half of their assets in crypto. Reuters reported that MSCI considers such companies to more closely resemble investment funds, which are excluded from its indexes. MSCI's documents themselves give no company-specific reasons.",
+   "Strategy is not alone. Metaplanet, a Japanese Bitcoin treasury company, was removed from the MSCI Japan Small Cap Index, and Yellow Cake, a UK uranium-buying company, is also on the removal list. Reuters noted Strategy shares fell 2.5% in after-hours trading on Wednesday.",
+   "It is important to understand: removal from an index is not the same as delisting from the exchange, and no rule requires Strategy to sell bitcoin. Those affected are passive funds tracking MSCI indexes, because they need to adjust their MSTR holdings. In its response to MSCI's consultation, Strategy called MSCI's approach \"misguided\" and said the proposal \"would not meaningfully affect Strategy\", because funds tracking the MSCI GIMI indexes hold only 3.1% of its basic shares outstanding. According to a Form 8-K filed with the SEC on 9 November, Strategy held 850,364 BTC as of 8 November 2026.",
+   "Other news from Wall Street came via 13F filings, the holdings reports institutional investment managers file with the SEC. According to Barclays' filing (submitted 6 November) as cited by Cointelegraph, Barclays held about 3.94 million shares of the iShares Bitcoin Trust (IBIT) worth about US$187 million as of 30 September, up 48% from 2.66 million shares worth US$88.5 million as of 30 June. Citigroup (filing submitted 4 November) opened a new position in the Fidelity Wise Origin Bitcoin Fund (FBTC) worth about US$119 million, and its IBIT holding rose 50% to about 521,000 shares from 347,000.",
+   "PrimeXBT analyst Jonatan Randin, speaking to Cointelegraph, cautioned that a rise in dollar value does not necessarily mean new buying, since IBIT's own price rose about 41% in Q3. The 13F data also only capture positions as of 30 September, before Bitcoin fell and US spot Bitcoin ETFs recorded outflows in Q4."
+  ],
+  "analysis_en": "MSCI's decision had long been anticipated by the market, so its impact is more on passive fund flows in MSTR shares ahead of 30 November, not on Bitcoin directly. The 13F data give a picture of banks' interest in Bitcoin ETFs, but some bank positions may relate to client needs or trading rather than directional price bets. This is interpretation, not investment advice.",
+  "image_alt_en": "Michael Saylor speaking at the Bitcoin 2025 conference",
+  "image_credits_en": "Photos: Michael Saylor at Bitcoin 2025, Las Vegas, May 2025 (Gage Skidmore, CC BY-SA 2.0); Bitcoin coin (Satheesh Sankaran, CC BY 2.0). Via Wikimedia Commons. Illustrative photos."
+ },
+ {
+  "slug": "glassnode-suplai-stablecoin-turun-us14-2-miliar-k33-leverage-btc-ecb-pemegang-stablecoin-hyperwave-tutup",
+  "category": "bitcoin",
+  "type": "news",
+  "source_queue": [
+   "square-387160442756161",
+   "square-387145443041773",
+   "square-387130603966627",
+   "square-387122381587548"
+  ],
+  "published_at": "2026-11-12T08:44:00+08:00",
+  "title": "Glassnode: suplai stablecoin turun US$14,2 miliar dalam 30 hari, K33: leverage futures BTC dekati level ekstrem; ECB: lebih dari sepertiga pemegang crypto zona euro punya stablecoin",
+  "summary": "Tiga laporan riset menggambarkan pasar crypto yang sedang kekurangan dana segar: suplai stablecoin menyusut paling cepat sejak Juni 2022 (Glassnode), sementara open interest futures Bitcoin berada di level tertinggi dua tahun (K33). ECB merilis data baru soal siapa yang memegang stablecoin di zona euro. Protokol DeFi Hyperwave juga mengumumkan akan tutup 16 Desember.",
+  "key_points": [
+   "Glassnode (laporan 11 Nov, data sampai 9 Nov): total suplai stablecoin turun US$14,2 miliar dalam 30 hari, penyusutan tercepat sejak Juni 2022. ETF Bitcoin spot AS mencatat net outflow US$1,6 miliar dalam 20 sesi terakhir, dan Coinbase Premium (rata-rata 30 hari) berada di diskon terdalam sejak Februari.",
+   "K33 Research (9 Nov): open interest perpetual futures BTC 353.000 BTC, persentil ke-99 dari data dua tahun terakhir. Dalam 30 hari open interest naik 12% sementara BTC turun 10%; funding rate rata-rata 8,4% per tahun dalam sepekan.",
+   "K33 menilai posisi pasar kurang condong ke satu arah, sehingga volatilitas bisa terjadi ke dua arah: likuidasi long jika harga jebol, atau short covering jika harga pulih. BTC saat itu di sekitar US$73.137, dekat rekor Maret 2024 di US$73.800.",
+   "ECB (Economic Bulletin, 11 Nov): survei rumah tangga di 11 negara terbesar zona euro menunjukkan 13% konsumen punya crypto per Agustus 2025 (naik dari 9,8% pada November 2024), dan 5% punya stablecoin, lebih dari sepertiga pemegang crypto. Di antara pemegang crypto, 17% punya USDT, 12% USDC, dan 10% EURC.",
+   "Hyperwave, protokol yield di ekosistem Hyperliquid, mengumumkan penutupan terencana pada 16 Desember 2026 karena biaya operasional dan ketidakpastian regulasi. Semua vault kini hanya bisa ditarik (withdrawal-only); ini bukan hack."
+  ],
+  "why_it_matters": "Stablecoin sering disebut \"uang tunai\" pasar crypto. Saat suplainya menyusut dan ETF mencatat outflow, dana untuk mendorong kenaikan harga ikut berkurang. Di saat yang sama, leverage yang tinggi membuat pergerakan harga bisa membesar ke dua arah, yang berisiko bagi trader yang memakai pinjaman.",
+  "body": [
+   "Laporan mingguan Glassnode \"The Week On-chain\" edisi 11 November berjudul \"Running on Empty\" menyoroti modal yang meninggalkan pasar. Menurut Glassnode, total suplai stablecoin turun US$14,2 miliar dalam 30 hari terakhir, penyusutan tercepat sejak Juni 2022. Artinya, pemegang menukarkan stablecoin kembali ke dolar dan menarik uangnya dari pasar. Glassnode menilai, jika perubahan suplai 30 hari kembali tumbuh, itu akan menjadi tanda pertama uang baru masuk.",
+   "Glassnode juga mencatat ETF Bitcoin spot AS mengalami net outflow US$1,6 miliar dalam 20 sesi terakhir (data sampai 9 November), meski periode outflow ini masih tergolong dangkal dibanding periode-periode sebelumnya. Coinbase Premium, selisih harga BTC di Coinbase dibanding harga global yang sering dipakai sebagai tanda minat pembeli AS, rata-rata 30 harinya negatif sejak puncak September dan kini berada di diskon terdalam sejak Februari.",
+   "Dari sisi derivatif, K33 Research dalam catatan mingguan 9 November berjudul \"Ripe for a squeeze\" melaporkan open interest (total posisi terbuka) di perpetual futures Bitcoin sebesar 353.000 BTC, berada di persentil ke-99 dari observasi dua tahun terakhir. Dalam 30 hari, open interest naik 12% padahal harga BTC turun 10%. Funding rate tahunan rata-rata 8,4% dalam sepekan terakhir, menandakan permintaan posisi long masih ada.",
+   "K33 menilai posisi saat ini kurang condong ke satu arah, sehingga pergerakan besar bisa terjadi ke atas maupun ke bawah: jika harga jebol, bisa memicu likuidasi long dalam jumlah besar; jika harga pulih, bisa memicu short covering. Saat riset ditulis, BTC diperdagangkan di sekitar US$73.137, dekat rekor Maret 2024 di US$73.800 yang disebut K33 sebagai area support penting. Korelasi 30 hari BTC dengan Nasdaq naik mendekati rekor di sekitar 0,75.",
+   "Sementara itu, Bank Sentral Eropa (ECB) menerbitkan analisis \"Who holds stablecoins?\" di Economic Bulletin 11 November. Berdasarkan Consumer Expectations Survey (Agustus dan November 2025) di 11 negara terbesar zona euro, porsi konsumen yang punya crypto naik dari 9,8% (November 2024) menjadi 13% (Agustus 2025). Sebanyak 5% konsumen memegang stablecoin, lebih dari sepertiga dari semua pemegang crypto. Stablecoin dolar AS mendominasi: di antara pemegang crypto, 17% punya USDT, 12% USDC, dan 10% EURC. Hampir 10% pemilik stablecoin diperkirakan memegang €10.000 atau lebih. ECB menilai risikonya saat ini masih terbatas, tetapi bisa berubah jika adopsi meluas, dan menyebut datanya masih eksperimental.",
+   "Di dunia DeFi, Hyperwave, protokol yield di ekosistem Hyperliquid, mengumumkan lewat akun X resminya bahwa biaya operasional dan ketidakpastian regulasi membuat protokol tidak layak dilanjutkan. Operasional berakhir 16 Desember 2026. Semua vault kini withdrawal-only, GWAVE bisa di-unstake kapan saja, dan setelah penutupan sisa NAV akan dikembalikan ke wallet yang memegang token vault. Sampai penutupan, 100% pendapatan vault dipakai untuk buyback dan burn HWAVE. The Block juga melaporkan penutupan ini. Tim mengingatkan pengguna untuk waspada link phishing."
+  ],
+  "analysis": "Data Glassnode dan K33 adalah data posisi dan aliran dana, bukan ramalan harga. Kombinasi dana segar yang menyusut dan leverage tinggi biasanya membuat pasar lebih rentan terhadap gerakan tajam. Data ECB adalah survei rumah tangga Eropa tahun 2025, bukan kondisi Indonesia. Bagi pengguna Hyperwave, menarik dana sebelum tenggat adalah langkah yang disarankan tim sendiri. Ini interpretasi, bukan saran investasi.",
+  "sources": [
+   {
+    "name": "Glassnode: The Week On-chain Week 45 2026, Running on Empty",
+    "url": "https://research.glassnode.com/the-week-onchain-week-45-2026/",
+    "deep_link": true
+   },
+   {
+    "name": "K33 Research: Ripe for a squeeze (9 Nov 2026)",
+    "url": "https://k33.com/research/articles/ripe-for-a-squeeze",
+    "deep_link": true
+   },
+   {
+    "name": "ECB Economic Bulletin: Who holds stablecoins? New evidence on euro area consumer holdings",
+    "url": "https://www.ecb.europa.eu/press/economic-bulletin/focus/2026/html/ecb.ebbox202607_08~f4ddf0117c.en.html",
+    "deep_link": true
+   },
+   {
+    "name": "ECB di X",
+    "url": "https://x.com/ecb/status/2120510165568909470",
+    "deep_link": true
+   },
+   {
+    "name": "Hyperwave di X: pengumuman penutupan",
+    "url": "https://x.com/Hyperwavefi/status/2120453401549078875",
+    "deep_link": true
+   },
+   {
+    "name": "The Block di X: Hyperwave will cease operations on Dec. 16",
+    "url": "https://x.com/TheBlockCo/status/2120503821596336386",
+    "deep_link": true
+   }
+  ],
+  "images": [
+   "assets/img/photos/dollar.jpg",
+   "assets/img/photos/ecb_frankfurt.jpg"
+  ],
+  "image_alt": "Uang kertas 100 dolar AS",
+  "image_credits": "Foto ilustrasi: uang kertas 100 dolar AS (Revisorweb, domain publik); gedung ECB dan skyline Frankfurt (DXR, CC BY-SA 4.0). Via Wikimedia Commons.",
+  "title_en": "Glassnode: stablecoin supply falls US$14.2 billion in 30 days, K33: BTC futures leverage nears extreme levels; ECB: over a third of euro area crypto holders own stablecoins",
+  "summary_en": "Three research reports paint a picture of a crypto market short on fresh money: stablecoin supply is shrinking at the fastest pace since June 2022 (Glassnode), while Bitcoin futures open interest is at a two-year high (K33). The ECB released new data on who holds stablecoins in the euro area. DeFi protocol Hyperwave also announced it will shut down on 16 December.",
+  "key_points_en": [
+   "Glassnode (11 Nov report, data through 9 Nov): total stablecoin supply fell US$14.2 billion in 30 days, the fastest contraction since June 2022. US spot Bitcoin ETFs saw US$1.6 billion in net outflows over the past 20 sessions, and the Coinbase Premium (30-day average) is at its deepest discount since February.",
+   "K33 Research (9 Nov): BTC perpetual futures open interest at 353,000 BTC, in the 99th percentile of the past two years of data. Over 30 days open interest rose 12% while BTC fell 10%; funding rates averaged 8.4% annualized over the week.",
+   "K33 says market positioning is less directional, so volatility could go either way: long liquidations if price breaks down, or short covering if price recovers. BTC was then around US$73,137, near the March 2024 record of US$73,800.",
+   "ECB (Economic Bulletin, 11 Nov): a household survey in the 11 largest euro area countries shows 13% of consumers owned crypto as of August 2025 (up from 9.8% in November 2024), and 5% held stablecoins, over a third of crypto holders. Among crypto holders, 17% held USDT, 12% USDC and 10% EURC.",
+   "Hyperwave, a yield protocol in the Hyperliquid ecosystem, announced a planned shutdown on 16 December 2026 due to operating costs and regulatory uncertainty. All vaults are now withdrawal-only; this is not a hack."
+  ],
+  "why_en": "Stablecoins are often called the \"cash\" of the crypto market. When their supply shrinks and ETFs see outflows, the money available to push prices higher also shrinks. At the same time, high leverage means price moves can be amplified in both directions, which is risky for traders using borrowed funds.",
+  "body_en": [
+   "Glassnode's weekly report \"The Week On-chain\" of 11 November, titled \"Running on Empty\", highlights capital leaving the market. According to Glassnode, total stablecoin supply fell by US$14.2 billion over the past 30 days, the fastest contraction since June 2022. This means holders are redeeming stablecoins for dollars and taking their money out of the market. Glassnode says that if the 30-day supply change turns back to growth, it would be the first sign of new money coming in.",
+   "Glassnode also noted US spot Bitcoin ETFs saw US$1.6 billion in net outflows over the past 20 sessions (data through 9 November), although this outflow stretch is still shallow compared with earlier ones. The Coinbase Premium, the difference between BTC's price on Coinbase and the global price that is often used as a sign of US buyer interest, has had a negative 30-day average since the September high and is now at its deepest discount since February.",
+   "On the derivatives side, K33 Research in its 9 November weekly note titled \"Ripe for a squeeze\" reported open interest (total open positions) in Bitcoin perpetual futures of 353,000 BTC, in the 99th percentile of observations over the past two years. Over 30 days, open interest rose 12% even as BTC's price fell 10%. Annualized funding rates averaged 8.4% over the past week, indicating continued demand for long positions.",
+   "K33 says current positioning is less directional, so large moves could happen up or down: a breakdown could trigger substantial long liquidations, while a recovery could trigger short covering. When the research was written, BTC was trading around US$73,137, near the March 2024 record of US$73,800, which K33 called a crucial support area. BTC's 30-day correlation with the Nasdaq climbed toward a record of around 0.75.",
+   "Meanwhile, the European Central Bank (ECB) published the analysis \"Who holds stablecoins?\" in its 11 November Economic Bulletin. Based on the Consumer Expectations Survey (August and November 2025) in the 11 largest euro area countries, the share of consumers owning crypto rose from 9.8% (November 2024) to 13% (August 2025). 5% of consumers held stablecoins, over a third of all crypto holders. US dollar stablecoins dominate: among crypto holders, 17% held USDT, 12% USDC and 10% EURC. Close to 10% of stablecoin owners are estimated to hold €10,000 or more. The ECB says the risks are currently limited but could change if adoption broadens, and describes the data as experimental.",
+   "In DeFi, Hyperwave, a yield protocol in the Hyperliquid ecosystem, announced on its official X account that operating costs and regulatory uncertainty have made the protocol unfeasible to continue. Operations end on 16 December 2026. All vaults are now withdrawal-only, GWAVE can be unstaked at any time, and after the closure remaining NAV will be returned to the wallet holding the vault token. Until the shutdown, 100% of vault revenue goes to HWAVE buyback and burn. The Block also reported the closure. The team warned users to beware of phishing links."
+  ],
+  "analysis_en": "The Glassnode and K33 figures are positioning and flow data, not price forecasts. A combination of shrinking fresh money and high leverage usually makes the market more vulnerable to sharp moves. The ECB data are a 2025 survey of European households, not conditions in Indonesia. For Hyperwave users, withdrawing before the deadline is the step the team itself recommends. This is interpretation, not investment advice.",
+  "image_alt_en": "US 100-dollar bill",
+  "image_credits_en": "Illustrative photos: US 100-dollar bill (Revisorweb, public domain); ECB building and Frankfurt skyline (DXR, CC BY-SA 4.0). Via Wikimedia Commons."
+ },
+ {
+  "slug": "okxice-saham-as-versi-token-23-november-pyth-data-nyse-sec-amicus-perpetual-saham-rusia-buka-btc-ritel",
+  "category": "regulasi",
+  "type": "news",
+  "source_queue": [
+   "square-387122378115411",
+   "square-387175360196901",
+   "square-387232514012212"
+  ],
+  "published_at": "2026-11-12T08:43:00+08:00",
+  "title": "Saham AS makin masuk blockchain: OKXICE mulai 23 November, Pyth jadi distributor data NYSE, SEC ikut masuk gugatan perpetual saham; Rusia buka BTC, ETH, USDT untuk ritel 17 November",
+  "summary": "OKXICE, joint venture OKX dan induk NYSE (ICE), akan mulai memperdagangkan saham AS versi token pada 23 November. Pyth Network kini resmi mendistribusikan data real-time NYSE. Di pengadilan, SEC ikut mengajukan amicus brief dalam gugatan soal perpetual futures saham. Sementara itu, Bank Sentral Rusia membuka akses Bitcoin, Ether, dan USDT untuk investor ritel mulai 17 November.",
+  "key_points": [
+   "OKXICE (50% ICE, 50% OKX) akan meluncurkan venue saham tokenisasi pada 23 November (waktu AS) di bawah \"innovation exemption\" SEC. Lebih dari 70 aset dikonfirmasi, termasuk Coinbase, Circle, Strategy, Robinhood, BitGo, Securitize, dan 59 ETF Direxion. Akses awal hanya untuk nasabah OKX Inc. di AS yang memenuhi syarat.",
+   "Token didukung 1:1 oleh saham asli dengan hak dividen, voting, dan corporate action, disimpan di wallet milik pengguna, dan diperdagangkan 24/7 lewat pool Uniswap v4 di X Layer. Menurut CoinDesk, 56 dari 62 perusahaan di daftar awal menolak; total keberatan mencapai 67, termasuk Apple, Microsoft, Nvidia, dan Tesla.",
+   "Pyth Network (11 Nov, sekitar 23.00 WITA) menjadi distributor NYSE BQT, data Level 1 real-time dari lima bursa saham NYSE Group, lewat Pyth Data Marketplace. Klien tetap melisensi data langsung dari NYSE.",
+   "Dalam gugatan Capital Markets Alliance Association v. CFTC di pengadilan federal Manhattan, hakim Lorna G. Schofield (10 Nov) menerima amicus brief SEC serta amicus brief Coinbase, Kalshi, Payward, DRW, Jump Trading, dan Paradigm. Isi brief SEC belum dipublikasikan. Permohonan preliminary injunction masih menunggu putusan.",
+   "Bank Sentral Rusia menyetujui BTC, ETH, dan USDT untuk investor non-kualifikasi mulai 17 November, dengan batas pembelian ₽300.000 per tahun per perantara. Bursa boleh membuka perdagangan crypto terorganisasi mulai 22 November setelah aturan tradingnya disetujui regulator."
+  ],
+  "why_it_matters": "Saham AS yang diperdagangkan 24/7 di blockchain, data bursa resmi yang masuk ke aplikasi crypto, dan perebutan wewenang SEC vs CFTC soal perpetual saham menunjukkan batas antara pasar saham dan pasar crypto makin tipis. Langkah Rusia menambah daftar negara yang membuka akses crypto ritel lewat jalur resmi.",
+  "body": [
+   "OKXICE, perusahaan patungan 50:50 antara Intercontinental Exchange (ICE, induk New York Stock Exchange) dan OKX, mengumumkan venue saham tokenisasinya, OKXICE TSV, akan mulai beroperasi pada 23 November (waktu AS). Menurut CoinDesk, OKXICE menjadi venue kedua yang beroperasi di bawah \"innovation exemption\" SEC, izin pengecualian sementara selama lima tahun yang memungkinkan saham versi token diperdagangkan lewat automated market maker. Lebih dari 70 aset sudah dikonfirmasi, termasuk Coinbase, Circle, Strategy (saham biasa dan preferen), Robinhood, BitGo, Securitize, Better.com, dan 59 ETF Direxion, meski tidak semua tersedia sejak hari pertama.",
+   "Token-token ini didukung 1:1 oleh saham AS asli, dengan hak dividen, voting, dan corporate action. Token disimpan di wallet self-custody milik pengguna, dan OKXICE menyatakan tidak memegang aset maupun private key. Perdagangan berlangsung 24/7 lewat pool likuiditas Uniswap v4 di X Layer, jaringan layer 2 milik OKX, dengan Securitize sebagai penyedia infrastruktur tokenisasi. Akses awal hanya untuk nasabah OKX Inc. berbasis di AS yang lolos verifikasi identitas. Daftar awalnya berbeda jauh dari rencana semula: menurut hitungan CoinDesk, 56 dari 62 perusahaan di daftar awal mengajukan keberatan, dan total keberatan mencapai 67, termasuk Apple, Microsoft, Nvidia, Amazon, Tesla, dan JPMorgan Chase.",
+   "Masih soal saham on-chain, Pyth Network mengumumkan pada 11 November (sekitar 23.00 WITA) bahwa mereka kini menjadi distributor NYSE BQT, produk data Level 1 real-time NYSE untuk saham dan ETF AS, lewat Pyth Data Marketplace. Datanya mencakup harga bid/offer terbaik, transaksi terakhir, harga penutupan, volume gabungan, dan status pasar seperti trading halt dari lima bursa NYSE Group. Ini data top-of-book, bukan seluruh antrean order, dan klien tetap harus melisensi data langsung dari NYSE. \"As financial markets increasingly move onchain, the quality and integrity of the underlying data matter more than ever,\" kata Anthony Zawadzki dari NYSE dalam blog Pyth. Sebelumnya, pada September, Pyth juga menjadi distributor Nasdaq Basic.",
+   "Di ruang sidang, perkara Capital Markets Alliance Association v. CFTC (S.D.N.Y.) makin ramai. Asosiasi industri yang anggotanya termasuk Cboe dan Citadel Securities menggugat CFTC agar persetujuan perpetual futures atas saham AS tunggal di Kalshi, Coinbase Derivatives, dan Bitnomial dibatalkan, dengan argumen produk ini adalah swap berbasis efek yang masuk wewenang SEC. Pada 10 November, hakim Lorna G. Schofield mengabulkan permohonan SEC untuk mengajukan amicus brief, serta amicus brief Coinbase, Kalshi, Payward (induk Kraken), DRW, Jump Trading, dan Paradigm yang mendukung CFTC. Permintaan Coinbase untuk ikut bicara di sidang argumen ditolak. Isi brief SEC belum dipublikasikan, jadi posisi SEC belum bisa dipastikan.",
+   "Sebelumnya, pada 3 November, hakim Valerie Caproni menolak permohonan perintah darurat (TRO) dari penggugat. Dalam putusannya, hakim menilai penggugat kemungkinan besar menang di pokok perkara, tetapi belum bisa membuktikan kerugian yang tidak bisa dipulihkan. Per catatan perkara terakhir, permohonan preliminary injunction masih menunggu putusan dan jadwal sidang argumen belum ditetapkan.",
+   "Dari Rusia, Bank Sentral Rusia pada 6 November menyetujui daftar crypto yang boleh dibeli investor non-kualifikasi (ritel): Bitcoin, Ether, dan USDT. Aturannya berlaku 17 November. Pembelian lewat satu perantara dibatasi maksimal ₽300.000 per tahun, dan semua investor wajib lulus tes serta membaca penjelasan risiko. Dalam ketentuan terpisah yang dipublikasikan 11 November, bank sentral menyatakan bursa boleh memulai perdagangan crypto terorganisasi mulai 22 November, tetapi aturan tradingnya harus disetujui regulator lebih dulu (Interfax)."
+  ],
+  "analysis": "Tokenisasi saham AS kini didorong pemain besar seperti ICE dan NYSE, tetapi banyaknya emiten yang menolak menunjukkan adopsinya masih bertahap. Untuk pengguna di Indonesia, OKXICE belum bisa diakses karena hanya untuk nasabah di AS. Hasil perkara perpetual saham akan menentukan apakah produk seperti ini diatur CFTC atau SEC. Ini interpretasi, bukan saran investasi.",
+  "sources": [
+   {
+    "name": "OKX Learn: OKXICE TSV launch",
+    "url": "https://www.okx.com/en-us/learn/okxice-tsv-launch",
+    "deep_link": true
+   },
+   {
+    "name": "OKXICE: Public Notice 5 Nov 2026 (PDF)",
+    "url": "https://www.okx.com/cdn/assets/okfe/web3-activities/okxicetsv/notices/OKXICE_Tokenized_Securities_Venue_Public_Notice_26.11.05.pdf",
+    "deep_link": true
+   },
+   {
+    "name": "CoinDesk: OKXICE to debut tokenized stock trading this month",
+    "url": "https://www.coindesk.com/business/2026/11/10/okxice-to-debut-tokenized-stock-trading-with-strategy-coinbase-circle-this-month",
+    "deep_link": true
+   },
+   {
+    "name": "OKX di X",
+    "url": "https://x.com/okx/status/2120502060428792047",
+    "deep_link": true
+   },
+   {
+    "name": "Pyth Network: Pyth adds NYSE Data to Pyth Data Marketplace",
+    "url": "https://www.pyth.network/blog/pyth-network-adds-nyse-data-to-pyth-data-marketplace",
+    "deep_link": true
+   },
+   {
+    "name": "Pyth Network di X",
+    "url": "https://x.com/PythNetwork/status/2120532092241297917",
+    "deep_link": true
+   },
+   {
+    "name": "CourtListener: Capital Markets Alliance Association v. CFTC (1:26-cv-09608)",
+    "url": "https://www.courtlistener.com/docket/75062269/capital-markets-alliance-association-v-commodity-futures-trading/",
+    "deep_link": true
+   },
+   {
+    "name": "The Block: Coinbase, Kalshi, Payward back CFTC on perps",
+    "url": "https://www.theblock.co/news/regulation/2026-11-10-coinbase-kalshi-payward-back-cftc-perps-436971",
+    "deep_link": true
+   },
+   {
+    "name": "Bank of Russia: Cryptocurrencies for non-qualified investors (6 Nov 2026)",
+    "url": "https://www.cbr.ru/eng/press/event/?id=32966",
+    "deep_link": true
+   },
+   {
+    "name": "Bank of Russia: Как проводить торги с криптовалютами",
+    "url": "https://www.cbr.ru/press/event/?id=32972",
+    "deep_link": true
+   },
+   {
+    "name": "Interfax: Биржам разрешили запускать торги криптовалютами с 22 ноября",
+    "url": "https://www.interfax.ru/business/1128359",
+    "deep_link": true
+   }
+  ],
+  "images": [
+   "assets/img/photos/nyse.jpg",
+   "assets/img/photos/sec_hq.jpg"
+  ],
+  "image_alt": "Gedung New York Stock Exchange di Wall Street",
+  "image_credits": "Foto: New York Stock Exchange (Arild Vågen, CC BY-SA 4.0); fasad kantor pusat SEC, Washington, D.C. (David/dbking, CC BY 2.0). Via Wikimedia Commons. Foto ilustrasi.",
+  "title_en": "US stocks move further onto blockchain: OKXICE starts 23 November, Pyth becomes NYSE data distributor, SEC joins single-stock perpetuals lawsuit; Russia opens BTC, ETH, USDT to retail on 17 November",
+  "summary_en": "OKXICE, the joint venture of OKX and NYSE parent ICE, will begin trading tokenized US stocks on 23 November. Pyth Network now officially distributes real-time NYSE data. In court, the SEC filed an amicus brief in the lawsuit over single-stock perpetual futures. Meanwhile, the Bank of Russia is opening Bitcoin, Ether and USDT to retail investors from 17 November.",
+  "key_points_en": [
+   "OKXICE (50% ICE, 50% OKX) will launch its tokenized stock venue on 23 November (US time) under the SEC's \"innovation exemption\". More than 70 assets are confirmed, including Coinbase, Circle, Strategy, Robinhood, BitGo, Securitize and 59 Direxion ETFs. Initial access is limited to eligible US-based OKX Inc. customers.",
+   "Tokens are backed 1:1 by real shares with dividend, voting and corporate-action rights, held in users' own wallets, and traded 24/7 via Uniswap v4 pools on X Layer. According to CoinDesk, 56 of the 62 companies on the original list objected; total objections reached 67, including Apple, Microsoft, Nvidia and Tesla.",
+   "Pyth Network (11 Nov, around 23:00 WITA) became a distributor of NYSE BQT, real-time Level 1 data from NYSE Group's five equity exchanges, through the Pyth Data Marketplace. Clients still license the data directly from NYSE.",
+   "In Capital Markets Alliance Association v. CFTC in Manhattan federal court, Judge Lorna G. Schofield (10 Nov) accepted the SEC's amicus brief as well as the amicus brief of Coinbase, Kalshi, Payward, DRW, Jump Trading and Paradigm. The SEC brief's content has not been made public. The preliminary injunction motion is still awaiting a ruling.",
+   "The Bank of Russia approved BTC, ETH and USDT for non-qualified investors from 17 November, with a purchase cap of ₽300,000 per year per intermediary. Exchanges may open organized crypto trading from 22 November once their trading rules are approved by the regulator."
+  ],
+  "why_en": "US stocks trading 24/7 on blockchain, official exchange data flowing into crypto apps, and the SEC vs CFTC jurisdiction fight over single-stock perpetuals show the line between stock markets and crypto markets is getting thinner. Russia's move adds to the list of countries opening retail crypto access through official channels.",
+  "body_en": [
+   "OKXICE, a 50:50 joint venture between Intercontinental Exchange (ICE, parent of the New York Stock Exchange) and OKX, announced its tokenized stock venue, OKXICE TSV, will begin operating on 23 November (US time). According to CoinDesk, OKXICE becomes the second venue to operate under the SEC's \"innovation exemption\", a temporary five-year exemption that allows tokenized stocks to trade through automated market makers. More than 70 assets have been confirmed, including Coinbase, Circle, Strategy (common and preferred shares), Robinhood, BitGo, Securitize, Better.com and 59 Direxion ETFs, although not all will be available from day one.",
+   "These tokens are backed 1:1 by real US shares, with dividend, voting and corporate-action rights. Tokens are held in users' self-custodial wallets, and OKXICE says it holds neither assets nor private keys. Trading runs 24/7 through Uniswap v4 liquidity pools on X Layer, OKX's layer-2 network, with Securitize providing tokenization infrastructure. Initial access is limited to US-based OKX Inc. customers who have passed identity verification. The initial lineup differs greatly from the original plan: by CoinDesk's tally, 56 of the 62 companies on the original list objected, and total objections reached 67, including Apple, Microsoft, Nvidia, Amazon, Tesla and JPMorgan Chase.",
+   "Also on on-chain stocks, Pyth Network announced on 11 November (around 23:00 WITA) that it is now a distributor of NYSE BQT, NYSE's real-time Level 1 data product for US stocks and ETFs, through the Pyth Data Marketplace. The data cover best bid/offer, last trades, closing prices, consolidated volume and market status such as trading halts from NYSE Group's five exchanges. This is top-of-book data, not the full order queue, and clients must still license the data directly from NYSE. \"As financial markets increasingly move onchain, the quality and integrity of the underlying data matter more than ever,\" said NYSE's Anthony Zawadzki in Pyth's blog. Earlier, in September, Pyth also became a distributor of Nasdaq Basic.",
+   "In the courtroom, Capital Markets Alliance Association v. CFTC (S.D.N.Y.) is getting crowded. The industry association, whose members include Cboe and Citadel Securities, sued the CFTC to vacate approvals of perpetual futures on single US stocks at Kalshi, Coinbase Derivatives and Bitnomial, arguing these products are security-based swaps under SEC jurisdiction. On 10 November, Judge Lorna G. Schofield granted the SEC's request to file an amicus brief, as well as the amicus brief of Coinbase, Kalshi, Payward (Kraken's parent), DRW, Jump Trading and Paradigm supporting the CFTC. Coinbase's request to take part in oral argument was denied. The SEC brief's content has not been made public, so the SEC's position cannot yet be confirmed.",
+   "Earlier, on 3 November, Judge Valerie Caproni denied the plaintiff's request for an emergency order (TRO). In the ruling, the judge found the plaintiff likely to succeed on the merits but unable to show irreparable harm. As of the latest docket entries, the preliminary injunction motion is still awaiting a ruling and no oral argument date has been set.",
+   "From Russia, the Bank of Russia on 6 November approved the list of cryptocurrencies that non-qualified (retail) investors may buy: Bitcoin, Ether and USDT. The rule takes effect on 17 November. Purchases through a single intermediary are capped at ₽300,000 per year, and all investors must pass a test and read a risk explanation. In a separate ordinance published on 11 November, the central bank said exchanges may start organized crypto trading from 22 November, but their trading rules must first be approved by the regulator (Interfax)."
+  ],
+  "analysis_en": "Tokenization of US stocks is now driven by big players such as ICE and NYSE, but the many issuers objecting show adoption is still gradual. For users in Indonesia, OKXICE is not accessible because it is only for US customers. The outcome of the single-stock perpetuals case will determine whether such products are regulated by the CFTC or the SEC. This is interpretation, not investment advice.",
+  "image_alt_en": "New York Stock Exchange building on Wall Street",
+  "image_credits_en": "Photos: New York Stock Exchange (Arild Vågen, CC BY-SA 4.0); SEC headquarters facade, Washington, D.C. (David/dbking, CC BY 2.0). Via Wikimedia Commons. Illustrative photos."
+ },
+ {
+  "slug": "ipo-anthropic-order-tutup-semua-saham-bankir-pertimbangkan-valuasi-us1-5-triliun",
+  "category": "teknologi",
+  "type": "news",
+  "source_queue": [
+   "jin10-243137"
+  ],
+  "published_at": "2026-11-12T08:42:00+08:00",
+  "title": "IPO Anthropic diburu investor: order sudah menutup semua saham, bankir pertimbangkan harga di atas US$78 dan valuasi US$1,5 triliun lebih",
+  "summary": "Permintaan investor untuk IPO Anthropic, pembuat Claude, sudah menutup seluruh saham yang ditawarkan sejak roadshow dimulai, menurut Bloomberg News. Financial Times melaporkan bankir Anthropic menimbang menaikkan harga di atas rentang US$70-78 per saham, yang bisa membawa valuasi ke US$1,5 triliun atau lebih. Harga dijadwalkan ditetapkan 18 November dan saham mulai diperdagangkan di Nasdaq 19 November.",
+  "key_points": [
+   "Bloomberg News: IPO Anthropic sudah tertutup penuh oleh order investor untuk semua saham yang tersedia saat penawaran diluncurkan.",
+   "Financial Times (dikutip Bloomberg dan Moneycontrol): bankir yang dipimpin Goldman Sachs dan Morgan Stanley menimbang harga di atas rentang US$70-78, yang bisa mendorong valuasi ke US$1,5 triliun atau lebih.",
+   "Di rentang yang diumumkan 10 November, Anthropic menawarkan 825 juta saham dan bisa meraih hingga US$64,35 miliar, dengan valuasi fully diluted hingga sekitar US$1,405 triliun (CNBC).",
+   "Menurut sumber CNBC, harga ditetapkan 18 November dan perdagangan di Nasdaq (kode ANT) dimulai 19 November (waktu AS). Anthropic menargetkan alokasi ritel sekitar 20%, jauh di atas IPO biasa (5-10%).",
+   "Tiga investor Anthropic kepada FT: perusahaan lebih mengutamakan besarnya dana yang terkumpul dibanding valuasi setinggi mungkin, karena butuh dana besar untuk infrastruktur komputasi."
+  ],
+  "why_it_matters": "IPO Anthropic menjadi ujian besar selera investor terhadap saham AI di tengah suku bunga tinggi. Hasilnya bisa memengaruhi sentimen saham teknologi secara umum, yang belakangan sering bergerak searah dengan Bitcoin.",
+  "body": [
+   "Menurut Bloomberg News, IPO Anthropic PBC sudah tertutup penuh (fully covered) oleh order calon investor untuk semua saham yang tersedia ketika penawaran diluncurkan pada awal pekan ini. CNBC, mengutip sumber yang mengetahui prosesnya, juga melaporkan buku pesanan sudah tertutup di rentang US$70-78 per saham dan permintaan institusi bahkan lebih kuat dibanding IPO SpaceX pada tahap yang sama.",
+   "Financial Times kemudian melaporkan bahwa bankir Anthropic, dipimpin Goldman Sachs dan Morgan Stanley, menimbang menaikkan harga di atas rentang yang diumumkan dalam filing Selasa (10/11). Langkah ini bisa membawa valuasi Anthropic ke US$1,5 triliun atau lebih. Menurut Moneycontrol yang mengutip FT, tiga investor Anthropic mengatakan perusahaan lebih memprioritaskan jumlah dana yang dikumpulkan dibanding valuasi tertinggi, karena butuh dana besar untuk infrastruktur komputasi.",
+   "Berdasarkan filing terbaru, Anthropic menawarkan 825 juta saham di harga US$70-78. Di batas atas, perusahaan bisa meraih hingga US$64,35 miliar dengan valuasi fully diluted hingga sekitar US$1,405 triliun, naik dari valuasi US$965 miliar pada putaran pendanaan Mei. Anthropic juga punya kesepakatan penempatan privat US$26 miliar dengan AMD, Broadcom, Google, Micron, Microsoft, Nvidia, dan TSMC di harga IPO (CNBC).",
+   "Menurut sumber CNBC, harga dijadwalkan ditetapkan pada 18 November dan saham mulai diperdagangkan di Nasdaq dengan kode \"ANT\" pada 19 November waktu AS. Anthropic menargetkan alokasi untuk investor ritel sekitar 20%, lebih tinggi dari IPO biasa yang umumnya 5-10%. Dalam prospektusnya, para pendiri Anthropic menulis tujuan mereka adalah \"bring forth an age of miracles\" (menghadirkan era keajaiban)."
+  ],
+  "analysis": "Permintaan yang kuat menunjukkan minat investor terhadap AI masih besar, tetapi harga final belum ditetapkan dan laporan soal kenaikan harga berasal dari sumber anonim. Kalau harga final memang dinaikkan, sentimen \"AI trade\" bisa ikut terdorong, termasuk ke token bertema AI di crypto. Ini interpretasi, bukan rekomendasi saham atau token.",
+  "sources": [
+   {
+    "name": "Bloomberg Law (Bloomberg News): Anthropic Bankers Look to Increase IPO Valuation, FT Reports",
+    "url": "https://news.bloomberglaw.com/tech-and-telecom-law/anthropic-targets-64-4-billion-ipo-nearing-spacexs-record",
+    "deep_link": true
+   },
+   {
+    "name": "Investing.com: Anthropic IPO said to draw orders to cover available shares (Bloomberg)",
+    "url": "https://www.investing.com/news/stock-market-news/anthropic-ipo-said-to-draw-orders-to-cover-available-shares--bloomberg-432SI-5016058",
+    "deep_link": true
+   },
+   {
+    "name": "Financial Times: Anthropic bankers prepare to increase IPO valuation to $1.5tn or more",
+    "url": "https://www.ft.com/content/68bcba57-0575-44ee-80f4-2e5ea23a431e",
+    "deep_link": true
+   },
+   {
+    "name": "Moneycontrol: Bankers eye $1.5 trillion valuation after strong investor demand",
+    "url": "https://www.moneycontrol.com/news/business/ipo/anthropic-ipo-gets-bigger-bankers-eye-1-5-trillion-valuation-after-strong-investor-demand-14076731.html",
+    "deep_link": true
+   },
+   {
+    "name": "CNBC: Anthropic sets IPO price range of $70 to $78",
+    "url": "https://www.cnbc.com/2026/11/10/anthropic-sets-price-range-of-70-to-78-in-upcoming-ipo.html",
+    "deep_link": true
+   }
+  ],
+  "images": [
+   "assets/img/photos/amodei.jpg",
+   "assets/img/photos/nasdaq.jpg"
+  ],
+  "image_alt": "CEO Anthropic Dario Amodei berbicara di panggung",
+  "image_credits": "Foto: Dario Amodei di TechCrunch Disrupt 2023 (TechCrunch, CC BY 2.0); Nasdaq MarketSite, New York (Ajay Suresh, CC BY 2.0). Via Wikimedia Commons.",
+  "title_en": "Investors chase Anthropic IPO: orders already cover all shares, bankers weigh pricing above US$78 and a valuation of US$1.5 trillion or more",
+  "summary_en": "Investor demand for the IPO of Anthropic, maker of Claude, has covered all shares on offer since the roadshow began, according to Bloomberg News. The Financial Times reported Anthropic's bankers are weighing raising the price above the US$70-78 per share range, which could take the valuation to US$1.5 trillion or more. Pricing is scheduled for 18 November and shares are set to begin trading on Nasdaq on 19 November.",
+  "key_points_en": [
+   "Bloomberg News: Anthropic's IPO was fully covered with investor orders for all available shares when the offering launched.",
+   "Financial Times (cited by Bloomberg and Moneycontrol): bankers led by Goldman Sachs and Morgan Stanley are weighing a price above the US$70-78 range, which could push the valuation to US$1.5 trillion or more.",
+   "At the range announced on 10 November, Anthropic is offering 825 million shares and could raise up to US$64.35 billion, at a fully diluted valuation of up to about US$1.405 trillion (CNBC).",
+   "According to CNBC's sources, pricing is on 18 November and Nasdaq trading (ticker ANT) begins on 19 November (US time). Anthropic is targeting a retail allocation of about 20%, far above a typical IPO (5-10%).",
+   "Three Anthropic investors to the FT: the company prioritizes the amount of capital raised over the highest possible valuation, because it needs large funds for computing infrastructure."
+  ],
+  "why_en": "Anthropic's IPO is a major test of investor appetite for AI stocks amid high interest rates. The result could affect sentiment in tech stocks in general, which lately have often moved in the same direction as Bitcoin.",
+  "body_en": [
+   "According to Bloomberg News, Anthropic PBC's IPO was fully covered with orders from prospective investors for all available shares when the offering launched earlier this week. CNBC, citing people familiar with the process, also reported the book was already covered at the US$70-78 per share range and that institutional demand was even stronger than for SpaceX's IPO at the same stage.",
+   "The Financial Times then reported that Anthropic's bankers, led by Goldman Sachs and Morgan Stanley, are weighing raising the price above the range announced in Tuesday's (10/11) filing. This could take Anthropic's valuation to US$1.5 trillion or more. According to Moneycontrol citing the FT, three Anthropic investors said the company is prioritizing the amount of capital raised over the highest valuation, because it needs large funds for computing infrastructure.",
+   "Based on the latest filing, Anthropic is offering 825 million shares at US$70-78. At the top end, the company could raise up to US$64.35 billion at a fully diluted valuation of up to about US$1.405 trillion, up from the US$965 billion valuation in its May funding round. Anthropic also has a US$26 billion private placement agreement with AMD, Broadcom, Google, Micron, Microsoft, Nvidia and TSMC at the IPO price (CNBC).",
+   "According to CNBC's sources, pricing is scheduled for 18 November and shares will begin trading on Nasdaq under the ticker \"ANT\" on 19 November US time. Anthropic is targeting an allocation for retail investors of about 20%, higher than a typical IPO's 5-10%. In the prospectus, Anthropic's founders wrote that their aim is to \"bring forth an age of miracles\"."
+  ],
+  "analysis_en": "Strong demand shows investor interest in AI is still large, but the final price has not been set and the reports of a price increase come from anonymous sources. If the final price is indeed raised, \"AI trade\" sentiment could get a boost, including for AI-themed tokens in crypto. This is interpretation, not a stock or token recommendation.",
+  "image_alt_en": "Anthropic CEO Dario Amodei speaking on stage",
+  "image_credits_en": "Photos: Dario Amodei at TechCrunch Disrupt 2023 (TechCrunch, CC BY 2.0); Nasdaq MarketSite, New York (Ajay Suresh, CC BY 2.0). Via Wikimedia Commons."
+ },
+ {
+  "slug": "msci-depak-brpt-brms-7-saham-ri-keluar-small-cap-dolar-menguat-euro-yen-160-emas-di-bawah-us4000",
+  "category": "etf-makro",
+  "type": "news",
+  "source_queue": [
+   "jin10-243140"
+  ],
+  "published_at": "2026-11-12T08:41:00+08:00",
+  "title": "MSCI keluarkan BRPT dan BRMS dari indeks global, 7 saham RI didepak dari Small Cap; dolar AS menguat, yen dekati 160, emas di bawah US$4.000",
+  "summary": "Hasil review MSCI November 2026 yang dirilis Kamis pagi WITA mengeluarkan Barito Pacific (BRPT) dan Bumi Resources Minerals (BRMS) dari MSCI Indonesia Index, tanpa ada saham RI yang ditambahkan. Di pasar global, dolar AS menguat tajam setelah data inflasi AS yang panas, menekan euro, yen, dan emas.",
+  "key_points": [
+   "Daftar resmi MSCI Global Standard Indexes (11 Nov) mencatat dua deletion di MSCI Indonesia Index: Barito Pacific (BRPT) dan Bumi Resources Minerals (BRMS). Tidak ada saham Indonesia yang ditambahkan.",
+   "Menurut CNBC Indonesia dan Katadata, BRMS pindah ke MSCI Indonesia Small Cap Index, sementara tujuh saham dikeluarkan dari Small Cap: AVIA, CTRA, MTEL, EMTK, JSMR, RAJA, dan WIFI.",
+   "Perubahan berlaku setelah penutupan perdagangan 30 November 2026 dan efektif 1 Desember. Review MSCI berikutnya dijadwalkan diumumkan 9 Februari 2027 (CNBC Indonesia).",
+   "Reuters (11 Nov): indeks dolar AS naik 0,68% ke 102,90, mendekati level tertinggi tahun ini. Euro turun 0,65% ke sekitar US$1,11, terendah sejak Mei 2025, dan dolar naik ke 159,84 yen. Peluang kenaikan suku bunga Fed 25 bps pada Desember naik ke 87% (CME FedWatch).",
+   "Emas spot turun ke sekitar US$3.987 per ons, di bawah US$4.000 (Kitco). Menurut Reuters, Bitcoin saat itu naik 0,93% ke US$74.460."
+  ],
+  "why_it_matters": "Keluarnya saham dari indeks MSCI biasanya memicu penjualan oleh dana pasif asing, yang bisa memengaruhi aliran dana dan rupiah. Dolar yang menguat karena ekspektasi kenaikan suku bunga Fed juga cenderung menekan mata uang negara berkembang dan aset berisiko, termasuk crypto.",
+  "body": [
+   "MSCI mengumumkan hasil review indeks November 2026 pada Rabu (11/11) waktu setempat, atau Kamis pagi (12/11) waktu Indonesia. Dalam daftar resmi MSCI Global Standard Indexes, MSCI Indonesia Index mencatat nol penambahan dan dua penghapusan: PT Barito Pacific Tbk (BRPT) dan PT Bumi Resources Minerals Tbk (BRMS). Daftar tersebut menggunakan data harga hingga 20 Oktober 2026, dan MSCI menyatakan hasilnya masih bisa diperbarui jika ada aksi korporasi atau penyesuaian lain sebelum tanggal efektif.",
+   "Menurut CNBC Indonesia dan Katadata, BRMS tidak sepenuhnya keluar dari keluarga indeks MSCI karena masuk ke MSCI Indonesia Small Cap Index, sedangkan BRPT tidak tercatat masuk Small Cap. Di kategori Small Cap, tujuh saham dikeluarkan: PT Avia Avian Tbk (AVIA), PT Ciputra Development Tbk (CTRA), PT Dayamitra Telekomunikasi Tbk (MTEL), PT Elang Mahkota Teknologi Tbk (EMTK), PT Jasa Marga (Persero) Tbk (JSMR), PT Rukun Raharja Tbk (RAJA), dan PT Solusi Sinergi Digital Tbk (WIFI). Tidak ada perubahan di MSCI Micro Cap Indexes untuk saham Indonesia.",
+   "Seluruh perubahan dilakukan setelah penutupan perdagangan 30 November 2026 dan berlaku efektif 1 Desember 2026. CNBC Indonesia mencatat review MSCI berikutnya dijadwalkan diumumkan 9 Februari 2027, dengan tanggal efektif 1 Maret 2027.",
+   "Di pasar global, dolar AS menguat tajam. Menurut Reuters, indeks dolar naik 0,68% ke 102,90 pada Rabu. Menurut FXStreet, level tertinggi tahun ini adalah 102,94 yang dicapai pada Oktober. Euro turun 0,65% ke sekitar US$1,11, terendah sejak Mei 2025, sementara dolar naik 0,69% ke 159,84 yen, terkuat dalam lebih dari dua bulan dan mendekati level psikologis 160. Pemicunya adalah inflasi AS Oktober yang lebih tinggi dari perkiraan dan komentar hawkish pejabat Fed. Menurut CME FedWatch yang dikutip Reuters, peluang kenaikan suku bunga 25 bps pada Desember naik ke 87% dari sekitar 70% sebulan lalu.",
+   "Emas ikut tertekan. Kitco melaporkan harga emas spot turun lebih dari 1% ke sekitar US$3.987 per ons, menembus ke bawah level US$4.000. Dolar yang lebih kuat membuat emas lebih mahal bagi pembeli di luar AS, dan suku bunga tinggi mengurangi daya tarik aset yang tidak memberi imbal hasil. Di sisi crypto, Reuters mencatat Bitcoin naik 0,93% ke US$74.460 dan Ether naik 1,19% ke US$2.079 pada saat laporan itu ditulis."
+  ],
+  "analysis": "Pasar sudah lama mengantisipasi keluarnya BRPT dan BRMS, jadi yang perlu dipantau adalah tekanan jual menjelang 30 November dan arah dana asing setelahnya. Dolar yang kuat biasanya menjadi tekanan bagi rupiah, dan bagi pengguna exchange crypto lokal, kurs rupiah ikut menentukan harga crypto dalam rupiah. Ini interpretasi, bukan saran investasi.",
+  "sources": [
+   {
+    "name": "MSCI: Global Standard Indexes, hasil review November 2026 (PDF)",
+    "url": "https://www.msci.com/eqb/gimi/stdindex/MSCI_Nov26_STPublicList.pdf",
+    "deep_link": true
+   },
+   {
+    "name": "CNBC Indonesia: MSCI Keluarkan BRPT & BRMS, 7 Saham Ikut Tersingkir",
+    "url": "https://www.cnbcindonesia.com/market/20261112054523-17-784463/msci-keluarkan-brpt-brms-7-saham-ikut-tersingkir",
+    "deep_link": true
+   },
+   {
+    "name": "Katadata: MSCI Keluarkan BRPT dan BRMS dari Indeks Global, Depak 7 Saham dari Small Cap",
+    "url": "https://katadata.co.id/finansial/bursa/6af4ed8e37df4/msci-keluarkan-brpt-dan-brms-dari-indeks-global-depak-7-saham-dari-small-cap",
+    "deep_link": true
+   },
+   {
+    "name": "Kompas: Rebalancing MSCI November, BRPT dan BRMS Ditendang",
+    "url": "https://money.kompas.com/read/2026/11/12/063359726/rebalancing-msci-november-brpt-dan-brms-ditendang-dari-global-standard-indexes",
+    "deep_link": true
+   },
+   {
+    "name": "Reuters via Euronext: Dollar climbs as traders raise December Fed hike bets",
+    "url": "https://live.euronext.com/en/financial-news/dollar-gains-hot-inflation-hawkish-fed-talk-lift-rate-hike-bets",
+    "deep_link": true
+   },
+   {
+    "name": "FXStreet: Euro falls to two-week low",
+    "url": "https://www.fxstreet.com/news/euro-falls-to-two-week-low-amid-expectations-of-aggressive-fed-rate-hikes-202611111348",
+    "deep_link": true
+   },
+   {
+    "name": "Kitco: Gold prices fall below $4,000",
+    "url": "https://www.kitco.com/news/article/2026-11-11/gold-prices-fall-below-4000-analysts-warn-further-losses-toward-3900",
+    "deep_link": true
+   }
+  ],
+  "images": [
+   "assets/img/photos/idx_gedung.jpg",
+   "assets/img/photos/goldbars.jpg"
+  ],
+  "image_alt": "Gedung Bursa Efek Indonesia di Jakarta",
+  "image_credits": "Foto: Gedung Bursa Efek Indonesia, Jakarta (Bursa Efek Indonesia, CC BY-SA 4.0); batangan emas (Stevebidmead, CC0). Via Wikimedia Commons. Foto ilustrasi.",
+  "title_en": "MSCI removes BRPT and BRMS from its global index, 7 Indonesian stocks dropped from Small Cap; US dollar strengthens, yen nears 160, gold below US$4,000",
+  "summary_en": "MSCI's November 2026 review, released Thursday morning WITA, removes Barito Pacific (BRPT) and Bumi Resources Minerals (BRMS) from the MSCI Indonesia Index, with no Indonesian stocks added. In global markets, the US dollar strengthened sharply after hot US inflation data, pressuring the euro, yen and gold.",
+  "key_points_en": [
+   "MSCI's official Global Standard Indexes list (11 Nov) shows two deletions from the MSCI Indonesia Index: Barito Pacific (BRPT) and Bumi Resources Minerals (BRMS). No Indonesian stocks were added.",
+   "According to CNBC Indonesia and Katadata, BRMS moves to the MSCI Indonesia Small Cap Index, while seven stocks are removed from Small Cap: AVIA, CTRA, MTEL, EMTK, JSMR, RAJA and WIFI.",
+   "Changes take effect after the close of trading on 30 November 2026 and are effective 1 December. MSCI's next review is scheduled to be announced on 9 February 2027 (CNBC Indonesia).",
+   "Reuters (11 Nov): the US dollar index rose 0.68% to 102.90, close to its high for the year. The euro fell 0.65% to about US$1.11, its lowest since May 2025, and the dollar rose to 159.84 yen. The probability of a 25 bp Fed rate hike in December rose to 87% (CME FedWatch).",
+   "Spot gold fell to about US$3,987 per ounce, below US$4,000 (Kitco). According to Reuters, Bitcoin was then up 0.93% at US$74,460."
+  ],
+  "why_en": "Removal of stocks from MSCI indexes usually triggers selling by foreign passive funds, which can affect capital flows and the rupiah. A dollar strengthening on expectations of Fed rate hikes also tends to pressure emerging market currencies and risk assets, including crypto.",
+  "body_en": [
+   "MSCI announced its November 2026 index review results on Wednesday (11/11) local time, or Thursday morning (12/11) Indonesian time. In MSCI's official Global Standard Indexes list, the MSCI Indonesia Index shows zero additions and two deletions: PT Barito Pacific Tbk (BRPT) and PT Bumi Resources Minerals Tbk (BRMS). The list uses price data up to 20 October 2026, and MSCI says results may still be updated for corporate events or other adjustments before the effective date.",
+   "According to CNBC Indonesia and Katadata, BRMS does not leave the MSCI index family entirely, as it enters the MSCI Indonesia Small Cap Index, while BRPT is not listed as joining Small Cap. In the Small Cap category, seven stocks were removed: PT Avia Avian Tbk (AVIA), PT Ciputra Development Tbk (CTRA), PT Dayamitra Telekomunikasi Tbk (MTEL), PT Elang Mahkota Teknologi Tbk (EMTK), PT Jasa Marga (Persero) Tbk (JSMR), PT Rukun Raharja Tbk (RAJA) and PT Solusi Sinergi Digital Tbk (WIFI). There are no changes in the MSCI Micro Cap Indexes for Indonesian stocks.",
+   "All changes will be made after the close of trading on 30 November 2026 and take effect on 1 December 2026. CNBC Indonesia noted MSCI's next review is scheduled to be announced on 9 February 2027, effective 1 March 2027.",
+   "In global markets, the US dollar strengthened sharply. According to Reuters, the dollar index rose 0.68% to 102.90 on Wednesday. According to FXStreet, the year-to-date high is 102.94, reached in October. The euro fell 0.65% to about US$1.11, its lowest since May 2025, while the dollar rose 0.69% to 159.84 yen, its strongest in over two months and close to the psychological 160 level. The trigger was higher-than-expected US October inflation and hawkish comments from Fed officials. According to CME FedWatch as cited by Reuters, the probability of a 25 bp rate hike in December rose to 87% from about 70% a month ago.",
+   "Gold was also pressured. Kitco reported spot gold fell more than 1% to about US$3,987 per ounce, breaking below the US$4,000 level. A stronger dollar makes gold more expensive for buyers outside the US, and high interest rates reduce the appeal of non-yielding assets. On the crypto side, Reuters noted Bitcoin rose 0.93% to US$74,460 and Ether rose 1.19% to US$2,079 at the time of its report."
+  ],
+  "analysis_en": "The market had long anticipated the removal of BRPT and BRMS, so what to watch is selling pressure ahead of 30 November and the direction of foreign funds afterwards. A strong dollar usually pressures the rupiah, and for users of local crypto exchanges, the rupiah exchange rate also determines crypto prices in rupiah. This is interpretation, not investment advice.",
+  "image_alt_en": "Indonesia Stock Exchange building in Jakarta",
+  "image_credits_en": "Photos: Indonesia Stock Exchange building, Jakarta (Indonesia Stock Exchange, CC BY-SA 4.0); gold bars (Stevebidmead, CC0). Via Wikimedia Commons. Illustrative photos."
  }
 ]
